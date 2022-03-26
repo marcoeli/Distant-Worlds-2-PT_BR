@@ -1,5 +1,5 @@
 
-# Tradução para Português do jogo Distante-Worlds 2
+# Tradução para Português do jogo Distant Worlds 2
 
 ATENÇÃO: Esta não é uma tradução completa e certamente tem coisas erradas.
 Estou traduzindo aos poucos no tempo que eu tive acesso ao jogo, e ainda estou trabalhando em alguns outros arquivos de tradução.
