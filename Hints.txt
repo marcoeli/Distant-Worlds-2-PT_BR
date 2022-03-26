@@ -1,0 +1,18 @@
+﻿Atribua qualquer item selecionado para as Hotkeys 0-9. Use Shift-(Número) para atribuir o item atualmente selecionado para a tecla de atalho. Pressione a tecla de atalho uma vez para selecionar o item, pressione novamente para mover a vista para o item
+Passeie por todas as suas Colônias no Painel de Seleção usando a tecla C. Volte usando a tecla Shift-C
+Percorra todas as suas frotas no Painel de Seleção usando a tecla F. Volte usando a tecla Shift-F
+Percorra todos os seus Pátios de Construção no Painel de Seleção usando a Tecla Y. Volte usando a tecla Shift-Y
+Passeie por todos os seus navios de construção no Painel de Seleção usando a tecla U. Volte usando a tecla Shift-U
+Percorra todos os seus navios de Exploração no Painel de Seleção usando a tecla X. Volte atrás usando a tecla Shift-X
+Passeie por todos os seus navios militares no Painel de Seleção usando a tecla M. Volte utilizando a tecla Shift-M
+Você pode mudar a forma como o clique do mouse funciona na tela de configurações do jogo (/ tecla). Escolha entre mover a vista (padrão) ou selecionar navios
+Você pode mudar como a rotação da câmera do mouse funciona na tela Configurações do jogo (/ tecla). Escolha entre o botão do meio do mouse (padrão) ou o botão direito do mouse
+Você pode habilitar ou desabilitar o painel de tela na tela de configurações do jogo (/ key)
+Para selecionar os navios de várias seleções, mantenha a tecla Ctrl pressionada enquanto clica neles ou arrasta-os para selecioná-los. Você também pode selecionar navios de qualquer lista usando Ctrl- e Shift-select (por exemplo, Lista de Navios Militares).
+Ampliar rapidamente para qualquer sistema estelar explorado a partir da vista da galáxia, clicando duas vezes na estrela
+Com um navio ou frota selecionados, mantenha pressionado o botão direito do mouse para obter uma lista completa das missões disponíveis no local do mouse
+Para aproximar rapidamente o item selecionado, clique duas vezes na área do cabeçalho do Painel de Seleção, ou pressione a tecla Backspace
+Você pode alternar as configurações de automação para o navio selecionado usando a tecla =
+Navegue para trás e para frente no histórico do Painel de Seleção usando as setas esquerda e direita
+
+
