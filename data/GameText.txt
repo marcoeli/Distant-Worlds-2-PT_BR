@@ -40,18 +40,27 @@ Bomber		;Bombardeiro
 
 ShipMission Description Undefined		;Sem missão
 ShipMission Description Attack		;Ataque {0}
+ShipMission Description Attack Prepare		;Preparar e atacar {0}
+ShipMission Description Attack Prepare Waypoint		;Ataque {0} (ponto de passagem em {1})
+ShipMission Description Attack Prepare Refuel		;Ataque {0} (reabasteça em {1})
 ShipMission Description Blockade		;Bloqueio {0}
-ShipMission Description Bombard		;Bombardeiro {0}
+ShipMission Description Bombard		;Bombardear {0}
+ShipMission Description Bombard Prepare		;Preparar e Bombardear {0}
+ShipMission Description Bombard Prepare Waypoint		;Bombardear {0} (ponto de passagem em {1})
+ShipMission Description Bombard Prepare Refuel		;Bombardear {0} (reabastecer em {1})
 ShipMission Description Build		;Construir {0} em {1}
 ShipMission Description BuildRepair		;Construir {0}
 ShipMission Description BuildRepair Detailed		;Construção completa de {0} no sistema {1}.
 ShipMission Description Build Coordinates		;Construir {0} nestas coordenadas
 ShipMission Description Capture		;Captura {0}
-ShipMission Description Colonize		;Colonizar {0}
-ShipMission Description Escape Target		;Fugir de {0}
+ShipMission Description Capture Prepare		;Preparar e Capturar {0}
+ShipMission Description Capture Prepare Waypoint		;Captura {0} (ponto de passagem em {1})
+ShipMission Description Capture Prepare Refuel		;Captura {0} (reabastecer em {1})
+ShipMission Description Colonize		;Colonize {0}
+ShipMission Description Escape Target		;Fuga de {0}
 ShipMission Description Escape Destination		;Fugir para {0}
 ShipMission Description Escape		;Fuga
-ShipMission Description Escort		;Escolta {0}
+ShipMission Description Escort		;Escolte {0}
 ShipMission Description Explore		;Explore {0}
 ShipMission Description ExploreSystem		;Explore {0} sistema ({1})
 ShipMission Description ExploreSurvey		;Pesquisa {0}
@@ -69,7 +78,10 @@ ShipMission Description Move Coordinates		;Mover para {0}, {1}
 ShipMission Description Patrol		;Patrulhas {0}
 ShipMission Description Pickup		;Pegar {0}
 ShipMission Description Raid		;Assalto {0}
-ShipMission Description Refuel		;Abastecer em {0}
+ShipMission Description Raid Prepare		;Preparar e Assaltar0}
+ShipMission Description Raid Prepare Waypoint		;Assalto {0} (ponto de passagem em {1})
+ShipMission Description Raid Prepare Refuel		;Assalto {0} (reabastecer em {1})
+ShipMission Description Refuel		;Refuel at {0}
 ShipMission Description Repair		;Reparo em {0}
 ShipMission Description Retire Target		;Aposente-se em {0}
 ShipMission Description Retire		;Se aposentar
