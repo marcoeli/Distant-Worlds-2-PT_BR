@@ -908,7 +908,7 @@ Devemos continuar construindo mais novas estações de mineração, especialment
     <TriggerActions>
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
-        <MessageTitle>Estação de Pesquisa Construída/MessageTitle>
+        <MessageTitle>Estação de Pesquisa Construída</MessageTitle>
         <Description>A construção de uma estação de pesquisa dá um enorme impulso aos nossos esforços de pesquisa, permitindo-nos alcançar avanços tecnológicos mais rapidamente.
         
 O estacionamento de cientistas adequados em {0} irá melhorar ainda mais nossa pesquisa.</Description>
