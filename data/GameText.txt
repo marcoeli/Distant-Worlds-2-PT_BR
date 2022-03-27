@@ -628,7 +628,7 @@ No buildable facilities		;Sem instalações edificáveis
 Another empire has already built a base here		;Outro império já construiu uma base aqui
 Already have a base of this type here		;Já tem uma base desse tipo aqui
 Location is in another empires territory		;A localização é em outro território de impérios
-No scenery bonus here		;Nenhum bônus de cenário aqui
+No scenery bonus here		;Nenhum bônus de paisagem aqui
 No research bonuses here		;Não há bônus de pesquisa aqui
 Construction Ship already building here		;Navio de construção '{0}' já construindo {1} aqui
 Colony Ship already colonizing here		;Navio de colônia '{0}' já colonizando aqui
@@ -942,7 +942,7 @@ BonusType RecruitedTroopStrength SpecialForces		;Forças Especiais Recrutadas
 BonusType RecruitedTroopStrength PlanetaryDefense		;Força de Defesa Planetária Recrutada
 BonusType ColonyDevelopment		;Desenvolvimento da Colônia
 BonusType ColonyDefense		;Defesa da colônia
-BonusType Scenery		;Cenário
+BonusType Scenery		;Paisagem
 BonusType RaidIncome		;Renda de incursões
 BonusType ScanEvasion		;Evasão de varredura
 BonusType ScanFocusing		;Focagem de digitalização
@@ -4038,7 +4038,7 @@ Private economy expense		;Despesa da economia privada
 Send SHIP to MISSION		;Envie {0} para {1}
 PLANET has the following resources and abundances		;{0} tem os seguintes recursos e abundâncias
 PLANET has the following research bonuses		;{0} tem os seguintes bônus de pesquisa
-PLANET has the following scenery bonuses		;{0} tem os seguintes bônus de cenário
+PLANET has the following scenery bonuses		;{0} tem os seguintes bônus de paisagem
 
 Independent Colonization Minimum Success		;Sucesso Mínimo da Colonização Independente
 Incoming for repair or retrofit		;Entrada para reparo ou retrofit
