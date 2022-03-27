@@ -12,3 +12,8 @@ Após o Download copie os arquivos .xml e .txt para a pasta "data" do jogo Dista
 ![tela 4](/img/captura_4.png "tela 4").
 ![tela 5](/img/captura_5.png "tela 5").
 ![tela 6](/img/captura_6.png "tela 6").
+![tela 7](/img/captura_7.png "tela 7").
+![tela 8](/img/captura_8.png "tela 8").
+![tela 9](/img/captura_9.png "tela 9").
+![tela 10](/img/captura_10.png "tela 10").
+![tela 11](/img/captura_11.png "tela 11").
