@@ -1551,7 +1551,7 @@ IncomeType Discoveries Explanation		;Dinheiro descoberto em ruínas antigas e na
 IncomeType TradeBonuses Explanation		;Renda de bônus do volume total de comércio com outros impérios
 IncomeType PrivateColonyRevenue Explanation		;Renda privada de suas colônias. Esta renda de colônia privada é tributada para dar renda de imposto de colônia ao seu império
 
-ExpenseType ColonyGrowthFunding		;Crescimento da Colônia
+ExpenseType ColonyGrowthFunding		;Expansão Colônia
 ExpenseType Research		;Pesquisa
 ExpenseType ShipMaintenance		;Manutenção de navios e bases
 ExpenseType ShipMaintenance Short		;Manutenção do Navio
