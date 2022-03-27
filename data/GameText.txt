@@ -716,18 +716,18 @@ HullRepair		;Reparo do casco
 DockingBayShipCount		;Compartimentos
 DockingBayThroughput		;Taxa de transferência
 EnergyCollectionRate		;Taxa de Coleta de Energia
-EnergyFuelProductionRate		;Taxa de Produção de Combustível
+EnergyFuelProductionRate		;Taxa Produção Combustível
 EngineMainCruiseThrust		;Impulso de cruzeiro
-EngineMainCruiseThrustEnergyUsage		;Uso de energia de cruzeiro
+EngineMainCruiseThrustEnergyUsage		;Uso energia de cruzeiro
 EngineMainMaximumThrust		;Impulso Máximo
 EngineMainMaximumThrustEnergyUsage		;Uso máximo de energia
 EngineVectoringEnergyUsage		;Vetorizando o uso de energia
 EngineVectoringThrust		;Impulso de vetorização
 ExtractionRate		;Taxa de mineração
-ExtractionRangeAsteroid		;Alcance de mineração para asteróides
-RemoteFuelTransferRate		;Taxa de Transferência de Combustível
-RemoteFuelTransferRange		;Faixa de Transferência de Combustível
-FighterBayBuildRate		;Taxa de construção do lutador
+ExtractionRangeAsteroid		;Alcance mineração asteróides
+RemoteFuelTransferRate		;Taxa Transf.Combustível
+RemoteFuelTransferRange		;Faixa Transf.Combustível
+FighterBayBuildRate		;Taxa Construção Caça
 FighterBayCapacity		;Capacidade de caça
 FighterBayRepairRate		;Taxa de reparo do caça
 FuelStorageCapacity		;Capacidade de combustível
@@ -735,7 +735,7 @@ HyperDenyEnergyUsage		;Uso de energia HyperDeny
 HyperDenyRange		; Alcance HyperDeny
 HyperDenyStrength		;Força HyperDeny
 HyperDriveBlockingInsulation		;Isolamento Hyperblocking
-HyperDriveEnergyUsage		;Uso da energia do HyperDrive
+HyperDriveEnergyUsage		;Uso energia HyperDrive
 HyperDriveJumpInitiationTime		;Tempo de início do salto
 HyperDriveJumpRange		;Alcance de salto
 HyperDriveJumpAccuracy		;Precisão de salto
@@ -765,23 +765,23 @@ ScannerJumpTrackingChance		;Rastreamento de saltos
 ScannerLongRange		;Alcance da varredura
 ScannerLongRangePower		;Poder de varredura
 ScannerRoleMaskingPower		;Poder de mascaramento de funções
-ScannerTracePower		;Trace Scan Power
-ScannerTraceRange		;Trace Scan Range
+ScannerTracePower		;Poder Trace Scan
+ScannerTraceRange		;Alcance Trace Scan
 ShieldPenetrationChance		;Penetração do escudo
 ShieldPenetrationRatio		;Razão Penetração Escudo
-ShieldRechargeRate		;Taxa de Recarga de Escudo
+ShieldRechargeRate		;Taxa Recarga de Escudo
 ShieldResistance		;Resistência do escudo
 ShieldStrength		;Resistência do escudo
-StaticEnergyUsed		;Energia estática utilizada
+StaticEnergyUsed		;Energia estática usada
 StealthRating		;Classificação furtiva
 TargetingBonus		;Alvo
 TargetingFleetBonus		;Alvo da frota
-TractorBeamDwellTime		;Tracionador Beam Dwell
+TractorBeamDwellTime		;Suporte feixe trator
 TractorBeamEnergyPerShot		;Energia usada feixe de trator
-TractorBeamFireRate		;Taxa de fogo do feixe de tração
-TractorBeamPower		;Potência do feixe de trator
+TractorBeamFireRate		;Taxa fogo feixe trator
+TractorBeamPower		;Potência feixe trator
 TractorBeamPowerFalloff		;Feixe  Trator Falloff
-TractorBeamRange		;Alcance do feixe trator
+TractorBeamRange		;Alcance feixe trator
 TroopCapacity		;Capacidade das tropas
 WeaponAreaEffectRange		;Alcance da área de explosão
 WeaponAreaBlastWaveSpeed		;Velocidade  área de explosão
@@ -952,7 +952,7 @@ BonusType PlagueContainment		;Contenção de Pragas
 
 
 ComponentCategory AreaShieldRecharge		;Recarga de Escudo de Área
-ComponentCategory Armor		;armaduras
+ComponentCategory Armor		;Armaduras
 ComponentCategory AssaultPod		;Cápsula de assalto
 ComponentCategory CargoBay		;Compartimento de carga
 ComponentCategory Colonization		;Colonização
@@ -1285,10 +1285,10 @@ Reactive Armor Rating		;Classificação de Armadura Reativa
 Reactive Armor Description		;{0} (Casco = {1})
 Distance		;Distância
 Static		;Estático
-Static Energy Usage		;Uso de energia estática
+Static Energy Usage		;Uso energia estática
 Energy Usage		;Uso de energia
-Cruise Speed Energy Usage		;Uso de energia de velocidade de cruzeiro
-Top Speed Energy Usage		;Uso de energia de velocidade máxima
+Cruise Speed Energy Usage		;Uso energia velocidade cruzeiro
+Top Speed Energy Usage		;Uso de energia velocidade máxima
 Engines (Sprint)		;Motores (Sprint)
 Engines (Cruise)		;Motores (cruzeiro)
 Weapons Energy Usage		;Uso energia  armas
