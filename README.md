@@ -6,4 +6,9 @@ Estou traduzindo aos poucos no tempo que eu tive acesso ao jogo, e ainda estou t
 Qualquer ajuda é bem-vinda!
 Sugestões e correções são bem-vindas!
 Após o Download copie os arquivos .xml e .txt para a pasta "data" do jogo Distant World 2
-![alt text for screen readers](/img/captura_1.png "Text to show on mouseover").
+![tela 1](/img/captura_1.png "tela 1").
+![tela 2](/img/captura_2.png "tela 2").
+![tela 3](/img/captura_3.png "tela 3").
+![tela 4](/img/captura_4.png "tela 4").
+![tela 5](/img/captura_5.png "tela 5").
+![tela 6](/img/captura_6.png "tela 6").
