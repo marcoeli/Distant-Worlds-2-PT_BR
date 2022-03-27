@@ -707,8 +707,8 @@ ConstructionRepairSpeed		;Velocidade de reparo
 ConstructionYardCount		;Estaleiros de construção
 CountermeasuresBonus		;Contramedidas
 CountermeasuresFleetBonus		;Contramedidas da Frota
-CrewCapacity		;Cap. da Tripulação
-CrewRequirement		;Req. da Tripulação
+CrewCapacity		;Cap. Tripulação
+CrewRequirement		;Req. Tripulação
 DamageReduction		;Redução de danos
 DamageRepair		;Reparação de danos
 DestroyedRepair		;Chance de Reparo Destruído
