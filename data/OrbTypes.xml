@@ -3,7 +3,7 @@
   <OrbType>
     <OrbTypeId>0</OrbTypeId>
     <Category>Star</Category>
-    <Name>Main Sequence</Name>
+    <Name>Seq. Principal</Name>
     <Description></Description>
     <ImageFilename>Environment/OrbTypes/MainSequence</ImageFilename>
     <LargeImageFilename>Environment/OrbTypes/Large/MainSequence</LargeImageFilename>
