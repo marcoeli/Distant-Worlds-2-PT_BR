@@ -8,13 +8,13 @@ Raider		;Assalto
 Hive Raider		;Colmeia de Assalto
 
 None		;None
-Escort		;Escort
-Frigate		;Frigate
-Destroyer	;Destroyer
-Cruiser		;Cruiser
-Capital Ship		;Battleship
+Escort		;Escolta
+Frigate		;Fragata
+Destroyer	;Destroier
+Cruiser		;Cruzador
+Capital Ship		;Encouraçado
 Planet Destroyer		;Destruidor de Planeta
-Carrier		;Transportadora
+Carrier		;Porta-aviões
 Troop Transport		;Transporte de tropas
 Freighter		;Cargueiro
 Small Freighter		;Pequeno Cargueiro
@@ -64,7 +64,7 @@ ShipMission Description Escort		;Escolte {0}
 ShipMission Description Explore		;Explore {0}
 ShipMission Description ExploreSystem		;Explore {0} sistema ({1})
 ShipMission Description ExploreSurvey		;Pesquisa {0}
-ShipMission Description FighterBoardCarrier		;Transportador de bordo {0}
+ShipMission Description FighterBoardCarrier		;Porta-aviões de caças {0}
 ShipMission Description Guard		;Guarda {0}
 ShipMission Description LoadTroops		;Carregar tropas em {0}
 ShipMission Description LoadTroops Unavailable		;Carregar tropas
@@ -4250,7 +4250,7 @@ Suppress Popups		;Suprimir mensagens pop-up
 
 Explanation SuppressAllPopups		;Quando ativado, impede que muitos tipos de mensagens pop-up de bloqueio apareçam.\n\nObserve que, para evitar completamente o bloqueio de mensagens, você também precisará usar as seguintes configurações de Exploração no Política do império: Investigar Ruínas deve ser definido como 'Investigar sem relatório', Investigar navios abandonados deve ser definido como 'Investigar sem relatório'
 
-Hive Carrier		;Portador de colmeias
+Hive Carrier		;Colmeias Porta-aviões
 Hive Attack Description Colony		;O {0} fala sobre um ataque contra sua colônia {1} no sistema {2}.\n\nOs atacantes eram uma estranha raça de insetoides híbridos. Este grupo selvagem atacou com uma raiva enlouquecida e impiedosa, consumindo tudo em seu caminho.\n\nA RAÇA vive com medo de que esses monstros cruéis possam retornar...
 Hive Attack Description Base		;O {0} fala sobre um ataque contra sua base {1} no sistema {2}.\n\nOs atacantes eram uma estranha raça de insetoides híbridos. Este grupo selvagem atacou com uma fúria enlouquecida e impiedosa, destruindo completamente a base.\n\nA RACE vive aterrorizada que esses monstros cruéis possam atacar novamente...
 Savage Attack at LOCATION		;Ataque Selvagem em {0}
@@ -4815,7 +4815,7 @@ PolicyExplanation ConstructionMilitaryBuildRatioFrigate		;Proporção de navios 
 PolicyExplanation ConstructionMilitaryBuildRatioDestroyer		;Proporção de navios militares que deveriam ser contratorpedeiros. A construção automatizada tentará manter essa proporção ao construir navios militares, além de considerar quais funções de navios são necessárias para os Modelos de Frota.
 PolicyExplanation ConstructionMilitaryBuildRatioCruiser		;Proporção de navios militares que deveriam ser Cruzadores. A construção automatizada tentará manter essa proporção ao construir navios militares, além de considerar quais funções de navios são necessárias para os Modelos de Frota.
 PolicyExplanation ConstructionMilitaryBuildRatioCapitalShip		;Proporção de navios militares que deveriam ser navios de guerra. A construção automatizada tentará manter essa proporção ao construir navios militares, além de considerar quais funções de navios são necessárias para os Modelos de Frota.
-PolicyExplanation ConstructionMilitaryBuildRatioCarrier		;Relação de navios militares que deveriam ser Portadores. A construção automatizada tentará manter essa proporção ao construir navios militares, além de considerar quais funções de navios são necessárias para os Modelos de Frota.
+PolicyExplanation ConstructionMilitaryBuildRatioCarrier		;Relação de navios militares que deveriam ser Porta-aviões. A construção automatizada tentará manter essa proporção ao construir navios militares, além de considerar quais funções de navios são necessárias para os Modelos de Frota.
 PolicyExplanation ConstructionMilitaryBuildRatioTroopTransport		;Proporção de navios militares que deveriam ser Transportes de Tropas. A construção automatizada tentará manter essa proporção ao construir navios militares, além de considerar quais funções de navios são necessárias para os Modelos de Frota.
 PolicyExplanation BuildIndependentShips		;Seja para construir novos cargueiros para comerciantes independentes. Isso pode render uma pequena quantia de renda extra para o seu império.
 PolicyExplanation RepairIndependentShips		;Seja para reparar cargueiros de comerciantes independentes. Isso pode render uma pequena quantia de renda extra para o seu império.
