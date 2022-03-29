@@ -35,7 +35,7 @@
   <Resource>
     <ResourceId>4</ResourceId>
     <Name>Argon</Name>
-    <Description>O árgon é um gás amarelo inerte. É normalmente usado em armas, blindagem e componentes de reatores. O Argônio é encontrado nos mundos Gigante de Gás e Gigante de Gás Congelado.</Description>
+    <Description>O árgon é um gás amarelo inerte. É normalmente usado em armas, blindagem e componentes de reatores. O Argônio é encontrado nos mundos Gigante Gasoso e Gigante Gasoso Congelado.</Description>
     <BaseCost>7</BaseCost>
     <ImageFilename>Environment/Resources/Argon</ImageFilename>
     <Bonuses />
@@ -43,7 +43,7 @@
   <Resource>
     <ResourceId>5</ResourceId>
     <Name>Krypton</Name>
-    <Description>Krypton é um gás verde inerte. É normalmente usado em armas, blindagem e componentes de reatores. Quantidades vestigiais são encontradas nos mundos Gigantes de Gás e Gigantes de Gás Congelado.</Description>
+    <Description>Krypton é um gás verde inerte. É normalmente usado em armas, blindagem e componentes de reatores. Quantidades vestigiais são encontradas nos mundos Gigantes Gasoso e Gigantes Gasoso Congelado.</Description>
     <BaseCost>10</BaseCost>
     <ImageFilename>Environment/Resources/Krypton</ImageFilename>
     <Bonuses />
@@ -99,7 +99,7 @@
   <Resource>
     <ResourceId>12</ResourceId>
     <Name>Polymer</Name>
-    <Description>Os polímeros são vários tipos de plásticos, geralmente produzidos a partir do petróleo. É tipicamente utilizado em componentes eletrônicos. O polímero é encontrado nos mundos Oceano, Pântano Pantanoso e Continental.</Description>
+    <Description>Os polímeros são vários tipos de plásticos, geralmente produzidos a partir do petróleo. É tipicamente utilizado em componentes eletrônicos. O polímero é encontrado nos mundos Oceano, Pântano e Continental.</Description>
     <BaseCost>6</BaseCost>
     <ImageFilename>Environment/Resources/Polymer</ImageFilename>
     <Bonuses />
@@ -107,7 +107,7 @@
   <Resource>
     <ResourceId>13</ResourceId>
     <Name>Carbonite</Name>
-    <Description>A carbonita é um composto de carbono super-resistente. É tipicamente utilizado em componentes que requerem grande resistência e resistência a altas temperaturas. A carbonita é encontrada em pântanos pantanosos, manguezais, mundos Continentais e Carbonaceus.</Description>
+    <Description>A carbonita é um composto de carbono super-resistente. É tipicamente utilizado em componentes que requerem grande resistência e resistência a altas temperaturas. A carbonita é encontrada em pântanos, manguezais, mundos Continentais e Carbonaceus.</Description>
     <BaseCost>9</BaseCost>
     <ImageFilename>Environment/Resources/Carbonite</ImageFilename>
     <Bonuses />
@@ -115,7 +115,7 @@
   <Resource>
     <ResourceId>14</ResourceId>
     <Name>Caslon</Name>
-    <Description>O Caslon é um gás comum que é um combustível de reator universal. Ele é encontrado nos mundos gigantescos do gás.</Description>
+    <Description>O Caslon é um gás comum que é um combustível de reator universal. Ele é encontrado nos Mundos Gigante Gasoso.</Description>
     <BaseCost>3</BaseCost>
     <ImageFilename>Environment/Resources/Caslon</ImageFilename>
     <Bonuses />
@@ -124,7 +124,7 @@
   <Resource>
     <ResourceId>15</ResourceId>
     <Name>Loros Fruit</Name>
-    <Description>O Loros Fruit é uma fruta extremamente rara, doce e cor-de-rosa da árvore Loros. É apreciada por suas incríveis propriedades restauradoras, assim como por seu rico sabor e textura aveludada. A fruta Loros aumenta drasticamente o tempo de vida útil. O processo de envelhecimento natural é radicalmente retardado, permitindo que um ser viva muito mais do que o normal. Qualquer colônia fornecida com fruta Loros recebe assim um grande bônus de desenvolvimento, além de qualquer outro bônus. Uma vez descoberta, todos os esforços devem ser feitos para controlar o comércio deste recurso altamente valioso. A fruta Loros cresce apenas nos mundos pantanosos pantanosos.</Description>
+    <Description>O Loros Fruit é uma fruta extremamente rara, doce e cor-de-rosa da árvore Loros. É apreciada por suas incríveis propriedades restauradoras, assim como por seu rico sabor e textura aveludada. A fruta Loros aumenta drasticamente o tempo de vida útil. O processo de envelhecimento natural é radicalmente retardado, permitindo que um ser viva muito mais do que o normal. Qualquer colônia fornecida com fruta Loros recebe assim um grande bônus de desenvolvimento, além de qualquer outro bônus. Uma vez descoberta, todos os esforços devem ser feitos para controlar o comércio deste recurso altamente valioso. A fruta Loros cresce apenas nos mundos pantanosos.</Description>
     <BaseCost>200</BaseCost>
     <ImageFilename>Environment/Resources/LorosFruit</ImageFilename>
     <Bonuses>
@@ -167,7 +167,7 @@
   <Resource>
     <ResourceId>17</ResourceId>
     <Name>Falajian Spice</Name>
-    <Description>A Especiaria Falajian é uma especiaria marrom em pó colhida do arbusto falajiano. É altamente valorizada por seu sabor rico e distinto. A especiaria falajiana é usada extensivamente na cozinha exótica. A especiaria falajiana é feita a partir das folhas do arbusto falajiano, secando-as lentamente e depois moendo-as até obter um pó fino. Os arbustos falajianos crescem em lagos pantanosos nos mundos pantanosos de Marshy Swamp.</Description>
+    <Description>A Especiaria Falajian é uma especiaria marrom em pó colhida do arbusto falajiano. É altamente valorizada por seu sabor rico e distinto. A especiaria falajiana é usada extensivamente na cozinha exótica. A especiaria falajiana é feita a partir das folhas do arbusto falajiano, secando-as lentamente e depois moendo-as até obter um pó fino. Os arbustos falajianos crescem em lagos pantanosos nos mundos pantanosos.</Description>
     <BaseCost>20</BaseCost>
     <ImageFilename>Environment/Resources/FalajianSpice</ImageFilename>
     <Bonuses>
@@ -333,7 +333,7 @@
   <Resource>
     <ResourceId>26</ResourceId>
     <Name>Caguar Fur</Name>
-    <Description>A Pele de Caguar Fur é o pêlo luxuriante da Caguar listrada. A onça-pintada é um enorme gato sabre que percorre as florestas tropicais selvagens dos mundos da floresta e dos Mundos pantanosos. O comprimento adulto de uma onça-pintada do nariz à cauda é de aproximadamente 4 metros. Eles têm garras afiadas que usam para capturar suas presas.</Description>
+    <Description>A Pele de Caguar Fur é o pêlo luxuriante da Caguar listrada. A onça-pintada é um enorme gato sabre que percorre as florestas tropicais selvagens dos Mundos Floresta e dos Mundos pantanosos. O comprimento adulto de uma onça-pintada do nariz à cauda é de aproximadamente 4 metros. Eles têm garras afiadas que usam para capturar suas presas.</Description>
     <BaseCost>31</BaseCost>
     <ImageFilename>Environment/Resources/CaguarFur</ImageFilename>
     <Bonuses>
@@ -954,8 +954,8 @@
   </Resource>
   <Resource>
     <ResourceId>61</ResourceId>
-    <Name>Losarn Syrup</Name>
-    <Description>A xarope de Losarn é a seiva espessa e doce da árvore Losarn. Grandes florestas de Losarn árvores são cultivadas em mundos continentais. O xarope de Losarn tem uma rica cor dourada e é universalmente apreciado por seu delicioso sabor.</Description>
+    <Name>Xarope de Losarn</Name>
+    <Description>O xarope de Losarn é a seiva espessa e doce da árvore Losarn. Grandes florestas de árvores Losarn  são cultivadas em mundos continentais. O xarope de Losarn tem uma rica cor dourada e é universalmente apreciado por seu delicioso sabor.</Description>
     <BaseCost>18</BaseCost>
     <ImageFilename>Environment/Resources/LosarnSyrup</ImageFilename>
     <Bonuses>
@@ -968,8 +968,8 @@
   </Resource>
   <Resource>
     <ResourceId>62</ResourceId>
-    <Name>Akrasan Amber</Name>
-    <Description>O Akrasan Amber é a seiva da árvore Akrasan, que cresce em áreas de névoa densa nos planetas de Floresta de Manguezais. As árvores Akrasan têm grandes cavidades ocas. Estas cavidades dentro da árvore atuam como fornos isolados, onde a seiva fica quente. Seções fracas do tronco da árvore muitas vezes explodem devido à pressão da seiva quente. A seiva escorre para fora e os insetos são atraídos por ela. Eles ficam presos na seiva. A neblina fria endurece a seiva, formando o belo âmbar dourado.</Description>
+    <Name>Amber Akrasan</Name>
+    <Description>O Amber Akrasan é a seiva da árvore Akrasan, que cresce em áreas de névoa densa nos planetas de Floresta de Manguezais. As árvores Akrasan têm grandes cavidades ocas. Estas cavidades dentro da árvore atuam como fornos isolados, onde a seiva fica quente. Seções fracas do tronco da árvore muitas vezes explodem devido à pressão da seiva quente. A seiva escorre para fora e os insetos são atraídos por ela. Eles ficam presos na seiva. A neblina fria endurece a seiva, formando o belo âmbar dourado.</Description>
     <BaseCost>20</BaseCost>
     <ImageFilename>Environment/Resources/AkrasanAmber</ImageFilename>
     <Bonuses>
@@ -1176,7 +1176,7 @@
   <Resource>
     <ResourceId>75</ResourceId>
     <Name>Ardilus Tentacles</Name>
-    <Description>Os Ardilus são monstros grandes e profundos que normalmente se escondem perto de planetas Gigantes de Gás. A caça a eles rende os premiados tentáculos de Ardilus. Estes tentáculos têm muitos usos: algumas partes podem ser comidas, outras produzem tintura. As protuberâncias espinhosas são populares na construção decorativa.</Description>
+    <Description>Os Ardilus são monstros grandes e profundos que normalmente se escondem perto de planetas Gigante Gasoso. A caça a eles rende os premiados tentáculos de Ardilus. Estes tentáculos têm muitos usos: algumas partes podem ser comidas, outras produzem tintura. As protuberâncias espinhosas são populares na construção decorativa.</Description>
     <BaseCost>60</BaseCost>
     <ImageFilename>Environment/Resources/ArdilusTentacles</ImageFilename>
     <Bonuses>
