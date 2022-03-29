@@ -457,7 +457,7 @@ As Grémios Mercantis geralmente permitem um alto grau de liberdade e autonomia 
 
   <Government>
     <GovernmentId>2</GovernmentId>
-    <Name>Democracy</Name>
+    <Name>Democracia</Name>
     <Description>Os governos democráticos retiram seu poder do povo que vive sob eles. Eleições competitivas são realizadas para selecionar representantes que governam por um período específico.
 
 Os cidadãos de governos democráticos gozam de liberdades e liberdades universalmente reconhecidas, incluindo: liberdade de expressão política, liberdade de expressão e liberdade de imprensa. Os governos democráticos normalmente também defendem outros princípios importantes, tais como: igualdade perante a lei, devido processo e liberdades civis.</Description>
@@ -1958,7 +1958,7 @@ O tipo de governo Mente da colmeia só está disponível para a raça Boskara.</
 
   <Government>
     <GovernmentId>8</GovernmentId>
-    <Name>Way of Darkness</Name>
+    <Name>Caminho das Trevas</Name>
     <Description></Description>
     <ImageFilename></ImageFilename>
     <LeaderTitle>Dark Lord</LeaderTitle>
@@ -2206,7 +2206,7 @@ O tipo de governo Mente da colmeia só está disponível para a raça Boskara.</
 
   <Government>
     <GovernmentId>9</GovernmentId>
-    <Name>Way of the Ancients</Name>
+    <Name>Caminho dos Antigos</Name>
     <Description></Description>
     <ImageFilename></ImageFilename>
     <LeaderTitle>Supreme Leader</LeaderTitle>
@@ -2434,7 +2434,7 @@ O tipo de governo Mente da colmeia só está disponível para a raça Boskara.</
   </Government>
 <Government>
     <GovernmentId>10</GovernmentId>
-    <Name>Path of the Ancients</Name>
+    <Name>O caminho dos Antigos</Name>
     <Description></Description>
     <ImageFilename></ImageFilename>
     <LeaderTitle>Supreme Leader</LeaderTitle>
