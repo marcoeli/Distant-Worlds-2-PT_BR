@@ -1265,7 +1265,7 @@ Crew Description		;{0}/{1}
 Movement		;Movimento
 Slow		;Devagar
 Cruise		;Cruzeiro
-Sprint		;Corrida
+Sprint		;Sprint
 Hyper		;Hyper
 Energy Curve		;Energia\nCurva
 X sectors		;{0} setores
@@ -1418,7 +1418,7 @@ Reserved Abbreviation		;Rsvd
 Other		;De outros
 On Hand		;Na mão
 Maintain		;Manter
-Construction		;Construção
+Construction		;Construction
 Sources		;Fontes
 On Hand Explanation		;A quantidade deste recurso disponível neste local. Isso não inclui recursos reservados.
 Maintain Explanation		;O nível de estoque a ser mantido para este recurso neste local. Os cargueiros transportarão automaticamente os recursos aqui para manter esse nível de estoque.
@@ -1606,7 +1606,7 @@ Income		;Renda
 Expenses		;Despesas
 Private Economy		;Economia Privada
 State Economy		;Economia do Estado
-Military		;Militares
+Military		;Military
 Other State		;Outro Estado
 Private		;Privado
 Excess		;Excesso
@@ -1622,14 +1622,14 @@ billion		;bilhão
 
 from		;a partir de
 Bonus Source Description		;{0} de {1}
-X race		;{0} corrida
+X race		;{0} raça
 X government		;{0} governo
 Leader		;Líder
 Cabinet		;Gabinete
 FACILITY at PLANET		;{0} em {1}
 
 Policy Settings		;Configurações de política
-Colonies		;Colônias
+Colonies		;Colonies
 New Colonies		;Novas Colônias
 Colony Ships		;Navios de Colônia
 Planetary Facilities		;Instalações Planetárias
@@ -1653,7 +1653,7 @@ Research Stations		;Estações de Pesquisa
 New Research Locations		;Novos locais de pesquisa
 Research Screen		;Tela de pesquisa
 All Research Bonuses		;Todos os bônus de pesquisa
-Research		;Pesquisa
+Research		;Research
 Maximum Potential Research		;Pesquisa de Potencial Máximo
 Actual Research Output		;Resultado real da pesquisa
 Maximum Potential Research Explanation		;O potencial máximo de pesquisa do seu império aponta para a população em suas colônias e os laboratórios em suas Estações de Pesquisa. Isso inclui todos os bônus de pesquisa de locais de pesquisa.\n\nObserve que esse valor pode ser maior para alguns projetos de pesquisa em que se aplicam bônus de pesquisa mais específicos.
@@ -1675,7 +1675,7 @@ Tax Revenue		;Receita fiscal
 Research Output		;Resultado da pesquisa
 Research Bonus Amounts		;Valores de bônus de pesquisa
 
-Civilian		;Civil
+Civilian		;Civilian
 All Civilian Ships		;Todos os navios civis
 Freighters		;Cargueiros
 Resort Bases		;Bases de resorts
@@ -1761,7 +1761,7 @@ Bases		;Bases
 Target already part of our empire		;Alvo já faz parte do nosso império
 Target destroyed		;Alvo destruído
 Troop Defend Strength		;Força de defesa da tropa
-Exploration		;Exploração
+Exploration		;Exploration
 Exploration Ships		;Navios de Exploração
 Known Ruins		;Ruínas conhecidas
 
@@ -2839,15 +2839,15 @@ To win - Time Limit explanation		;Vencedor é o império com maior valor estrat�
 To win - Start Date		;As Condições de Vitória não se aplicam até {0}
 SANDBOX MODE		;MODO SANDBOX (Jogo Aberto - Sem condições de vitória)
 
-Race Victory Conditions		;Condições da corrida da vitória
-Race Victory Conditions Explanation		;Ativar condições de vitória específicas da corrida para todas as facções no jogo
+Race Victory Conditions		;Condições de Vitória da Raça
+Race Victory Conditions Explanation		;Ativar condições de vitória baseadas na raça para todas as facções no jogo
 Condition		;Condição
 Portion		;Parte
-Enable Race-specific events		;Ativar Corrida específica eventos
+Enable Race-specific events		;Ativar de eventos relacionados à raça
 Victory Threshold Percent		;Porcentagem do Limite de Vitória
-Race-specific Events		;Corrida específica Eventos
-Race-specific Story Events		;Corrida específica  Eventos da história
-Enables Race-specific Events in the game		;Ativar Corrida específica eventos da história no jogo
+Race-specific Events		;Eventos relacionados com as raças
+Race-specific Story Events		;Eventos de histórias relacionadas com as raças
+Enables Race-specific Events in the game		;Habilita eventos de histórias específicas da raça no jogo
 Victory Threshold Percentage		;Porcentagem do Limite de Vitória
 Sets the percentage of Victory Conditions that must be fulfilled to win the game		;Define a porcentagem de Condições de Vitória que devem ser cumpridas para vencer o jogo
 Victory Threshold		;Limite de vitória
@@ -2896,7 +2896,7 @@ General Story Events		;Eventos gerais da história
 General Story Events Explanation		;Ative eventos gerais da história: ruínas antigas, navios e bases abandonadas, campos de detritos, etc.
 Colony Events		;Eventos da colônia
 Colony Events Explanation		;Habilite eventos de colônia no jogo: desastres, pragas, etc.
-Your Empire		;Seu Império
+Your Empire		;Your Empire
 Progress		;Progresso
 Victory Conditions Explanation		;Selecione qualquer combinação de condições de vitória específicas de Território, População, Economia ou Raça à esquerda.\n\nEm seguida, selecione a porcentagem de Limiar de Vitória: esta é a parte das condições de vitória selecionadas que devem ser atendidas para a vitória.\n\nDeixe todas as vitórias condições desmarcadas para o Modo Sandbox (jogo aberto).
 Other Story Events		;Outros eventos de história
@@ -3234,7 +3234,7 @@ DiplomaticEvaluation Angry		;Nervoso
 DiplomaticEvaluation Furious		;Furioso
 
 FEELING with us		;{0} conosco
-Diplomacy		;Diplomacia
+Diplomacy		;Diplomacy
 Diplomatic Relations		;Relações diplomáticas
 Pirate Relations		;Relações Piratas
 Reputation		;Reputação
@@ -3294,7 +3294,7 @@ TradeOfferItemType DiplomacyEndWarEmpires		;Fim da Guerra com o Império
 TradeOfferItemType DiplomacyStartWarEmpires		;Declare guerra contra o Império
 TradeOfferItemType EmpireContacts		;Entre em contato com outro império
 TradeOfferItemType IndependentColonyLocations		;Locais de colônias independentes
-TradeOfferItemType Characters		;Personagens
+TradeOfferItemType Characters		;Characters
 TradeOfferItemType MapGalaxy		;Mapa da Galáxia
 TradeOfferItemType MapTerritory		;Mapa do território
 TradeOfferItemType SystemMaps		;Mapas do sistema
@@ -3371,7 +3371,7 @@ Add New Empire		;Adicionar novo império
 Relation Level		;Nível de relação
 
 Starting Empires List Name Explanation		;Clique e digite para especificar um nome para o império.\n\nSe você deixar em branco, um nome será gerado automaticamente para o império.
-Starting Empires List Race Explanation		;Selecione uma corrida para o império na lista suspensa
+Starting Empires List Race Explanation		;Selecione uma raça para o império na lista suspensa
 Starting Empires List TechLevel Explanation		;Selecione um nível de tecnologia inicial para o império na lista suspensa.\n\nIsso determina quais cascos e componentes de navios estão disponíveis para a construção de navios e bases.\n\nPreDobra significa zero tecnologia pesquisada.\n\nQuando Expansão é maior que 'Iniciando ' então o nível técnico também deve ser pelo menos nível 1.
 Starting Empires List Expansion Explanation		;Selecione um nível de expansão para o império na lista suspensa.\n\nIsso especifica quantas colônias, navios e bases o império tem.\n\nQuando a expansão for maior que 'Iniciante', o nível técnico também deve ser pelo menos nível 1.
 Starting Empires List Proximity Explanation		;Selecione a distância aproximada deste império do seu
@@ -3691,7 +3691,7 @@ Allow Destroy Base		;Permitir Destruir Base
 Allow Assassinations		;Permitir assassinatos
 Allow Incite Revolution		;Permitir incitar a revolução
 Intelligence Missions		;Missões de Inteligência
-Characters		;Personagens
+Characters		;Characters
 Age		;Idade
 No mission		;Sem missão
 Skill Level		;Nível de habilidade
@@ -4181,7 +4181,7 @@ Bonus Applies To		;Bônus se aplica a
 Discovery Level		;Nível de descoberta
 Remove Bonus		;Remover bônus
 Add New Bonus		;Adicionar novo bônus
-Race		;Corrida
+Race		;Raça
 million		;milhão
 Assimilation		;Assimilação
 Add New Population		;Adicionar nova população
@@ -4724,7 +4724,7 @@ A tour is available for X		;Um tour está disponível para {0}.\nClique no botã
 Click to launch a tour of X		;Clique para iniciar um tour de {0}
 Launch Tour		;Tour de lançamento
 Tour already in progress		;Passeio já em andamento
-Resources and Mining		;Recursos e Mineração
+Resources and Mining		;Resources and Mining
 Launch Tour of Ship Design		;Inicie um tour pelo Ship Design
 Launch Tour of Research Screen		;Iniciar tour da tela de pesquisa
 Tours		;Passeios
