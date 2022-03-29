@@ -15,7 +15,7 @@ Cruiser		;Cruzador
 Capital Ship		;Encouraçado
 Planet Destroyer		;Destruidor de Planeta
 Carrier		;Porta-aviões
-Troop Transport		;Transporte de tropas
+Troop Transport		;Transp. de tropas
 Freighter		;Cargueiro
 Small Freighter		;Pequeno Cargueiro
 Medium Freighter		;Cargueiro médio
@@ -374,7 +374,7 @@ GameTaskType Short AssignCharacterMission		;Atribuir missão
 GameTaskType Short AssignFleetMission		;Atribuir missão
 GameTaskType Short AssignShipMission		;Atribuir missão
 GameTaskType Short ClearShipMission		;Pare
-GameTaskType Short QueueBase		;Base de construção
+GameTaskType Short QueueBase		;Construir base
 GameTaskType Short QueueRepairInvestigate		;Reparar e Investigar Navio ou Base
 GameTaskType Short QueueColonize		;Colonizar {0}
 GameTaskType Short CancelQueueBase		;Cancelar Base do Edifício
@@ -387,7 +387,7 @@ GameTaskType Short CancelQueueClearDangerousLocation		;Cancelar Limpar local per
 GameTaskType Short BuildPlanetaryFacility		;Construir {0}
 GameTaskType Short BuildShips		;Construir navios
 GameTaskType Short BuildShips Single		;Construir Navio
-GameTaskType Short BuildShips Base		;Base de construção
+GameTaskType Short BuildShips Base		;Construir base
 GameTaskType Short BuildShips Anywhere		;Construir navios
 GameTaskType Short ColonyTaxUp		;Aumentar a taxa de imposto da colônia
 GameTaskType Short ColonyTaxDown		;Diminuir imposto da colônia
@@ -1330,8 +1330,8 @@ Latest Designs		;Últimos designs
 Latest Buildable Designs		;Últimos designs edificáveis
 Active Designs		;Designs ativos
 Active Buildable Designs		;Designs edificáveis ativos
-State Ships		;Navios do Estado
-State Bases		;Bases Estaduais
+State Ships		;Navios do do Governo
+State Bases		;Bases do Governo
 Civilian Ships		;Navios civis
 Civilian Bases		;Bases Civis
 Designs		;Projetos
@@ -1513,7 +1513,7 @@ Colony Approval		;Aprov. da colônia
 War Weariness		;Fadiga Guerra
 
 Private Cash		;Dinheiro Privado
-Private Cashflow		;Fluxo de caixa privado
+Private Cashflow		;Fluxo caixa privado
 Cash Explanation		;Dinheiro na mão
 Private Cash Explanation		;Dinheiro no setor privado do seu império
 Cash Explanation Detailed		;Dinheiro na mão. Isso pode ser gasto em novas unidades, compra de recursos, financiamento do crescimento de suas colônias, financiamento de pesquisas ou muitas outras coisas. O caixa é aumentado garantindo que o fluxo de caixa seja maior que zero, ou seja, garantindo que suas despesas sejam menores que sua receita.
@@ -1553,13 +1553,13 @@ IncomeType PrivateColonyRevenue Explanation		;Renda privada de suas colônias. E
 
 ExpenseType ColonyGrowthFunding		;Expansão Colônia
 ExpenseType Research		;Pesquisa
-ExpenseType ShipMaintenance		;Manutenção de navios e bases
+ExpenseType ShipMaintenance		;Manut. de navios e bases
 ExpenseType ShipMaintenance Short		;Manutenção do Navio
-ExpenseType TroopMaintenance		;Manutenção de tropas
-ExpenseType FacilityMaintenance		;Manutenção de instalações
+ExpenseType TroopMaintenance		;Manut. de tropas
+ExpenseType FacilityMaintenance		;Manut. de instalações
 ExpenseType ShipBuilding		;Construção Naval
 ExpenseType TroopRecruitment		;Recrutamento de tropas
-ExpenseType FacilityBuilding		;Construção de instalações
+ExpenseType FacilityBuilding		;Const. de instalações
 ExpenseType ResourceTrading		;Negociação de recursos
 ExpenseType Fuel		;Custos de combustível
 ExpenseType Information		;Em formação
@@ -1568,9 +1568,9 @@ ExpenseType Missions		;Missões
 ExpenseType EnemyRaids		;Invasões Inimigas
 ExpenseType PrivateGeneralExpenditure		;Despesas Gerais
 ExpenseType PrivateColonyTax		;Impostos de colônia
-ExpenseType PrivateShipMaintenance		;Manutenção de navios particulares
+ExpenseType PrivateShipMaintenance		;Manut. de navios civis
 ExpenseType PrivateTourism		;Turismo Privado
-ExpenseType PrivateShipBuilding		;Construção de navios particulares
+ExpenseType PrivateShipBuilding		;Const. de navios civis
 ExpenseType PrivateFuel		;Combustível Privado
 
 ExpenseType ColonyGrowthFunding Explanation		;As colônias normalmente crescem lentamente, mas você pode acelerar seu crescimento alocando fundos.
@@ -1605,9 +1605,9 @@ Previous Year Explanation		;Receitas e despesas reais do ano anterior
 Income		;Renda
 Expenses		;Despesas
 Private Economy		;Economia Privada
-State Economy		;Economia do Estado
+State Economy		;Economia do Governo
 Military		;Military
-Other State		;Outro Estado
+Other State		;Outro Governo
 Private		;Privado
 Excess		;Excesso
 Unused Excess		;Excesso não utilizado
@@ -1748,10 +1748,10 @@ Disabled at X stars		;Desativado em {0} estrelas
 Unfriendly Territory		;Território hostil
 Friendly Territory		;Território Amigável
 Total Size		;Tamanho total
-State		;Estado
+State		;Governo
 Ships Under Construction		;Navios em construção
 Idle Spaceport Yards		;Pátios de portos espaciais ociosos
-State Ships Under Construction		;Navios estaduais em construção
+State Ships Under Construction		;Navios do Governo em construção
 Civilian Ships Under Construction		;Navios civis em construção
 Spaceports		;Espaçoportos
 Wait Time		;Tempo de espera
@@ -1841,24 +1841,24 @@ Unallocated Income		;Renda não alocada
 Unallocated Income Explanation		;Parte da renda do seu império não é alocada. Você deve aumentar os níveis de financiamento em suas áreas preferidas até que a alocação de renda atinja 100%. A receita não alocada permanecerá não gasta
 Empire Funding Levels		;Níveis de financiamento do Império
 Amount Available		;Quantia disponível
-Total regular state income from all sources		;Receita total regular do Estado de todas as fontes
+Total regular state income from all sources		;Receita total regular do Governo de todas as fontes
 Income Available for Maintenance Expenses		;Renda Disponível para Despesas de Manutenção
 Total income available for maintenance expenses		;Receita total disponível para despesas de manutenção. Isso equivale à sua renda menos o valor reservado. Você deve tentar manter as despesas reais de manutenção abaixo desse valor alocado.
 Income Used for Maintenance Expenses		;Renda Usada para Manutenção + Outras Despesas
-Total amount actually used for maintenance in all areas		;Valor total efetivamente utilizado para manutenção em todas as áreas, acrescido de quaisquer outras despesas estaduais refulares (por exemplo, proteção contra piratas). A diferença entre usado e disponível é o valor do Excesso, que é usado para financiar o Crescimento e Pesquisa de Colônias.
+Total amount actually used for maintenance in all areas		;Valor total efetivamente utilizado para manutenção em todas as áreas, acrescido de quaisquer outras despesas do Governo refulares (por exemplo, proteção contra piratas). A diferença entre usado e disponível é o valor do Excesso, que é usado para financiar o Crescimento e Pesquisa de Colônias.
 Excess Income		;Renda Excedente
 This amount is the remainder of income less actual maintenance expenses		;Esse valor é o restante da receita menos as despesas reais de manutenção acima. A renda excedente é usada para financiar o Crescimento e Pesquisa de Colônias, conforme distribuído aqui abaixo.
 Unused Excess Income		;Renda Excedente Não Utilizada
 Unused excess income is what remains after paying for maintenance expenses		;Renda excedente não utilizada é o que resta depois de pagar as despesas de manutenção e financiar o Crescimento e Pesquisa de Colônias. Quando o financiamento de crescimento de colônias e pesquisa não consome todo o seu excesso de renda, o restante combina com a renda reservada para compor seu fluxo de caixa.
 Colony Growth is funded from your excess income after paying maintenance expenses		;O crescimento de colônias é financiado pelo seu excesso de renda após o pagamento das despesas de manutenção. Se não houver renda excedente (ou seja, despesas de manutenção + valor reservado consome toda a sua renda), então o Crescimento de Colônias não é financiado.
 Research is funded from your excess income after paying maintenance expenses		;A pesquisa é financiada pelo seu excesso de renda após o pagamento das despesas de manutenção. Se não houver renda excedente (ou seja, despesas de manutenção + valor reservado consome toda a sua renda), então a pesquisa não é financiada. Nesse caso, apenas a produção de pesquisa de sua população é usada - a produção de pesquisa de seus laboratórios é suspensa até que seja financiada.
-State Income		;Renda do Estado
-State Expenses		;Despesas Estaduais
-Total regular state maintenance expenses		;Total de despesas regulares de manutenção do estado
-This value is your cashflow - comprised of		;Este valor é o seu fluxo de caixa. É composto pela parte reservada de sua renda ({0} = {1}) mais o restante da sua renda (excesso não utilizado = {2}) após o pagamento de todas as despesas regulares (toda a manutenção do estado mais crescimento e pesquisa de colônias) financiamento).
+State Income		;Renda do Governo
+State Expenses		;Despesas Governamentais
+Total regular state maintenance expenses		;Total de despesas regulares de manutenção do Governo
+This value is your cashflow - comprised of		;Este valor é o seu fluxo de caixa. É composto pela parte reservada de sua renda ({0} = {1}) mais o restante da sua renda (excesso não utilizado = {2}) após o pagamento de todas as despesas regulares (toda a manutenção do Governo mais crescimento e pesquisa de colônias) financiamento).
 Total Expenses		;Despesas totais
 Other Expenses		;Outras despesas
-Other Expenses Explanation		;Todas as outras despesas regulares do estado, por exemplo, proteção contra piratas
+Other Expenses Explanation		;Todas as outras despesas regulares do Governo, por exemplo, proteção contra piratas
 
 Must have Reactors		;Deve ter reatores
 Must have Fuel Storage		;Deve ter armazenamento de combustível
@@ -1925,7 +1925,7 @@ Light Transport		;Transporte Leve
 Light Trader		;Comerciante Leve
 Light Hauler		;Caminhão Leve
 Light Freighter		;Cargueiro Leve
-Cargo Shuttle		;Transporte de carga
+Cargo Shuttle		;Transp. carga
 Merchant Freighter		;Cargueiro mercante
 Medium Transport		;Transporte Médio
 Cargo Freighter		;Cargueiro
@@ -2304,9 +2304,9 @@ Message Log		;Registro de mensagens
 
 MessageType Characters		;Personagens
 MessageType Colonies		;Colônias
-MessageType Construction State		;Construção do Estado
+MessageType Construction State		;Construção do Governo
 MessageType Construction Civilian		;Construção Civil
-MessageType Retrofit State		;Retrofits de estado
+MessageType Retrofit State		;Retrofits do Governo
 MessageType Retrofit Civilian		;Retrofits civis
 MessageType Diplomacy		;Diplomacia
 MessageType Economy		;Economia
@@ -4156,9 +4156,9 @@ Automatically Repair Manual Fleets		;Reparar automaticamente frotas manuais
 Automatically Retrofit Manual Fleets		;Retrofit automático de frotas manuais
 Automatically Retrofit Automated Fleets		;Retrofit automático de frotas automatizadas
 NewShipsAutomatedMilitary		;Novos navios militares são automatizados
-NewShipsAutomatedOtherState		;Novos outros navios estaduais são automatizados
-ConstructionPrioritizeStateShipsInQueue		;Priorize Navios Estaduais em Filas de Construção
-DockingPrioritizeStateShipsInQueue		;Priorize Navios Estaduais em Filas de Atracação
+NewShipsAutomatedOtherState		;Novos outros navios do Governo são automatizados
+ConstructionPrioritizeStateShipsInQueue		;Priorize Navios do Governo em Filas de Construção
+DockingPrioritizeStateShipsInQueue		;Priorize Navios do Governo em Filas de Atracação
 Prioritize		;Prioritizar
 
 Cannot build		;Não é possível construir
@@ -4399,7 +4399,7 @@ ComponentCategory Description CrewQuarters		;Crew Quarters fornecem alojamentos 
 ComponentCategory Description DamageControl		;Os componentes de controle de danos reduzem a quantidade de dano causado a um navio pelo fogo de armas inimigas. Isso ajuda um navio a sobreviver por mais tempo em batalha depois que seus escudos e armaduras forem penetrados.\n\nAlguns componentes de controle de danos também fornecem uma função de reparo, permitindo que seus navios realizem reparos básicos rapidamente mesmo em combate. Isso pode melhorar a capacidade de sobrevivência de seus navios militares, prolongando sua vida útil durante a batalha.
 ComponentCategory Description DockingBay		;As baías de ancoragem permitem que um navio atraque e transfira carga ou reabasteça.\n\nAs baías de ancoragem são normalmente representadas no jogo como um hangar visível externamente. Navios e caças menores podem entrar nesses hangares.
 ComponentCategory Description EnergyCollector		;Os componentes do Coletor de energia coletam energia de uma estrela próxima, reduzindo ou até eliminando a necessidade de queimar combustível em um reator para produzir energia.\n\nOs coletores de energia podem absorver energia de uma grande parte do espectro eletromagnético.
-ComponentCategory Description EnergyToFuel		;Os conversores de energia para combustível coletam energia de uma estrela próxima e a usam para gerar combustível para suas naves. Isso permite que você construa depósitos de reabastecimento em qualquer local, sem a necessidade de minerar combustível em um planeta Gigante de Gás.\n\nOs conversores de energia para combustível são muito grandes e só funcionam enquanto estão parados. Assim, eles são adequados apenas para uso em bases fixas, não em navios.
+ComponentCategory Description EnergyToFuel		;Os conversores de energia para combustível coletam energia de uma estrela próxima e a usam para gerar combustível para suas naves. Isso permite que você construa depósitos de reabastecimento em qualquer local, sem a necessidade de minerar combustível em um planeta Gigante Gasoso.\n\nOs conversores de energia para combustível são muito grandes e só funcionam enquanto estão parados. Assim, eles são adequados apenas para uso em bases fixas, não em navios.
 ComponentCategory Description Engine		;Os motores fornecem impulso de subluz para o movimento do navio. Cada motor tem suas próprias características, incluindo potência e consumo de combustível em vários níveis.
 ComponentCategory Description EngineVectoring		;Os motores de vetorização fornecem empuxo de giro para manobrar um navio. Ter maior agilidade é particularmente útil em combate.
 ComponentCategory Description Extractor		;Os extratores permitem a mineração de recursos de planetas, luas ou asteróides. Esses componentes são normalmente construídos em estações de mineração ou naves de mineração.\n\nAo minerar asteroides, os extratores geralmente também podem minerar vários outros asteroides próximos, aumentando assim o rendimento de recursos em um campo de asteroides ou anel de asteroides planetário.
@@ -4543,13 +4543,13 @@ At Colonies		;Em colônias
 This location is in enemy territory		;Este local está em território inimigo
 
 Let's get started		;Vamos começar
-Disable All Tours		;Desativar todos os passeios
+Disable All Tours		;Desativar todos os Tours
 Disable All		;Desativar tudo
 You are disabling all further tours Explanation		;Você está desativando todos os outros tours. Você pode reativá-los novamente nas Configurações do jogo.\n\nTem certeza de que deseja desativar todos os tours?
 You are reenabling all tours Explanation		;Você está reativando todos os tours.\n\nVocê pode desativar todos os tours novamente na tela Tours que aparece quando você inicia um tour.\n\nTem certeza de que deseja reativar todos os tours?
 Tips		;Dicas
-Reset Tours		;Redefinir passeios
-Reenable All Tours		;Reativar todos os passeios
+Reset Tours		;Redefinir Tours
+Reenable All Tours		;Reativar todos os Tours
 Reenable All		;Reativar tudo
 Launch Basic Tour		;Iniciar Tour Básico
 
@@ -4723,12 +4723,12 @@ Character ROLE Dismissed		;{0} Dispensado
 A tour is available for X		;Um tour está disponível para {0}.\nClique no botão para iniciar o tour
 Click to launch a tour of X		;Clique para iniciar um tour de {0}
 Launch Tour		;Tour de lançamento
-Tour already in progress		;Passeio já em andamento
+Tour already in progress		;Tours já em andamento
 Resources and Mining		;Resources and Mining
 Launch Tour of Ship Design		;Inicie um tour pelo Ship Design
 Launch Tour of Research Screen		;Iniciar tour da tela de pesquisa
-Tours		;Passeios
-Show Tours		;Mostrar passeios
+Tours		;Tours
+Show Tours		;Mostrar Tours
 
 Latest Active Design for Role		;Design ativo mais recente para função
 No missing ship roles		;Nenhuma função de navio ausente
