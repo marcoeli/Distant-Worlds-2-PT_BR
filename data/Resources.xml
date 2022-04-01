@@ -67,7 +67,7 @@
   <Resource>
     <ResourceId>8</ResourceId>
     <Name>Aço</Name>
-    <Description>O aço é um material de construção muito comum, fundido a partir de minério de ferro. Grandes quantidades de aço são necessárias para construir a maioria dos navios e bases. O minério de ferro é normalmente encontrado nos mundos Rocky Metallic e Continental, ou asteróides.</Description>
+    <Description>O aço é um material de construção muito comum, fundido a partir de minério de ferro. Grandes quantidades de aço são necessárias para construir a maioria dos navios e bases. O minério de ferro é normalmente encontrado nos mundos Metálico Rochoso e Continental, ou Asteróides.</Description>
     <BaseCost>5</BaseCost>
     <ImageFilename>Environment/Resources/Steel</ImageFilename>
     <Bonuses />
@@ -446,8 +446,8 @@
   </Resource>
   <Resource>
     <ResourceId>32</ResourceId>
-    <Name>Ilosian Jade</Name>
-    <Description>Ilosian Jade é uma bela pedra verde translúcida. É minerada em grandes lajes de rochas do leito do rio. Ilosian jade é encontrada exclusivamente nos mundos Pantanosos.</Description>
+    <Name>Jade Ilosian </Name>
+    <Description>Jade Ilosian é uma bela pedra verde translúcida. É minerada em grandes lajes de rochas do leito do rio. Jade Ilosian é encontrada exclusivamente nos mundos Pantanosos.</Description>
     <BaseCost>20</BaseCost>
     <ImageFilename>Environment/Resources/IlosianJade</ImageFilename>
     <Bonuses>
@@ -877,7 +877,7 @@
   </Resource>
   <Resource>
     <ResourceId>57</ResourceId>
-    <Name>escamas Shudasta</Name>
+    <Name>Escamas Shudasta</Name>
     <Description>As escamas Shudasta são as super resistentes peles escamosas dos lagartos Shudasta gigantes. Estes lagartos vivem em sua maioria solitários nos mundos de deserto rochoso e podem crescer muito, sendo alguns dos maiores de 11 ou 12 metros de comprimento. Eles podem ser difíceis de capturar e matar, mas sua pele é muito valiosa, usada em roupas e coberturas de cadeiras. As escamas são de uma cor cinza prateada.</Description>
     <BaseCost>30</BaseCost>
     <ImageFilename>Environment/Resources/ShudastaScales</ImageFilename>
@@ -1044,7 +1044,7 @@
   <Resource>
     <ResourceId>67</ResourceId>
     <Name>Cachaça Sokalian</Name>
-    <Description>a cachaça Sokalian é destilado do vinho de ameixa Sokalian. O vinho é feito de ameixas Sokalian raras, que são de uma cor rosa profundo. As ameixas de Sokalian crescem apenas nas regiões montanhosas do mundo Deserto de Areia. O Cachaça Sokalian é amplamente reconhecido por seu sabor de caramelo e bela cor rosa. Ele é geralmente envelhecido por mais de 50 anos para enriquecer seu sabor.</Description>
+    <Description>A cachaça Sokalian é destilado do vinho de ameixa Sokalian. O vinho é feito de ameixas Sokalian raras, que são de uma cor rosa profundo. As ameixas de Sokalian crescem apenas nas regiões montanhosas do mundo Deserto de Areia. A Cachaça Sokalian é amplamente reconhecido por seu sabor de caramelo e bela cor rosa. Ele é geralmente envelhecido por mais de 50 anos para enriquecer seu sabor.</Description>
     <BaseCost>30</BaseCost>
     <ImageFilename>Environment/Resources/SokalianBrandy</ImageFilename>
     <Bonuses>
