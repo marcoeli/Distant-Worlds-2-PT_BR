@@ -72,79 +72,79 @@ Quando tiver terminado de alterar suas configurações, certifique-se de clicar 
       </TourStep>
       <TourStep>
         <StepTitle>Visão principal do cabeçalho</StepTitle>
-        <MarkupText>This header displays important information about the game. From left to right it shows:
-[ULI]the current research projects[/ULI]
-[ULI]the number of colonies and total population in your empire[/ULI]
-[ULI]the current cash on hand and cashflow for your empire[/ULI]
-[ULI]the galaxy star date[/ULI]
-Hovering over these will give more information. Clicking on them will take you to a screen with even more detail.
+        <MarkupText>Este cabeçalho exibe informações importantes sobre o jogo. Da esquerda para a direita, ele mostra:
+[ULI]os projetos de pesquisa atuais[/ULI]
+[ULI]o número de colônias e a população total em seu império[/ULI]
+[ULI]o dinheiro em caixa atual e o fluxo de caixa para seu império[/ULI]
+[ULI]a data estelar da galáxia[/ULI]
+Passar o mouse sobre estes dará mais informações. Clicando sobre eles, você será levado a uma tela com ainda mais detalhes.
 
-This header will sometimes also show additional information, which can include:
-[ULI]warnings about rebelling colonies[/ULI]
-[ULI]warnings about high war weariness[/ULI]
-[ULI]war progress reports[/ULI]</MarkupText>
+Este cabeçalho às vezes também mostrará informações adicionais, que podem incluir:
+[ULI]avisos sobre colônias rebeldes[/ULI]
+[ULI]avisos sobre o alto cansaço de guerra[/ULI]
+[ULI]relatórios de progresso da guerra[/ULI]</MarkupText>
         <RelatedControlNames>
           <string>MainViewHeader</string>
         </RelatedControlNames>
       </TourStep>
       <TourStep>
-        <StepTitle>Control Center</StepTitle>
-        <MarkupText>The Control Center provides a wealth of information, along with many powerful tools to help manage your empire.
+        <StepTitle>Centro de Controle</StepTitle>
+        <MarkupText>O Centro de Controle fornece uma riqueza de informações, juntamente com muitas ferramentas poderosas para ajudar a gerenciar seu império.
         
-Hovering over each of the 10 main buttons will expand the header section below it, providing a summary of your empire in that area.
+Passando o mouse sobre cada um dos 10 botões principais expandirá a seção de cabeçalho abaixo dele, fornecendo um resumo de seu império naquela área.
 
-Moving your mouse over the header will then expand the sub menus below, giving even more detail in various sub sections. Click on a sub menu button to switch between sub sections.</MarkupText>
+Movendo o mouse sobre o cabeçalho, os submenus abaixo serão expandidos, dando ainda mais detalhes em várias sub seções. Clique em um botão do submenu para alternar entre as sub-seções.</MarkupText>
         <RelatedControlNames>
           <string>EmpireSectionList</string>
         </RelatedControlNames>
       </TourStep>
 
       <TourStep>
-        <StepTitle>Control Center - Locking Panels Open</StepTitle>
-        <MarkupText>Each of the sections in the Control Center can be locked open by clicking anywhere on the expanded section. Othewise the section will automatically collapse when you move your mouse away.
+        <StepTitle>Centro de controle - Painéis travados abertos</StepTitle>
+        <MarkupText>Cada uma das seções do Centro de Controle pode ser fechada e aberta clicando em qualquer lugar na seção expandida. No sentido contrário, a seção se desmoronará automaticamente quando você mover o mouse para longe.
 
-You can also lock open an expanded section by clicking on the relevant main button at the top of the Control Center.
+          Você também pode fechar uma seção expandida clicando no botão principal relevante na parte superior do Centro de Controle.
 
-To 'unlock' a section and allow it to collapse, click again on the relevant main button at the top of the Control Center.</MarkupText>
+          Para 'destravar' uma seção e permitir que ela caia, clique novamente no botão principal relevante no topo do Centro de Controle.</MarkupText>
         <RelatedControlNames>
           <string>EmpireSectionList</string>
         </RelatedControlNames>
       </TourStep>
 
       <TourStep>
-        <StepTitle>Selection Panel</StepTitle>
-        <MarkupText>The Selection Panel provides detailed information on the currently selected item. This can include ships, bases, colonies, planets, moons, asteroids, space creatures or space debris.
+        <StepTitle>Painel de seleção</StepTitle>
+        <MarkupText>O Painel de Seleção fornece informações detalhadas sobre o item atualmente selecionado. Isto pode incluir naves, bases, colônias, planetas, luas, asteróides, criaturas espaciais ou detritos espaciais.
 
-[H3]Selecting Items[/H3]
-You can select items by clicking on them in the main view. When an item is selected it will be surrounded by the selection circle. You can also select items from some of the sub lists in the Control Center.
+[H3]Seleção de itens[/H3]
+Você pode selecionar os itens clicando neles na vista principal. Quando um item é selecionado, ele será cercado pelo círculo de seleção. Você também pode selecionar itens de algumas das sub-listas no Centro de Controle.
 
-To select multiple ships hold down the Ctrl key while left-click-dragging with the mouse. A selection rectangle will appear, selecting all of your fully-constructed ships inside the rectangle.
+Para selecionar vários navios, mantenha a tecla Ctrl pressionada enquanto clica com o botão esquerdo do mouse. Um retângulo de seleção aparecerá, selecionando todos os seus navios totalmente construídos dentro do retângulo.
 
-[H3]Exploring information in the panel[/H3]
-Different information will be displayed depending on what is selected. Much of the data displayed will provide further information when hovering, through tooltips, or pop-out side panels along with extra controls.
+[H3]Exploração de informações no painel[/H3]
+Informações diferentes serão exibidas dependendo do que for selecionado. Muitos dos dados exibidos fornecerão informações adicionais quando pairando, através de pontas de ferramentas ou painéis laterais pop-out juntamente com controles extras.
 
-You can navigate forward and back through your selection history using the left and right arrows near the top of the Selection Panel. You can also cycle through various items in your empire using key presses, e.g. 'C' will cycle through all of your colonies, 'X' will cycle through all your exploration ships. See the Key Mappings under Game Settings for further options.
+Você pode navegar para frente e para trás em seu histórico de seleção usando as setas esquerda e direita perto do topo do Painel de Seleção. Você também pode percorrer vários itens em seu império usando prensas chave, por exemplo, 'C' irá percorrer todas as suas colônias, 'X' irá percorrer todas as suas naves de exploração. Veja os mapeamentos chave em Configurações do jogo para mais opções.
 
-[H3]Renaming items[/H3]
-You can change the name of any item that you own (ship, base, colony) by clicking on its name in the Selection Panel. This will allow you to edit the name. Click anywhere outside the edit box to save your changes.
+[H3]Renomeando itens[/H3]
+Você pode mudar o nome de qualquer item que você possui (navio, base, colônia) clicando em seu nome no Painel de Seleção. Isto permitirá que você edite o nome. Clique em qualquer lugar fora da caixa de edição para salvar suas alterações.
 
-[H3]Zoom to item[/H3]
-To immediately zoom the main view to the selected item, click any empty space in the Selection Panel header. Or you can use the Backspace key.</MarkupText>
+[H3]Ampliar para item[/H3]
+Para ampliar imediatamente a vista principal para o item selecionado, clique em qualquer espaço vazio no cabeçalho do Painel de Seleção. Ou você pode usar a tecla Backspace.</MarkupText>
         <RelatedControlNames>
           <string>SelectionPanel</string>
         </RelatedControlNames>
       </TourStep>
       <TourStep>
-        <StepTitle>Action Buttons</StepTitle>
-        <MarkupText>You can perform actions on the selected item using the Action Buttons under the Selection Panel.
+        <StepTitle>Botões de ação</StepTitle>
+        <MarkupText>Você pode realizar ações sobre o item selecionado usando os botões de ação sob o Painel de Seleção.
 
-Each selected item will have different actions available. Hovering over each action button provides more information.
+          Cada item selecionado terá diferentes ações disponíveis. Passar o mouse sobre cada botão de ação fornece mais informações.
 
-Some examples of action buttons:
-[ULI]refuel and repair the selected ship[/ULI]
-[ULI]increase the tax rate at the selected colony[/ULI]
-[ULI]retrofit the selected base to the latest design[/ULI]
-[ULI]queue the construction of a new mining station at the selected planet[/ULI]
+          Alguns exemplos de botões de ação:
+[ULI]reabastecer e reparar o navio selecionado[/ULI]
+[ULI]aumentar a taxa de imposto na colônia selecionada[/ULI]
+[ULI]modernizar a base selecionada com o design mais recente[/ULI]
+[ULI]enfileirar a construção de uma nova estação de mineração no planeta selecionado[/ULI]
 
 [H3]Additional Actions[/H3]
 Some action buttons drill down to a further layer of actions, e.g. if you have a spaceport selected, the Construction button provides actions for building all of the active ship designs in your empire. You can return to the top level of actions using the right-most 'Return to Top' button.</MarkupText>
