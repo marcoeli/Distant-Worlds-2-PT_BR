@@ -85,7 +85,7 @@ ShipMission Description Refuel		;Refuel at {0}
 ShipMission Description Repair		;Reparo em {0}
 ShipMission Description Retire Target		;Aposente-se em {0}
 ShipMission Description Retire		;Se aposentar
-ShipMission Description Retrofit		;Retroajustar em {0}
+ShipMission Description Retrofit		;Modernizar em {0}
 ShipMission Description Scout		;Batedor {0}
 ShipMission Description Scrap		;Sucata em {0}
 ShipMission Description Transport		;Transporte de cargas de {0} para {1}
@@ -430,13 +430,13 @@ GameTaskType Short RefuelAndRepair		;Reabastecer e Reparar
 GameTaskType Short RefuelAndRepair Location		;Reabastecer e Reparar
 GameTaskType Short RemoveCharacter		;Remover Personagem
 GameTaskType Short RemoveDesign		;Remover Design
-GameTaskType Short RetrofitShip No Design		;Retroajustar
-GameTaskType Short RetrofitShip		;Retroajustar
-GameTaskType Short RetrofitShip Location		;Retroajustar
-GameTaskType Short RetrofitMultipleShips		;Retroajuste de Navios
-GameTaskType Short RetrofitMultipleShips Location		;Retroajuste de Navios
-GameTaskType Short RetrofitFleet		;Retroajuste Frota
-GameTaskType Short RetrofitFleet Location		;Retroajuste Frota
+GameTaskType Short RetrofitShip No Design		;Modernizar
+GameTaskType Short RetrofitShip		;Modernizar
+GameTaskType Short RetrofitShip Location		;Modernizar
+GameTaskType Short RetrofitMultipleShips		;Modernize Navios
+GameTaskType Short RetrofitMultipleShips Location		;Modernize Navios
+GameTaskType Short RetrofitFleet		;Modernize Frota
+GameTaskType Short RetrofitFleet Location		;Modernize Frota
 GameTaskType Short TopupFleet		;Completar a Frota
 GameTaskType Short ScrapPlanetaryFacility		;Sucata {0} em {1}
 GameTaskType Short SetAsFleetLeadShip		;Definir navio principal
@@ -1361,7 +1361,7 @@ X Strike Force		;{0} Força de ataque
 X Defense Force		;{0} Força de Defesa
 X Invasion Fleet		;{0} Frota de invasão
  
-Retrofit		;Retroajuste
+Retrofit		;Atualizar
 Tech Level X		;Nível técnico {0}
 Regenerate Tech Tree - Visible		;Regenerar Árvore Tecnológica - Visível
 Regenerate Tech Tree - Blind		;Regenerar Árvore Tecnológica - Cega
