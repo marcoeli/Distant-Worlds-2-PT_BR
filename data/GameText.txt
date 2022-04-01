@@ -1319,7 +1319,7 @@ Active		;Ativo
 Image		;Imagem
 Role		;Função
 Date Created		;Data Criada
-Amount		;Montante
+Amount		;Total
 Auto Design		;Projeto Automático
 Status		;Status
 Edit		;Editar
@@ -1793,7 +1793,7 @@ Build Order Maintenance Explanation		;O custo total de manutenção anual contí
 TOTAL Purchase and Maintenance Costs		;Custos TOTAIS de Compra e Manutenção
 Available Money and Cashflow		;Dinheiro disponível e fluxo de caixa
 Purchase		;Comprar
-Clear		;Claro
+Clear		;Limpar
 Suggest		;Sugerir
 Build	;Construir
 Total Purchase Costs		;Custos Totais de Compra
@@ -2030,7 +2030,7 @@ Start a New Game		;Iniciar um novo jogo
 Load Game		;Carregar jogo
 Credits		;Créditos
 Close Credits		;Fechar créditos
-Exit		;Saída
+Exit		;Sair
 StartNewGame_GalaxyShapeSize		;Forma e tamanho de galáxia
 StartNewGame_GalaxySettings		;Configurações da galáxia
 StartNewGame_Threats		;Ameaças
