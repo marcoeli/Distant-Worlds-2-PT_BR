@@ -60,7 +60,7 @@
     <EvasionTitan>0.25</EvasionTitan>
     <EvasionPlanetaryDefense>0.25</EvasionPlanetaryDefense>
     <EvasionSpecialForces>0</EvasionSpecialForces>
-    <Name>Brigada de Tropas de Greve</Name>
+    <Name>Brigada de Tropas de Assaulto</Name>
     <ImageFilename>Extras/TroopSymbols/Infantry</ImageFilename>
   </TroopDefinition>
   <TroopDefinition>
