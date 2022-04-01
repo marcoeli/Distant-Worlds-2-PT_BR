@@ -146,29 +146,29 @@ Para ampliar imediatamente a vista principal para o item selecionado, clique em 
 [ULI]modernizar a base selecionada com o design mais recente[/ULI]
 [ULI]enfileirar a construção de uma nova estação de mineração no planeta selecionado[/ULI]
 
-[H3]Additional Actions[/H3]
-Some action buttons drill down to a further layer of actions, e.g. if you have a spaceport selected, the Construction button provides actions for building all of the active ship designs in your empire. You can return to the top level of actions using the right-most 'Return to Top' button.</MarkupText>
+[H3]Ações adicionais[/H3]
+Alguns botões de ação detalham até uma camada adicional de ações, por exemplo, se você tiver um porto espacial selecionado, o botão Construção fornece ações para a construção de todos os projetos ativos da nave em seu império. Você pode retornar ao nível superior de ações usando o botão " Voltar ao Topo" mais à direita.</MarkupText>
         <RelatedControlNames>
           <string>ActionButtons</string>
         </RelatedControlNames>
       </TourStep>
       <TourStep>
-        <StepTitle>Zoom Presets and Others</StepTitle>
-        <MarkupText>These buttons allow you to quickly zoom to different levels: a single location, an entire star system, a wide region, and the entire galaxy.
+        <StepTitle>Ajustes de Zoom e outros</StepTitle>
+        <MarkupText>Estes botões permitem ampliar rapidamente para diferentes níveis: um único local, um sistema estelar inteiro, uma vasta região e toda a galáxia.
 
-You can also quickly zoom to the selected item. Or use the Backspace key to do the same thing.
+          Você também pode ampliar rapidamente para o item selecionado. Ou usar a tecla Backspace para fazer a mesma coisa.
 
-Other buttons allow toggling ship and base symbols at location level and weapon range indicators for the selected ship or base.
+          Outros botões permitem alternar os símbolos do navio e da base no nível do local e os indicadores de alcance das armas para o navio ou base selecionada.
 
-[H3]Camera Views[/H3]
-The right-most button allows you to change the camera view. Available settings include:
-[ULI]Default 45 degree view[/ULI]
-[ULI]Top Down angle[/ULI]
-[ULI]High angle[/ULI]
-[ULI]Low angle[/ULI]
-Additionally when you are zoomed into location level and have a ship or base selected:
-[ULI]Trailing ship or base view[/ULI]
-[ULI]Bridge ship or base view[/ULI]</MarkupText>
+[H3]Vistas da câmera[/H3]
+O botão mais à direita permite mudar a visão da câmera. As configurações disponíveis incluem:
+[ULI]Visão padrão de 45 graus[/ULI]
+[ULI]Ângulo de cima para baixo[/ULI]
+[ULI]Ângulo elevado[/ULI]
+[ULI]Ângulo baixo[/ULI]
+Além disso, quando você é posicionado ao nível do local e tem um navio ou base selecionada:
+[ULI]Vista do navio ou base[/ULI]
+[ULI]Ponte de navio ou vista de base[/ULI]</MarkupText>
         <RelatedControlNames>
           <string>LocationShipSymbolButton</string>
           <string>WeaponRangeDisplayButton</string>
@@ -184,37 +184,37 @@ Additionally when you are zoomed into location level and have a ship or base sel
       </TourStep>
       
       <TourStep>
-        <StepTitle>Galaxy Zoom Level and Badges</StepTitle>
-        <MarkupText>When zoomed out to the galaxy level you can view the star systems and nebula clouds that comprise the galaxy.
+        <StepTitle>Nível de zoom da galáxia e cards</StepTitle>
+        <MarkupText>Ao ampliar para o nível da galáxia, você pode ver os sistemas estelares e as nuvens de nebulosas que compõem a galáxia.
 
-[H3]System Badges[/H3]
-At the galaxy level you can also see the badges for colonized systems. These badges provide a summary of what is in the system.
+[H3]Sistema de cards[/H3]
+No nível da galáxia, você também pode ver os cards dos sistemas colonizados. Estes cards fornecem um resumo do que está no sistema.
 
-The background color of each badge matches the colony empire.
+A cor de fundo de cada card corresponde ao império da colônia.
 
-The first row of the badge has the system name. If the system is the empire capital, a star is shown to the left of the name.
+A primeira fileira do card tem o nome do sistema. Se o sistema é a capital do império, uma estrela é mostrada à esquerda do nome.
 
-The next row has a picture of the major race at the colony, along with the population level. Next to this is an icon showing the colony approval rate.
+A fileira seguinte tem uma imagem da maior raça da colônia, junto com o nível da população. Ao lado disso há um ícone mostrando a taxa de aprovação da colônia.
 
-If the system has a spaceport present a yellow 'construction yard' icon is shown. If the system has a refuelling source a blue 'refuel' icon is shown.
+Se o sistema tiver um porto espacial, é mostrado um ícone amarelo de "estaleiro de construção". Se o sistema tiver uma fonte de reabastecimento, é mostrado um ícone azul de 'reabastecimento'.
 
-The third row shows the major resources present in the system.
+A terceira linha mostra os principais recursos presentes no sistema.
 
-A fourth row may also be shown outlining our empire's fleet and ship strength in the system (white text and yellow lighting bolt icon). If there are enemy threats in the system then their strength is shown (red text and lighting bolt icon).
+Uma quarta fileira também pode ser mostrada delineando a frota de nosso império e a força do navio no sistema (texto branco e ícone de raio amarelo). Se houver ameaças inimigas no sistema, então sua força é mostrada (texto vermelho e ícone do raio vermelho).
 
-[H3]Location Badges[/H3]
-When zoomed to system level you can see badges for colony locations in the system.
+[H3]Cards de localização[/H3]
+Quando ampliado para o nível do sistema, você pode ver cards para locais de colônia no sistema.
 
-These badges display similar data to the system badges.
+Estes cards exibem dados similares aos cards do sistema.
 
-[H3]Colony Badges[/H3]
-When zoomed to location level, hovering the mouse over a colony will display a colony badge with essential data like the following:
-[ULI]name of the colony and exploration level[/ULI]
-[ULI]type and size of the planet or moon[/ULI]
-[ULI]quality of the planet or moon[/ULI]
-[ULI]population, approval and development level of the colony[/ULI]
-[ULI]icons showing any spaceport or refuelling source at the colony[/ULI]
-[ULI]resources mined at the colony[/ULI]</MarkupText>
+[H3]Cards da colônia[/H3]
+Ao ampliar para o nível de localização, passar o mouse sobre uma colônia exibirá um card da colônia com dados essenciais como os seguintes:
+[ULI]nome da colônia e nível de exploração[/ULI]
+[ULI]tipo e tamanho do planeta ou da lua[/ULI]
+[ULI]qualidade do planeta ou da lua[/ULI]
+[ULI]população, nível de aprovação e desenvolvimento da colônia[/ULI]
+[ULI]ícones mostrando qualquer porto espacial ou fonte de reabastecimento na colônia[/ULI]
+[ULI]recursos minerados na colônia[/ULI]</MarkupText>
         <RelatedControlNames>
           <string>ZoomGalaxyButton</string>
           <string>MapOverlays_Cartouches</string>
@@ -223,114 +223,114 @@ When zoomed to location level, hovering the mouse over a colony will display a c
       </TourStep>
 
       <TourStep>
-        <StepTitle>Map Overlays</StepTitle>
-        <MarkupText>There are many map overlays that can be shown when zoomed out to the galaxy level.
+        <StepTitle>Sobreposições de mapas</StepTitle>
+        <MarkupText>Há muitas sobreposições de mapas que podem ser mostradas quando se faz um zoom para o nível da galáxia.
 
-These include the following:
-[ULI]Resource flows from mining location to destination[/ULI]
-[ULI]Migration flows from established colonies to new colonies[/ULI]
-[ULI]Tourism flows from colonies to Resort Bases[/ULI]
-[ULI]Nebula Boundary Markers[/ULI]
-[ULI]Long Range Scanner coverage[/ULI]
-[ULI]Ship Travel Vectors[/ULI]
-[ULI]System and Location Badges[/ULI]
-[ULI]Exploration overlay[/ULI]
-[ULI]Diplomacy overlay[/ULI]
+Estes incluem o seguinte:
+[ULI]Fluxo de recursos do local de mineração até o destino[/ULI]
+[ULI]Fluxos migratórios de colônias estabelecidas para novas colônias[/ULI]
+[ULI]O fluxo turístico das colônias para as Bases de Resorts[/ULI]
+[ULI]Marcadores de Fronteira da Nebulosa[/ULI]
+[ULI]Cobertura de Scanner de Longo Alcance[/ULI]
+[ULI]Vetores de viagem de navios[/ULI]
+[ULI]Cards de sistema e localização[/ULI]
+[ULI]Sobreposição de exploração[/ULI]
+[ULI]Sobreposição da diplomacia[/ULI]
 
-Also present is an option to hide most of the user interface, allowing you to completely focus on the scene in the main view.
+Também está presente uma opção para ocultar a maior parte da interface do usuário, permitindo que você se concentre completamente na cena na visão principal.
 
-Hover over each map overlay button for more details.</MarkupText>
+Passe o mouse sobre cada botão de sobreposição de mapas para obter mais detalhes.</MarkupText>
         <RelatedControlNames>
           <string>MapOverlayButtons</string>
         </RelatedControlNames>
       </TourStep>
       <TourStep>
-        <StepTitle>View Summary</StepTitle>
-        <MarkupText>The View Summary is a very powerful management tool that gives you a quick overview of all the visible items in the current view. This overview is automatically updated as your view changes when you pan or zoom.
+        <StepTitle>Ver resumo</StepTitle>
+        <MarkupText>O Ver Resumo é uma ferramenta de gerenciamento muito poderosa que lhe dá uma rápida visão geral de todos os itens visíveis na visão atual. Esta visão geral é atualizada automaticamente à medida que sua visão muda quando você faz pan ou zoom.
 
-Hovering over each item in the View Summary will provide further information along with a callout line showing where the item is in the main view.
+Passando o mouse sobre cada item no Ver Resumo fornecerá mais informações juntamente com uma linha de chamada mostrando onde o item está na vista principal.
 
-Clicking on an item will select it in the Selection Panel. Double-clicking an item will zoom the main view to the item.
+Clicando em um item, ele será selecionado no Painel de Seleção. Clicando duas vezes em um item, a vista principal será ampliada para o item.
 
-When there are many items some data may be summarized using an icon along with the number of items. Hovering this will expand the items to individual units which can then be selected.
+Quando há muitos itens, alguns dados podem ser resumidos usando um ícone junto com o número de itens. Ao passar o mouse sobre o ícone, os itens serão expandidos para unidades individuais que podem ser selecionadas.
 
-[H3]Galaxy Level[/H3]
-When zoomed out to galaxy level, clicking on a system badge will change the View Summary to display the known items in that system. You can then interact with those items, selecting and moving to them, even though zoomed out to the galaxy level.
+[H3]Nível da galáxia[/H3]
+Ao ampliar para o nível da galáxia, clicar em um card do sistema mudará a Visão Sumária para exibir os itens conhecidos nesse sistema. Você pode então interagir com esses itens, selecionando e movendo-se para eles, mesmo com o zoom out para o nível da galáxia.
 
-Click the system badge again to return to viewing galaxy items. Or you can just zoom in or out using the mouse scroll-wheel.</MarkupText>
+Clique novamente no card do sistema para voltar a ver os itens da galáxia. Ou você pode simplesmente aumentar ou diminuir o zoom usando a roda de rolagem do mouse.</MarkupText>
         <RelatedControlNames>
           <string>SystemSummary</string>
         </RelatedControlNames>
       </TourStep>
       <TourStep>
-        <StepTitle>Messages</StepTitle>
-        <MarkupText>Incoming messages are displayed at the right side of the screen.
+        <StepTitle>Mensagens</StepTitle>
+        <MarkupText>As mensagens que chegam são exibidas no lado direito da tela.
 
-Messages gradually expire and disappear, as indicated by the progress bar at the bottom of each message.
-
-Hovering a message provides more detailed information, often with options to move your view to the message location.
-
-Hovering a message will also ping the location in the main view, showing you the location of the event in the galaxy (when zoomed out to the galaxy level).
-
-Left-clicking a message will select any related item in the Selection Panel.
-
-Right-clicking a message will dismiss it, removing it from the list. However the message will still be retained in the Message Log (see next).
-
-Messages can also include advisor suggestions, giving you advice on what to do next. You can approve or decline the advisor suggestion when you hover over the message.</MarkupText>
+As mensagens expiram e desaparecem gradualmente, como indicado pela barra de progresso na parte inferior de cada mensagem.
+          
+Passar o mouse sobre uma mensagem fornece informações mais detalhadas, muitas vezes com opções para mover sua visão para o local da mensagem.
+          
+Passar o mouse sobre uma mensagem também irá pingar o local na visão principal, mostrando a localização do evento na galáxia (quando ampliada para o nível da galáxia).
+          
+Clicando com o botão esquerdo do mouse em uma mensagem, você selecionará qualquer item relacionado no Painel de Seleção.
+          
+Clicando com o botão direito do mouse em uma mensagem, ela será descartada, removendo-a da lista. Entretanto, a mensagem ainda será retida no Log de Mensagens (ver a seguir).
+          
+As mensagens também podem incluir sugestões de assessores, dando-lhe conselhos sobre o que fazer a seguir. Você pode aprovar ou recusar a sugestão do conselheiro quando passar o mouse sobre a mensagem.</MarkupText>
           <RelatedControlNames>
           <string>MessageListView</string>
         </RelatedControlNames>
         <ZoomMode>Capital</ZoomMode>
       </TourStep>
       <TourStep>
-        <StepTitle>Message Log and Filtering</StepTitle>
-        <MarkupText>To see all of your past messages, open the Message Log using the button indicated. You can then hover over each message to review it in detail.
+        <StepTitle>Registro e filtragem de mensagens</StepTitle>
+        <MarkupText>Para ver todas as suas mensagens passadas, abra o Log de Mensagens usando o botão indicado. Você pode então passar o mouse sobre cada mensagem para revisá-la em detalhes.
 
-[H3]Filtering Messages[/H3]
-In the Message Log you can also filter which types of messages you want to see by clicking on the filter text at the top. This will expand the filter buttons.
+[H3]Filtro de mensagens[/H3]
+No Log de mensagens você também pode filtrar quais tipos de mensagens você deseja ver clicando no texto do filtro na parte superior. Isto expandirá os botões de filtragem.
 
-You can enable or disable message filters by faction or category.</MarkupText>
+Você pode ativar ou desativar os filtros de mensagens por facção ou categoria.</MarkupText>
         <RelatedControlNames>
           <string>MessageLogButton</string>
         </RelatedControlNames>
       </TourStep>
       <TourStep>
         <StepTitle>Galactopedia</StepTitle>
-        <MarkupText>The Galactopedia provides comprehensive help about every item in the game.
+        <MarkupText>A Galactopedia oferece uma ajuda abrangente sobre cada item do jogo.
         
-This includes topics in the following areas:
-[ULI]Game Concepts[/ULI]
-[ULI]Game Screens[/ULI]
-[ULI]Star and Planet types[/ULI]
-[ULI]Mineable Resources[/ULI]
-[ULI]Space Creatures[/ULI]
-[ULI]Alien Species[/ULI]
-[ULI]Government styles[/ULI]
-[ULI]Ship componentry[/ULI]
-[ULI]Planetary Facilities[/ULI]
+Isto inclui tópicos nas seguintes áreas:
+[ULI]Conceitos de jogo[/ULI]
+[ULI]Telas de jogo[/ULI]
+[ULI]Tipos de estrelas e Planeta[/ULI]
+[ULI]Recursos Mineráveis[/ULI]
+[ULI]Criaturas do espaço[/ULI]
+[ULI]Espécies alienígenas[/ULI]
+[ULI]Estilos de governo[/ULI]
+[ULI]Componentes do navio[/ULI]
+[ULI]Instalações planetárias[/ULI]
 
-Navigate the Galactopedia by expanding and clicking topics in the area at the right of the Galactopedia screen.
+Navegue pela Galactopedia expandindo e clicando nos tópicos da área à direita da tela da Galactopedia.
 
-[H3]Game Concepts[/H3]
-You should especially examine the topics under Game Concepts for a better understanding of how Distant Worlds 2 works.
+[H3]Conceitos de jogo[/H3]
+Você deve examinar especialmente os tópicos em Conceitos de Jogo para uma melhor compreensão de como funciona o Distant Worlds 2.
 
-These topics will help you to expand your empire more effectively. They also provide tips to optimize your play, even for experienced players.</MarkupText>
+Estes tópicos o ajudarão a expandir seu império de forma mais eficaz. Eles também fornecem dicas para otimizar seu jogo, mesmo para jogadores experientes.</MarkupText>
         <RelatedControlNames>
           <string>GalactopediaButton</string>
           <string>GalactopediaDialog</string>
         </RelatedControlNames>
       </TourStep>
       <TourStep>
-        <StepTitle>Complete!</StepTitle>
-        <MarkupText>Thanks for taking the Basic Tour of Distant Worlds 2!
+        <StepTitle>Completo!</StepTitle>
+        <MarkupText>Obrigado por fazer o Tour Básico de Distant Worlds 2!
         
-You can take this Basic Tour again at any time from the Tours screen off the Game Menu (Escape key).
+Você pode fazer este Tour Básico novamente a qualquer momento a partir da tela Tours fora do Menu do Jogo (tecla Esc).
 
-Other Tours are also available by clicking the 'Launch Tour' button in each area of the user interface.
+Outros Tours também estão disponíveis clicando no botão "Iniciar Tour" em cada área da interface do usuário.
         
-You should also browse the Galactopedia for detailed information on all elements of the game.
+Você também pode navegar pela Galactopedia para obter informações detalhadas sobre todos os elementos do jogo.
 
-Explore, Expand and Conquer!</MarkupText>
+Explorar, Expandir e Conquistar!</MarkupText>
         <RelatedControlNames>
           <string></string>
         </RelatedControlNames>
@@ -339,7 +339,7 @@ Explore, Expand and Conquer!</MarkupText>
   </TourItem>
   
   <TourItem>
-    <Title>Your Empire</Title>
+    <Title>Seu império</Title>
     <Steps>
       <TourStep>
         <StepTitle>Economy</StepTitle>
