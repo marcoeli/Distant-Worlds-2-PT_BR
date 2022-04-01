@@ -332,8 +332,8 @@
   </Resource>
   <Resource>
     <ResourceId>26</ResourceId>
-    <Name>Caguar Fur</Name>
-    <Description>A Pele de Caguar Fur é o pêlo luxuriante da Caguar listrada. A onça-pintada é um enorme gato sabre que percorre as florestas tropicais selvagens dos Mundos Floresta e dos Mundos pantanosos. O comprimento adulto de uma onça-pintada do nariz à cauda é de aproximadamente 4 metros. Eles têm garras afiadas que usam para capturar suas presas.</Description>
+    <Name>Pele de Onça</Name>
+    <Description>A Pele de Onça é o pêlo luxuriante da Onça-Pintada. A Onça-Pintada é um enorme gato sabre que percorre as florestas tropicais selvagens dos Mundos Floresta e dos Mundos pantanosos. O comprimento adulto de uma onça-pintada do nariz à cauda é de aproximadamente 4 metros. Eles têm garras afiadas que usam para capturar suas presas.</Description>
     <BaseCost>31</BaseCost>
     <ImageFilename>Environment/Resources/CaguarFur</ImageFilename>
     <Bonuses>
@@ -365,8 +365,8 @@
   </Resource>
   <Resource>
     <ResourceId>28</ResourceId>
-    <Name>Dantha Fur</Name>
-    <Description>Dantha Fur é a pele castanho-esbranquiçado desgrenhada do Dantha. Danthas são grandes animais que vivem nas vastas planícies desérticas dos mundos desérticos. Eles vivem em rebanhos que variam em tamanho de 30 a 200. Danthas migram pelo deserto em busca de comida. Sua dieta preferida são os fungos Lopid que crescem cerca de meio metro abaixo das areias do deserto. Danthas têm um olfato altamente desenvolvido que lhes permite localizar esses crescimentos fúngicos que contêm água e desenterrá-los.</Description>
+    <Name>Pele Dantha</Name>
+    <Description>A Pele Dantha é a pele castanho-esbranquiçado desgrenhada do Dantha. Danthas são grandes animais que vivem nas vastas planícies desérticas dos mundos desérticos. Eles vivem em rebanhos que variam em tamanho de 30 a 200. Danthas migram pelo deserto em busca de comida. Sua dieta preferida são os fungos Lopid que crescem cerca de meio metro abaixo das areias do deserto. Danthas têm um olfato altamente desenvolvido que lhes permite localizar esses crescimentos fúngicos que contêm água e desenterrá-los.</Description>
     <BaseCost>14</BaseCost>
     <ImageFilename>Environment/Resources/DanthaFur</ImageFilename>
     <Bonuses>
