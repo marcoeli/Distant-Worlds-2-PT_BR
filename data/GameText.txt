@@ -289,7 +289,7 @@ GameTaskType GiveShip		;Presente {0} para {1}
 GameTaskType CancelShipConstruction		;Cancelar a construção de {0} em {1}
 GameTaskType InfluenceForeignColony		;
 GameTaskType InitateContract		;
-GameTaskType InitiateCrashResearch		;Iniciar projeto de pesquisa de acidentes em {0}
+GameTaskType InitiateCrashResearch		;Iniciar projeto de pesquisa de impacto em {0}
 GameTaskType InvestigateRuins		;Investigar {0}
 GameTaskType InvestigateShip		;Investigar {0}
 GameTaskType ChangeArtifactLocation		;Mova imediatamente {0} para {1}
@@ -412,7 +412,7 @@ GameTaskType Short GiveShip		;Navio de presentes
 GameTaskType Short CancelShipConstruction		;Cancelar construção
 GameTaskType Short InfluenceForeignColony		;Colônia de influência
 GameTaskType Short InitateContract		;Iniciar contrato
-GameTaskType Short InitiateCrashResearch		;Iniciar pesquisa de falhas
+GameTaskType Short InitiateCrashResearch		;Iniciar pesquisa de impacto
 GameTaskType Short InvestigateRuins		;Investigar {0}
 GameTaskType Short InvestigateShip		;Investigar {0}
 GameTaskType Short InvestigateShip Board		;Placa {0}
@@ -1090,8 +1090,8 @@ ColonizationSuitabilityModifier		;{0} Modificador de Adequação de Colonizaçã
 Click to queue research		;Clique para enfileirar pesquisas
 Completed		;Concluído
 Right-click to cancel		;Botão direito para cancelar
-Click to initiate Crash Program		;Clique para iniciar o Programa de Crash para {0} creditos em caixa de {1} creditos
-CRASH PROGRAM (X speed)		;CRASH PROGRAM ({0}x speed)
+Click to initiate Crash Program		;Clique para iniciar o Programa de Impacto para {0} creditos em caixa de {1} creditos
+CRASH PROGRAM (X speed)		;PROGRAMA DE IMPACTO ({0}x speed)
 X% Complete		;{0} Concluído
 Must first research PROJECTS		;Primeiro deve pesquisar {0}
 We have X		;Temos {0}
@@ -1116,9 +1116,9 @@ You paid the following to initiate the PROJECTNAME project		;Você pagou o segui
 These costs will be lost if you cancel this project		;Esses custos serão perdidos se você cancelar este projeto
 Are you sure you want to cancel this project and lose these costs		;Tem certeza de que deseja cancelar este projeto e perder esses custos
 Continue Researching		;Continuar pesquisando
-Initiating crash research for the PROJECTNAME project costs CREDITS		;Iniciar a pesquisa de falhas para o projeto {0} custará {1} créditos
-Are you sure you want to pay these costs to initiate crash research for this project		;Tem certeza de que deseja pagar esses custos para iniciar a pesquisa de falhas para este projeto
-Initiate Crash Research		;Iniciar pesquisa de falhas
+Initiating crash research for the PROJECTNAME project costs CREDITS		;Iniciar a pesquisa de impacto para o projeto {0} custará {1} créditos
+Are you sure you want to pay these costs to initiate crash research for this project		;Tem certeza de que deseja pagar esses custos para iniciar a pesquisa de impacto para este projeto
+Initiate Crash Research		;Iniciar pesquisa de impacto
 Click to explore the Research Tree		;Clique para explorar a Árvore de Pesquisa
  
 ComponentCategory AreaShieldRecharge Short		;SRC
@@ -1418,7 +1418,7 @@ Reserved Abbreviation		;Rsvd
 Other		;De outros
 On Hand		;Na mão
 Maintain		;Manter
-Construction		;Construction
+Construction		;Construção Naval
 Sources		;Fontes
 On Hand Explanation		;A quantidade deste recurso disponível neste local. Isso não inclui recursos reservados.
 Maintain Explanation		;O nível de estoque a ser mantido para este recurso neste local. Os cargueiros transportarão automaticamente os recursos aqui para manter esse nível de estoque.
@@ -1606,7 +1606,7 @@ Income		;Renda
 Expenses		;Despesas
 Private Economy		;Economia Privada
 State Economy		;Economia do Governo
-Military		;Military
+Military		;Militar
 Other State		;Outro Governo
 Private		;Privado
 Excess		;Excesso
@@ -1629,7 +1629,7 @@ Cabinet		;Gabinete
 FACILITY at PLANET		;{0} em {1}
 
 Policy Settings		;Configurações de política
-Colonies		;Colonies
+Colonies		;Colônias
 New Colonies		;Novas Colônias
 Colony Ships		;Navios de Colônia
 Planetary Facilities		;Instalações Planetárias
@@ -1651,9 +1651,9 @@ Importance		;Importância
 Colonies Summary		;{0} colônias em {1} sistemas, {2} população total
 Research Stations		;Estações de Pesquisa
 New Research Locations		;Novos locais de pesquisa
-Research Screen		;Tela de pesquisa
+Research Screen		;Research Screen
 All Research Bonuses		;Todos os bônus de pesquisa
-Research		;Research
+Research		;Pesquisa
 Maximum Potential Research		;Pesquisa de Potencial Máximo
 Actual Research Output		;Resultado real da pesquisa
 Maximum Potential Research Explanation		;O potencial máximo de pesquisa do seu império aponta para a população em suas colônias e os laboratórios em suas Estações de Pesquisa. Isso inclui todos os bônus de pesquisa de locais de pesquisa.\n\nObserve que esse valor pode ser maior para alguns projetos de pesquisa em que se aplicam bônus de pesquisa mais específicos.
@@ -1675,7 +1675,7 @@ Tax Revenue		;Receita fiscal
 Research Output		;Resultado da pesquisa
 Research Bonus Amounts		;Valores de bônus de pesquisa
 
-Civilian		;Civilian
+Civilian		;Civil
 All Civilian Ships		;Todos os navios civis
 Freighters		;Cargueiros
 Resort Bases		;Bases de resorts
@@ -1728,7 +1728,7 @@ Passengers		;Passageiros
 Sort X		;Classificar: {0}
 Filter X		;Filtro: {0}
 
-Ship Construction		;Construção de Navios
+Ship Construction		;Construção
 Construction Yards		;Estaleiros de construção
 New Construction Yard Locations		;Novos locais de estaleiro de construção
 Construction Ships		;Navios de construção
@@ -1761,7 +1761,7 @@ Bases		;Bases
 Target already part of our empire		;Alvo já faz parte do nosso império
 Target destroyed		;Alvo destruído
 Troop Defend Strength		;Força de defesa da tropa
-Exploration		;Exploration
+Exploration		;Exploração
 Exploration Ships		;Navios de Exploração
 Known Ruins		;Ruínas conhecidas
 
@@ -2896,7 +2896,7 @@ General Story Events		;Eventos gerais da história
 General Story Events Explanation		;Ative eventos gerais da história: ruínas antigas, navios e bases abandonadas, campos de detritos, etc.
 Colony Events		;Eventos da colônia
 Colony Events Explanation		;Habilite eventos de colônia no jogo: desastres, pragas, etc.
-Your Empire		;Your Empire
+Your Empire		;Seu Império
 Progress		;Progresso
 Victory Conditions Explanation		;Selecione qualquer combinação de condições de vitória específicas de Território, População, Economia ou Raça à esquerda.\n\nEm seguida, selecione a porcentagem de Limiar de Vitória: esta é a parte das condições de vitória selecionadas que devem ser atendidas para a vitória.\n\nDeixe todas as vitórias condições desmarcadas para o Modo Sandbox (jogo aberto).
 Other Story Events		;Outros eventos de história
@@ -3234,7 +3234,7 @@ DiplomaticEvaluation Angry		;Nervoso
 DiplomaticEvaluation Furious		;Furioso
 
 FEELING with us		;{0} conosco
-Diplomacy		;Diplomacy
+Diplomacy		;Diplomacia
 Diplomatic Relations		;Relações diplomáticas
 Pirate Relations		;Relações Piratas
 Reputation		;Reputação
@@ -3294,7 +3294,7 @@ TradeOfferItemType DiplomacyEndWarEmpires		;Fim da Guerra com o Império
 TradeOfferItemType DiplomacyStartWarEmpires		;Declare guerra contra o Império
 TradeOfferItemType EmpireContacts		;Entre em contato com outro império
 TradeOfferItemType IndependentColonyLocations		;Locais de colônias independentes
-TradeOfferItemType Characters		;Characters
+TradeOfferItemType Characters		;Personagens
 TradeOfferItemType MapGalaxy		;Mapa da Galáxia
 TradeOfferItemType MapTerritory		;Mapa do território
 TradeOfferItemType SystemMaps		;Mapas do sistema
@@ -3384,8 +3384,8 @@ Research Critical Breakthrough		;Avanço de Pesquisa Crítica
 Research Critical Failure		;Falha em pesquisa crítica
 Research Critical Failure SCIENTIST LOCATION RESEARCHPROJECT		;Nosso cientista {0} em {1} tem seguido o caminho errado enquanto pesquisava {2}.\n\nEsse erro atrasou o progresso do projeto, pois pesquisas existentes são canceladas e novas ideias são investigadas
 Research Critical Failure RESEARCHPROJECT		;Nossos cientistas seguiram o caminho errado enquanto pesquisavam {0}.\n\nEsse erro atrasou o progresso do projeto, pois pesquisas existentes são canceladas e novas ideias são investigadas
-Research Critical Success SCIENTIST LOCATION RESEARCHPROJECT		;Nosso cientista {0} em {1} fez uma descoberta crítica enquanto pesquisava {2}.\n\nEsta descoberta deu início a um programa de pesquisa de falhas para o projeto
-Research Critical Success RESEARCHPROJECT		;Nossos cientistas fizeram uma descoberta crítica enquanto pesquisavam {0}.\n\nEssa descoberta deu início a um programa de pesquisa de falhas para o projeto
+Research Critical Success SCIENTIST LOCATION RESEARCHPROJECT		;Nosso cientista {0} em {1} fez uma descoberta crítica enquanto pesquisava {2}.\n\nEsta descoberta deu início a um programa de pesquisa de impacto para o projeto
+Research Critical Success RESEARCHPROJECT		;Nossos cientistas fizeram uma descoberta crítica enquanto pesquisavam {0}.\n\nEssa descoberta deu início a um programa de pesquisa de impacto para o projeto
 
 New Character Event Title		;Novo {0} aparece!
 New Character EVENT ROLE NAME		;Eventos recentes ({0}) produziram um novo {1}: {2}
@@ -3558,7 +3558,7 @@ Character Trait Description OnlyAppliesToExistingSkills		;só se aplica a habili
 Character Trait Description Energetic		;{0} aumento para todas as habilidades existentes
 Character Trait Description Lazy		;{0} redução para todas as habilidades existentes
 Character Trait Description Drunk		;{0} redução para todas as habilidades existentes
-Character Trait Description GoodAdministrator Scientist		;{0} redução nos custos de pesquisa de falhas
+Character Trait Description GoodAdministrator Scientist		;{0} redução nos custos de pesquisa de impacto
 
 Character Trait Description GoodTactician		;{0} aumento para todas as habilidades existentes
 Character Trait Description PoorTactician		;{0} redução para todas as habilidades existentes
@@ -3691,7 +3691,7 @@ Allow Destroy Base		;Permitir Destruir Base
 Allow Assassinations		;Permitir assassinatos
 Allow Incite Revolution		;Permitir incitar a revolução
 Intelligence Missions		;Missões de Inteligência
-Characters		;Characters
+Characters		;Personagens
 Age		;Idade
 No mission		;Sem missão
 Skill Level		;Nível de habilidade
@@ -4078,7 +4078,7 @@ Net Tax Revenue		;Receita Fiscal Líquida
 Gross Tax Revenue		;Receita Tributária Bruta
 Crash Research Cost		;Custo de pesquisa de acidente
 when research begins		;quando a pesquisa começa
-Crash Program		;Programa de falha
+Crash Program		;Programa de impacto
 
 Pirate ship joins us		;Navio pirata se junta a nós
 Foreign ship joins us		;Navio estrangeiro se junta a nós
@@ -4724,7 +4724,7 @@ A tour is available for X		;Um tour está disponível para {0}.\nClique no botã
 Click to launch a tour of X		;Clique para iniciar um tour de {0}
 Launch Tour		;Tour de lançamento
 Tour already in progress		;Tours já em andamento
-Resources and Mining		;Resources and Mining
+Resources and Mining		;Recursos
 Launch Tour of Ship Design		;Inicie um tour pelo Ship Design
 Launch Tour of Research Screen		;Iniciar tour da tela de pesquisa
 Tours		;Tours
