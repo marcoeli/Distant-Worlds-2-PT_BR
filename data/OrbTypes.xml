@@ -1719,7 +1719,7 @@
   <OrbType>
     <OrbTypeId>10</OrbTypeId>
     <Category>Planet</Category>
-    <Name>Deserto de areia</Name>
+    <Name>Deserto de Areia</Name>
     <Description></Description>
     <ImageFilename>Environment/OrbTypes/SandyDesert</ImageFilename>
     <LargeImageFilename>Environment/OrbTypes/Large/SandyDesert</LargeImageFilename>
@@ -2603,7 +2603,7 @@
   <OrbType>
     <OrbTypeId>15</OrbTypeId>
     <Category>Planet</Category>
-    <Name>Gigante gasoso congelado</Name>
+    <Name>Gigante Gasoso Congelado</Name>
     <Description></Description>
     <ImageFilename>Environment/OrbTypes/FrozenGas</ImageFilename>
     <LargeImageFilename>Environment/OrbTypes/Large/FrozenGasGiant</LargeImageFilename>
@@ -3589,7 +3589,7 @@
   <OrbType>
     <OrbTypeId>21</OrbTypeId>
     <Category>Planet</Category>
-    <Name>Tundra gelada</Name>
+    <Name>Tundra Gelada</Name>
     <Description></Description>
     <ImageFilename>Environment/OrbTypes/IceTundra</ImageFilename>
     <LargeImageFilename>Environment/OrbTypes/Large/IceTundra</LargeImageFilename>
@@ -3933,7 +3933,7 @@
   <OrbType>
     <OrbTypeId>23</OrbTypeId>
     <Category>Planet</Category>
-    <Name>Oceano profundo</Name>
+    <Name>Oceano Profundo</Name>
     <Description></Description>
     <ImageFilename>Environment/OrbTypes/DeepOcean</ImageFilename>
     <LargeImageFilename>Environment/OrbTypes/Large/DeepOcean</LargeImageFilename>
