@@ -1,0 +1,25 @@
+Your empires reputation is how others view your empire. Your reputation is separate from any specific relationship with a single empire - it is a rating of how your past actions are viewed by ALL other empires.
+
+Thus your reputation has an influence on your diplomacy with all other factions.
+
+Your reputation also has a small impact on happiness at your colonies - a positive reputation will give a boost to happiness, whereas a negative reputation will decrease happiness.
+
+[H3]Effect of Government on Reputation[/H3]
+Some government types take particular notice of another empire's reputation, while other forms of government aren't so concerned about your reputation.
+
+Generally Monarchies, Democracies, Republics and Feudalisms care a great deal about the reputations of other empires - they won’t usually form alliances with them unless they have a good reputation.
+
+On the other hand Military Dictatorships and Hive Minds are not so high-minded - they will form alliances with practically anyone.
+
+[H3]Factors that affect Reputation[/H3]
+Factors that can impact your reputation include:
+[ULI]Honoring a Defense treaty with another empire and declaring war on their enemy (when called upon by your partner) will have a positive impact on your reputation. Alternatively, failing to honor such a treaty will have a negative affect on your reputation[/ULI]
+[ULI]Peacefully integrating an independent colony through diplomacy and colonization will positively affect your reputation[/ULI]
+[ULI]Destroying pirates will have a positive effect on your reputation[/ULI]
+[ULI]Destroying space creatures will have a positive effect on your reputation[/ULI]
+[ULI]Declaring war against another empire will have a slight negative impact on your reputation, especially if the war is unjustified[/ULI]
+[ULI]Unprovoked attacks against other empires when not at war with them will have a negative impact on your reputation[/ULI]
+[ULI]Intercepted intelligence missions against another empire will have a negative affect on your reputation[/ULI]
+[ULI]Taking over an independent colony by invasion (instead of colonization) will negatively affect your reputation[/ULI]
+[ULI]Bombarding colonies will very negatively affect your reputation, unless the empire targetted by the bombardment has a very poor reputation. In this situation, other empires are not so concerned about bombardment - they feel that the targetted empire is getting what they deserve[/ULI]
+[ULI]Destroying colonies with planet destroyers will have an extremely powerful negative affect on your reputation. However, as with bombardment above, if the targetted empire has a very poor reputation then other empires will not be so concerned[/ULI]

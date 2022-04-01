@@ -1,0 +1,50 @@
+Intelligence missions enable you to secretly infiltrate other empires and steal or destroy their assets.
+
+[H3]Spies[/H3]
+Spies are the highly-trained and skilled specialists that you use to accomplish these missions.
+
+Spies become more skilled with each successful mission. The more skilled a spy is, the more difficult a mission they can take on.
+
+Conversely, it only takes one failed mission to get your spy killed or captured, so choose your missions wisely.
+
+[H3]Counter Intelligence[/H3]
+Counter-intelligence is also critical to protect your empire. You can assign spies to prevent enemy intelligence missions – they will actively seek out spies and saboteurs and report any discoveries to you. Counter-intelligence uses the Counter Espionage skill.
+
+[H3]Diplomatic fallout[/H3]
+Beware of the negative fallout from botched intelligence missions – if another empire discovers your actions against them it will dramatically lower their estimation of your empire, and could even lead to war.
+
+[H2]Mission Types[/H2]
+The following types of intelligence missions are available.
+ 
+[H3]Sabotage Construction[/H3]
+Damages ships under construction at a spaceport or colony. Skills Used: Sabotage
+ 
+[H3]Destroy Base[/H3]
+Blow up a specific enemy base. The target base must be known to your empire. Larger bases are more difficult to destroy. Skills Used: Sabotage
+ 
+[H3]Steal Territory Map[/H3]
+Steal the territory map of another empire, revealing all of the colonized systems of that empire. Skills Used: Espionage
+ 
+[H3]Steal Operations Map[/H3]
+Display the locations of all ships and bases of another empire for a short time (approximately 30 seconds). Skills Used: Espionage
+ 
+[H3]Steal Research[/H3]
+Steal research information from another empire, giving you better tech for your ships and bases. Skills Used: Espionage
+ 
+[H3]Steal Galaxy Map[/H3]
+Steal the galaxy map of another empire, revealing all of the exploration of that empire. Skills Used: Espionage
+ 
+[H3]Sabotage Colony[/H3]
+Cause a colony to lose some of its population and lower its development level. Skills Used: Sabotage
+ 
+[H3]Incite Rebellion[/H3]
+Cause an empire to experience a revolution and change of government type. The new government type is difficult to predict – it may or may not be favorable to you. Skills Used: PsyOps
+ 
+[H3]Assassinate Character[/H3]
+Kill a character of another empire. The location of the target character must be known to your empire. Enemy intelligence agents cannot be targeted by Assassination missions. Leaders are especially difficult to assassinate. Ambassadors and Colony Governors are also more difficult to assassinate. Skills Used: Assassination
+ 
+[H3]Deep Cover[/H3]
+Infiltrate an empire, providing ongoing intelligence on their Galaxy Map and Operations Map, i.e. you can see all of their ships, bases and colonies. This mission type is ongoing – i.e. if successful, your agent remains in deep cover in the target empire until either you cancel their mission or your agent is detected by the other empire. Skills Used: Concealment
+ 
+
+ 

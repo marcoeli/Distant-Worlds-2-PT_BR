@@ -1,0 +1,99 @@
+As populações em cada uma de suas colônias têm uma opinião de vocês como seu governante. Vocês devem ter o cuidado de manter a aprovação da maioria da população ou então eles podem estar inclinados a se rebelar ou mesmo deixar seu império.
+
+Você deve ter o objetivo de manter a aprovação das colônias em 5 ou mais. Qualquer coisa abaixo deste nível corre o risco de rebelião se ocorrer uma mudança repentina na felicidade, como por exemplo, um desastre natural ou uma missão de inteligência inimiga.
+ 
+[H3]Fatores que influenciam a aprovação[/H3]
+Muitos fatores podem influenciar sua aprovação em cada colônia:
+[ULI]Taxa de imposto - quanto mais baixo, melhor.[/ULI]
+[ULI]Nível de desenvolvimento - quanto maior, melhor.[/ULI]
+[ULI]Adequação ao planeta - quanto maior, melhor.[/ULI]
+[ULI]Alta Corrupção aumenta a infelicidade[/ULI]
+
+Pode haver circunstâncias especiais que reduzam a taxa de aprovação para determinadas colônias:
+[ULI]Os planetas conquistados recentemente são infelizes[/ULI]
+[ULI]As colônias com populações pouco assimiladas são menos felizes[/ULI]
+[ULI]Os recentes ataques piratas contra uma colônia aumentam a infelicidade[/ULI]
+[ULI]Guerra com um império da mesma raça de uma colônia  se você estiver em guerra com um império, e algumas de suas colônias tiverem a mesma raça dominante que esse império, então isso diminuirá seu índice de aprovação nessas colônias[/ULI]
+[ULI]Baixa qualidade do planeta - se o planeta ou a lua tem baixa qualidade (seja naturalmente ou devido ao bombardeio inimigo) então os cidadãos da colônia serão infelizes[/ULI]
+
+Outros fatores têm um impacto em todas as colônias de seu império:
+[ULI]Desgaste de guerra - se você estiver envolvido em guerras contra outros impérios, especialmente por um período prolongado, então sua taxa de aprovação cairá com todos os cidadãos de todo o seu império[/ULI]
+[ULI]Má reputação - algumas raças alienígenas podem ficar bastante preocupadas se seu império tiver uma má reputação, baixando seu índice de aprovação[/ULI]
+
+Procure manter um alto índice de aprovação, assegurando que suas colônias tenham altos níveis de desenvolvimento. Isto é conseguido assegurando as rotas comerciais de e para suas colônias para que os recursos de luxo possam chegar a elas com segurança.
+
+Além disso, tenha cuidado para não aumentar muito os impostos, geralmente é uma boa idéia permitir que os impostos das colônias sejam controlados automaticamente (configuração padrão nas Opções de Jogo).
+
+[H3]População máxima[/H3]
+As populações das colônias acabam por atingir um limite natural, momento em que não haverá mais crescimento populacional. Este limite é determinado por dois fatores:
+[ULI]Adequação do planeta para a população: maior adequação aumenta o nível máximo de população[/ULI]
+[ULI]Tamanho do mundo: mundos maiores permitem maiores níveis máximos de população[/ULI]
+
+[H3]Crescimento da população[/H3]
+A taxa de crescimento geral de uma colônia está fortemente relacionada com a adequação geral do planeta para a população que lá vive. Colônias mais adequadas crescerão muito mais rapidamente.
+
+O nível populacional também influenciará a taxa de crescimento. As pequenas colônias têm um crescimento populacional mais rápido: quando uma colônia tem menos de um quarto da sua população máxima, então o crescimento populacional é duplicado.
+
+Entre 25% e 75% de sua população máxima, a população das colônias cresce na taxa normal.
+
+Quando uma colônia atinge 75% de sua população máxima, então o crescimento da população é reduzido pela metade.
+
+[H3]Migração[/H3]
+A migração de seus cidadãos de grandes colônias para colônias menores é um fator importante para alcançar um rápido crescimento de novas colônias. Os cidadãos serão naturalmente atraídos por colônias próximas com impostos baixos e bons níveis de desenvolvimento. Eles embarcarão em navios de passageiros e migrarão para essas novas colônias, impulsionando a população de lá.
+
+[H3]Financiamento para o crescimento das colônias[/H3]
+Você pode acelerar ainda mais o crescimento das colônias direcionando o excesso de renda de seu império para o Financiamento do Crescimento das Colônias. 
+
+Você pode definir o nível de Financiamento do Crescimento das Colônias na tela de Níveis de Financiamento do Império (shift-F2). Esta é uma boa maneira de usar o excesso de renda para fazer seu império crescer mais rapidamente.
+
+É claro que você também precisa equilibrar a forma como você utiliza sua renda em outras áreas. Você precisa ter dinheiro suficiente para comprar novos navios e bases, recrutar tropas, construir novas instalações e realizar pesquisas. Você também precisa de fundos adequados para pagar os custos de manutenção de seus navios, tropas e instalações.
+
+[H3]Benefícios da pesquisa de técnicas de colonização[/H3]
+Como descrito em outra parte deste tópico, a adequação às colônias é muito importante pelas seguintes razões:
+[ULI]aumenta o máximo de população[/ULI]
+[ULI]aumenta a taxa de crescimento da população[/ULI]
+[ULI]aumenta a felicidade, e assim aumenta efetivamente a renda[/ULI]
+
+So increasing colony suitability is highly beneficial for your colonies.
+
+Uma maneira simples de aumentar a adequação é através da pesquisa dos projetos de colonização na tela de Pesquisa.
+
+Os técnicos de colonização reduzem o limiar no qual um império pode colonizar tipos específicos de planetas. Isto melhora a fórmula de adequação para estes planetas, mesmo quando eles já estão colonizados.
+
+Portanto, não deixe de pesquisar estes projetos, especialmente para o tipo de planeta de seu mundo natal e outras grandes colônias.
+
+[H3]Receita das colônias[/H3]
+Para obter o máximo rendimento de suas colônias, você deve ajudá-las a se desenvolverem em todo o seu potencial.
+
+A renda das colônias é calculada da seguinte forma:
+
+Renda das colônias = População total x Nível de desenvolvimento
+
+Assim, para maximizar a receita, é preciso maximizar tanto a população quanto o desenvolvimento de cada colônia.
+
+O rápido crescimento populacional e o alto nível de desenvolvimento das colônias são alcançados através dos mesmos métodos:
+[ULI]Manter os impostos em um nível razoável[/ULI]
+[ULI]Assegurar um bom fornecimento de recursos de luxo[/ULI]
+
+[H3]Nível de desenvolvimento da colônia: População + Recursos de Luxo[/H3]
+Como explicado mais adiante, o nível de desenvolvimento da colônia é composto de duas partes: até 50% da população + o restante de recursos de luxo
+
+[H3]Desenvolvimento a partir da população[/H3]
+Quando uma colônia tem uma população de 5 bilhões de habitantes, o seu desenvolvimento populacional atinge o nível máximo de 50%. As populações menores têm proporcionalmente menos desenvolvimento populacional. Por exemplo, uma nova colônia de 30 milhões de habitantes tem um nível de desenvolvimento populacional de aproximadamente 14%.
+
+[H3]Desenvolvimento a partir de recursos de luxo[/H3]
+Os recursos de luxo são os bens de primeira linha que sua população consome. Eles vêm em várias formas: alimentos, bebidas, têxteis, minerais exóticos e madeiras, e muitos outros. Eles aumentam diretamente o desenvolvimento, porque cada um desses recursos tem um bônus de desenvolvimento da colônia de uma quantia específica.
+
+Os recursos de luxo são consumidos pelas colônias. Ter acesso a muitos recursos de luxo eleva o nível de desenvolvimento de luxo de uma colônia, produzindo mais renda. Cada recurso de luxo aumenta o nível de desenvolvimento em uma quantidade específica (tipicamente 3-6%, mas cada recurso difere), assim quando uma colônia tem acesso consistente a muitos recursos de luxo, seu nível de desenvolvimento de luxo aumentará lentamente.
+
+Portanto, uma consideração fundamental no crescimento de suas colônias é manter e expandir um fornecimento constante de recursos de luxo.
+
+[H3]Nível de desenvolvimento geral[/H3]
+A combinação do desenvolvimento populacional e do desenvolvimento de luxo dá o nível total de desenvolvimento da colônia.
+
+Uma vez que o desenvolvimento total da colônia atinge 120%, aumenta ainda mais o nível de conicidade. Assim, recursos de luxo adicionais além de 120% adicionam apenas uma parte de seu bônus de desenvolvimento. Mesmo assim, quando uma colônia é fornecida com muitos recursos de luxo, pode atingir níveis de desenvolvimento muito altos, bem além de 100%.
+
+[H3]Diminuição da receita[/H3]
+Quando uma colônia atinge 50% de sua população máxima, a receita adicional é reduzida. A população acima de 50% de sua população máxima produz renda à metade da taxa de população abaixo desse nível.
+
+Isto significa que, embora colônias muito grandes possam produzir muito dinheiro, o aumento não é estritamente linear.

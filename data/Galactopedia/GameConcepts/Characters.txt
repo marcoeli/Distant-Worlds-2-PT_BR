@@ -1,0 +1,49 @@
+Os personagens são as pessoas da galáxia que governam impérios, conduzem diplomacia, comandam frotas, lideram tropas em batalha, conduzem pesquisas científicas, desenvolvem novas tecnologias e realizam missões de espionagem.
+
+Cada personagem tem habilidades e traços que determinam seus pontos fortes e fracos. Através de suas experiências e ações, os personagens podem adquirir novas habilidades e traços (tanto positivos quanto negativos) e também aumentar o nível de suas habilidades.
+
+Para alguns personagens, seus traços e níveis de habilidade são inicialmente escondidos. Estes só são revelados quando lhes é dada uma missão ou outra tarefa que requeira estas habilidades. Estes personagens são chamados de "Não testados".
+
+As habilidades do personagem fornecem bônus que são específicos para o papel do personagem. Alguns exemplos:
+[ULI]Líder de seu reino concede bônus a todo o seu reino[/ULI].
+[ULI]Os embaixadores concedem bônus às relações diplomáticas com o império estrangeiro no qual atuam como embaixadores[/ULI].
+[ULI]Os almirantes da frota concedem bônus a todos os navios de sua frota[/ULI].
+[ULI]Os generais das tropas concedem bônus às tropas que lideram em batalha em uma colônia [/ULI].
+[ULI]Os cientistas concedem bônus à estação de pesquisa em que estão [/ULI].
+[ULI]Os espiões usam suas várias habilidades relacionadas à espionagem para realizar diferentes tipos de missões de espionagem[/ULI].
+
+[H2]Tipos de personagens[/H2]
+[H3]Líder[/H3]
+Seu império sempre tem um líder. As habilidades e características do líder afetam todo o império.
+
+Diferentes tipos de governo têm diferentes formas de substituir o líder. Os governos eleitos geralmente realizam eleições e mudam os líderes pacificamente.  Os governos não eleitos mudam seus líderes com menos freqüência, mas quando a mudança ocorre, ela pode ser bastante perturbadora.
+
+Os bônus dos líderes se aplicam a todo o seu império. Os líderes são designados para seu mundo natal e são muito menos eficazes se não estiverem baseados em seu capital.
+
+As facções piratas têm líderes piratas especiais. Estes personagens combinam as habilidades e atributos dos líderes e dos almirantes da frota. Alguns líderes piratas são melhores como líderes, enquanto outros são melhores como almirantes. Os líderes piratas geralmente estão estacionados na base pirata da facção.
+
+[H3]Embaixadores[/H3]
+Os embaixadores são diplomatas habilidosos que podem ajudá-lo a manter seus inimigos calados e transformar seus amigos em aliados.
+
+Para influenciar uma facção estrangeira com um embaixador, é preciso identificar o mundo natal dessa facção e depois enviar o embaixador para lá.
+
+[H3]Cientista[/H3].
+Estes personagens podem aumentar sua produção de pesquisa em um único porto espacial ou estação de pesquisa. Atribua-os a um porto espacial ou estação de pesquisa para ver seus efeitos.
+
+[H3]Almirantes de Frota[/H3]
+Estes personagens afetam todos os navios de uma frota. Atribua-os a uma frota para ver seus efeitos.
+
+[H3]General[/H3]
+Esses personagens afetam todas as tropas de uma colônia ou frota. Atribua-os a uma frota ou a uma colônia para ver seus efeitos.
+
+[H3]Espiões[/H3]
+Estes personagens têm uma variedade de tarefas especiais. Por padrão, eles são designados à Contra-espionagem, que é para proteger seu império de operações de espionagem inimigas. Veja o tópico "Missões de espionagem" para mais informações.
+
+[H3]Sobrevivência do personagem[/H3]
+Os personagens podem se aposentar ou morrer por uma variedade de razões. Proteja seus personagens mais valiosos, assegurando que eles e os locais onde são utilizados estejam protegidos de danos.
+
+Os personagens também podem ser descartados usando o botão "Demissão" na tela de personagens, mas pode levar algum tempo até que um novo tipo de personagem do mesmo tipo seja criado. Na maioria dos casos, vale a pena tentar desenvolver personagens em vez de dispensá-los e esperar que surja um personagem mais excepcional.
+
+[H3] Geração de novos personagens[/H3]
+As ações do jogador influenciam o tipo de novos personagens mais prováveis de serem gerados. O início de uma grande expansão dos navios militares é susceptível de gerar um novo almirante. Da mesma forma, convencer facções estrangeiras a assinar novos tratados pode produzir um embaixador, e um grande avanço na pesquisa pode produzir um novo cientista.
+
