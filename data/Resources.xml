@@ -51,14 +51,14 @@
   <Resource>
     <ResourceId>6</ResourceId>
     <Name>Tyderios</Name>
-    <Description>Tyderios é um gás inerte raro usado em armas, blindagem e componentes de reatores. O gás Tyderios tem uma tonalidade rosada. É mais pesado que o ar e afundará até o nível do solo, a menos que seja balizado por outros gases ao redor. Ele é encontrado em quantidades vestigiais nos mundos Gigantes de Gelo e Gás Congelado.</Description>
+    <Description>Tyderios é um gás inerte raro usado em armas, blindagem e componentes de reatores. O gás Tyderios tem uma tonalidade rosada. É mais pesado que o ar e afundará até o nível do solo, a menos que seja balizado por outros gases ao redor. Ele é encontrado em quantidades vestigiais nos mundos Gigantes Gasosos e Gigantes Gasosos Congelado.</Description>
     <BaseCost>15</BaseCost>
     <ImageFilename>Environment/Resources/Tyderios</ImageFilename>
     <Bonuses />
   </Resource>
   <Resource>
     <ResourceId>7</ResourceId>
-    <Name>Silicon</Name>
+    <Name>Silício</Name>
     <Description>O silício é utilizado em componentes eletrônicos e coletores de energia. É encontrado nos mundos do Silício Rocky e do Deserto.</Description>
     <BaseCost>5</BaseCost>
     <ImageFilename>Environment/Resources/Silicon</ImageFilename>
@@ -678,7 +678,7 @@
   </Resource>
   <Resource>
     <ResourceId>46</ResourceId>
-    <Name>vinho Muurion</Name>
+    <Name>Vinho Muurion</Name>
     <Description>As plantas muurion são rebentos altos de bambu que podem atingir 15 metros de altura. Elas crescem nas vastas planícies dos mundos de pradarias. As plantas de muurion têm muitas flores pequenas e perfumadas. As pétalas amarelas destas flores são usadas para fazer vinho de Muurion.</Description>
     <BaseCost>20</BaseCost>
     <ImageFilename>Environment/Resources/MuurionWine</ImageFilename>
@@ -768,8 +768,8 @@
   </Resource>
   <Resource>
     <ResourceId>51</ResourceId>
-    <Name>Obrudan Amber</Name>
-    <Description>Obrudan Amber é a resina iridescente de cor laranja avermelhada da árvore Obrudan. Estas árvores crescem em pequenas touceiras nos mundos pantanosos. A casca da árvore é muito frágil e quando danificada, a resina vaza lentamente e endurece no tronco, criando o âmbar. Ela é freqüentemente usada em joalheria por causa de sua aparência atraente.</Description>
+    <Name>Amber Obrudan </Name>
+    <Description>Amber Obrudan é a resina iridescente de cor laranja avermelhada da árvore Obrudan. Estas árvores crescem em pequenas touceiras nos mundos pantanosos. A casca da árvore é muito frágil e quando danificada, a resina vaza lentamente e endurece no tronco, criando o âmbar. Ela é freqüentemente usada em joalheria por causa de sua aparência atraente.</Description>
     <BaseCost>20</BaseCost>
     <ImageFilename>Environment/Resources/ObrudanAmber</ImageFilename>
     <Bonuses>
@@ -1024,7 +1024,7 @@
   </Resource>
   <Resource>
     <ResourceId>66</ResourceId>
-    <Name>Tentaclos Darkhul </Name>
+    <Name>Tentáculos Darkhul </Name>
     <Description>Os Darkhuls são monstros marinhos formidáveis que habitam os túneis submarinos sem fundo dos mundos de Oceano Profundo. Os Darkhuls podem crescer até comprimentos de 100 metros ou mais. Eles são predadores de ápice que não temem nada. Caçar essas criaturas aterrorizantes é, portanto, uma tarefa perigosa, repleta de perigos. Os tentáculos Darkhul são uma iguaria rara usada como alimento e remédio em toda a galáxia.</Description>
     <BaseCost>45</BaseCost>
     <ImageFilename>Environment/Resources/DarkhulTentacles</ImageFilename>
@@ -1175,7 +1175,7 @@
   </Resource>
   <Resource>
     <ResourceId>75</ResourceId>
-    <Name>Tentaculos Ardilus</Name>
+    <Name>Tentáculos Ardilus</Name>
     <Description>Os Ardilus são monstros grandes e profundos que normalmente se escondem perto de planetas Gigante Gasoso. A caça a eles rende os premiados tentáculos de Ardilus. Estes tentáculos têm muitos usos: algumas partes podem ser comidas, outras produzem tintura. As protuberâncias espinhosas são populares na construção decorativa.</Description>
     <BaseCost>60</BaseCost>
     <ImageFilename>Environment/Resources/ArdilusTentacles</ImageFilename>
