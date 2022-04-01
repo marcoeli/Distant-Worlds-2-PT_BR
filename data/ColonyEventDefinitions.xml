@@ -282,7 +282,7 @@ Como resultado, houve uma grande perda de vidas e a erupção danificou até mes
     </OrbTypeFilters>
     <Bonuses />
     <ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Dekara Virus</Name>
+    <Name>Vírus Dekara</Name>
     <Description>O Vírus Dekara é uma doença muito dolorosa que, lentamente, paralisa o sistema nervoso central de qualquer criatura que infecte, levando, em última instância, à morte. Um surto de Vírus Dekara dura normalmente cerca de 9 meses.</Description>
     <ImageFilename>Environment/Events/DekaraVirus</ImageFilename>
     <IconFilename>Environment/Events/Icons/DekaraVirus</IconFilename>
@@ -334,7 +334,7 @@ Como resultado, houve uma grande perda de vidas e a erupção danificou até mes
     </OrbTypeFilters>
     <Bonuses />
     <ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Merturov Plague</Name>
+    <Name>Peste Merturov</Name>
     <Description>A peste Merturov é a doença mais mortal da galáxia conhecida. Ela come rapidamente o cérebro da criatura infectada, causando progressivamente insanidade, imobilização e eventual morte. A peste Merturov é um vírus altamente resistente transmitido pelo ar, sendo, portanto, muito infeccioso. Uma epidemia de peste Merturov dura tipicamente 4 meses.</Description>
     <ImageFilename>Environment/Events/MerturovPlague</ImageFilename>
     <IconFilename>Environment/Events/Icons/MerturovPlague</IconFilename>
@@ -360,8 +360,8 @@ Como resultado, houve uma grande perda de vidas e a erupção danificou até mes
     </OrbTypeFilters>
     <Bonuses />
     <ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Shakturi Psionic Virus</Name>
-    <Description>O vírus Psionic Shakturi torna uma espécie mais vulnerável aos poderes psíquicos de Shakturi.\n\nEmbora não seja particularmente mortal, sua letalidade está correlacionada com o quanto uma espécie é resistente a ataques psíquicos.\n\nAs vítimas infectadas se submetem a uma forma de sugestão psíquica, fazendo com que se comportem de forma a maximizar a propagação do vírus. Assim, o vírus Psionic Shakturi é muito infeccioso e pode se espalhar rapidamente.</Description>
+    <Name>Virus Psionico Shakturi </Name>
+    <Description>O vírus Psionico Shakturi torna uma espécie mais vulnerável aos poderes psíquicos de Shakturi.\n\nEmbora não seja particularmente mortal, sua letalidade está correlacionada com o quanto uma espécie é resistente a ataques psíquicos.\n\nAs vítimas infectadas se submetem a uma forma de sugestão psíquica, fazendo com que se comportem de forma a maximizar a propagação do vírus. Assim, o vírus Psionico Shakturi é muito infeccioso e pode se espalhar rapidamente.</Description>
     <ImageFilename>Environment/Events/PsionicMindVirus</ImageFilename>
     <IconFilename>Environment/Events/Icons/PsionicMindVirus</IconFilename>
   </ColonyEventDefinition>
@@ -389,7 +389,7 @@ Como resultado, houve uma grande perda de vidas e a erupção danificou até mes
       </Bonus>
     </Bonuses>
     <ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Haakonish Xenophobia</Name>
+    <Name>Xenofobia Haakonish</Name>
     <ImageFilename>Environment/Events/Haakonish Xenophobia</ImageFilename>
   </ColonyEventDefinition>
 
@@ -855,7 +855,7 @@ Como resultado, nosso império desfrutará de um aumento de +20% na renda do tur
     </OrbTypeFilters>
     <Bonuses />
     <ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>Our PR Campaign</Name>
+    <Name>Nossa campanha de RP</Name>
     <Description></Description>
     <ImageFilename></ImageFilename>
   </ColonyEventDefinition>
@@ -933,7 +933,7 @@ Como resultado, nosso império desfrutará de um aumento de +20% na renda do tur
     </OrbTypeFilters>
     <Bonuses />
     <ValuesDecayGradually>false</ValuesDecayGradually>
-    <Name>We Helped Aliens</Name>
+    <Name>Ajudamos alienígenas</Name>
     <Description></Description>
     <ImageFilename></ImageFilename>
   </ColonyEventDefinition>
@@ -1042,7 +1042,7 @@ Como resultado, nosso império desfrutará de um aumento de +20% na renda do tur
       </Bonus>
     </Bonuses>
     <ValuesDecayGradually>true</ValuesDecayGradually>
-    <Name>Competition Initiative</Name>
+    <Name>Iniciativa Competitiva</Name>
     <Description></Description>
     <ImageFilename></ImageFilename>
   </ColonyEventDefinition>
@@ -1154,7 +1154,7 @@ Como resultado, nosso império desfrutará de um aumento de +20% na renda do tur
       </Bonus>
     </Bonuses>
     <ValuesDecayGradually>true</ValuesDecayGradually>
-    <Name>Zenox Cognition Virus</Name>
+    <Name>Vírus de Cognição Zenox</Name>
     <Description></Description>
     <ImageFilename></ImageFilename>
   </ColonyEventDefinition>
