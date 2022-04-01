@@ -1563,7 +1563,8 @@ Os navios militares vêm em vários tamanhos e papéis. À medida que sua tecnol
 [H3]Atribuindo missões[/H3]
 Para atribuir missões a um navio militar, primeiro selecione-o clicando com o botão esquerdo do mouse na lista ou diretamente na vista principal. Depois clique com o botão direito do mouse sobre o alvo para atribuir a missão padrão.
 
-Holding down the right-click button will provide a list of all valid missions for the target. Select the desired mission Anotação a partir da lista.
+Mantendo pressionado o botão direito do mouse, será fornecida uma lista de todas as missões válidas para o alvo. Selecione a missão desejada
+ Anotação a partir da lista.
 [ULI]Ataque: inicia um ataque contra um alvo inimigo, seja ele uma nave, base, colônia ou criatura espacial. Note que atribuir uma missão de Ataque contra uma colônia inimiga a uma nave carregando tropas iniciará uma invasão, com a nave tentando aterrissar suas tropas na colônia.[/ULI]
 [ULI]Assalto: tentativas de abaixar os escudos da base inimiga e, em seguida, os grupos de assalto terrestre usando cápsulas de assalto. Se os assaltantes derrotarem qualquer defensor, podem ser capazes de saquear a base, ganhando dinheiro, recursos ou tecnologia.[/ULI]
 [ULI]Captura: tentativas de baixar os escudos da nave ou base inimiga e depois aterrissar as partes de embarque, tentando tomar conta do alvo. Se os abordadores derrotarem quaisquer defensores, eles adquirem a nave ou base para seu império.[/ULI]
