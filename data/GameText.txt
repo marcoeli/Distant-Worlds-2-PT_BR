@@ -3916,9 +3916,9 @@ Basic		;Básico
 Detailed		;Detalhado
 Mouse Click-Drag Function		;Função de clique-arrastar do mouse
 Mouse Drag Selects Ships Description		;Seleciona Navios na Vista Principal
-Mouse Drag Moves View Description		;Move a vista principal\n(Ctrl-clique para selecionar)
+Mouse Drag Moves View Description		;Move a vista principal\n(Ctrl+clique = seleção)
 Rotate Camera Mouse Button		;Botão Girar o Mouse da Câmera
-Rotate Camera Mouse Button Middle		;Botão do meio\n(ou Shift-Clique com o botão direito)
+Rotate Camera Mouse Button Middle		;Botão do meio\n(ou Shift-botão direito) 
 Rotate Camera Mouse Button Right		;Botão direito
 Screen Edge Panning		;Panorâmica da borda da tela
 DiplomacyAutoMoveToFaction		;Visualização automática para facção diplomática selecionada
