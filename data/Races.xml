@@ -599,7 +599,7 @@ Seus habitats preferidos são as planícies de terras baixas dos planetas Contin
     </SpaceportAmbientSoundEffectFilenames>
     <DefaultInfantryId>27</DefaultInfantryId>
     <Name>Ackdarian</Name>
-    <Description>Os ackdarianos são mamíferos marinhos semi-aquáticos, altamente industrializados. Eles têm mãos e pés grandes, o que os torna excelentes nadadores. No entanto, suas mãos também são bastante destreza e são igualmente felizes vivendo fora d'água.
+    <Description>Os ackdarianos são mamíferos marinhos semi-aquáticos, altamente industrializados. Eles têm mãos e pés grandes, o que os torna excelentes nadadores. No entanto, suas mãos também tem bastante destreza e são igualmente felizes vivendo fora d'água.
 
 Os ackdarianos são inteligentes, pacíficos e amigáveis. Eles têm uma cultura rica que se concentra na natureza híbrida de seu ambiente de vida, abrangendo tanto a água quanto a terra.
 
@@ -929,7 +929,7 @@ Os ackdarianos também habitam as pequenas ilhas e as áreas costeiras pouco pro
     <Name>Teekan</Name>
     <Description>Os Teekans são uma pequena raça peluda com três olhos, parecida com o rodent-like.
 
-Eles não vêem nenhum valor na lavagem regular e, portanto, tendem a cheirar mal.
+Eles não vêem nenhum valor no banho e, portanto, tendem a cheirar mal.
 
 Os Teekans têm interesse especial em acumular todo tipo de sucata mecânica, desmontar e reparar itens que eles coletam. Os Teekans têm muito pouca tecnologia que seja verdadeiramente original, mas eles podem ocasionalmente progredir a ponto de serem caçadores de espaço.
 
@@ -941,7 +941,7 @@ Os Teekans são semi-nômades; enquanto alguns vivem em assentamentos permanente
 
 As tribos nômades Teekan são obcecadas pela caça aos Bakdur, também conhecida como a lesma da areia. Como os rebanhos de Bakdurs migram através dos desertos arenosos, os acampamentos Teekan os seguem.
 
-Os Teekans habitam os vastos desertos desérticos do Deserto de Sandy, Deserto Rochoso e planetas de Savana Desértica.</Description>
+Os Teekans habitam os vastos desertos de Planetas "Deserto de Areia", "Deserto Rochoso" e "Deserto de Savana".</Description>
     <ImageFilename>UserInterface/Races/Teekan</ImageFilename>
   </Race>
   <Race>
@@ -1226,7 +1226,7 @@ Os Teekans habitam os vastos desertos desérticos do Deserto de Sandy, Deserto R
     </CharacterLastNames>
     <DefaultInfantryId>12</DefaultInfantryId>
     <Name>Haakonish</Name>
-    <Description>Os haakonish são uma raça bípede reptiliana. Eles têm cabeças amplas e planas com protuberâncias proeminentes de cada lado. As saliências são cavidades nasais que proporcionam ao haakonish um olfato inigualável. Os haakonish têm uma visão muito pobre, mas compensam isso com seu excelente sentido de olfato e paladar.
+    <Description>Os Haakonish são uma raça bípede reptiliana. Eles têm cabeças amplas e planas com protuberâncias proeminentes de cada lado. As saliências são cavidades nasais que proporcionam ao haakonish um olfato inigualável. Os haakonish têm uma visão muito pobre, mas compensam isso com seu excelente sentido de olfato e paladar.
 
 Eles são inteligentes e bastante agressivos. Os haakonish são altamente pretensiosos. Eles também têm um forte senso de sua própria superioridade racial. Assim, eles não gostam da companhia de outras raças e têm a tendência de ser xenófobos.
 
@@ -1234,7 +1234,7 @@ Os Haakonish são naturalmente atraídos por tecnologia intrincada. Eles têm gr
 
 A avareza natural do Haakonish levou-os a desenvolver a Célula de Combustível de Alta Densidade, um tanque de combustível de alta capacidade. Isto dá aos navios estelares Haakonish maior alcance e resistência.
 
-Os Haakonish normalmente vivem em biosferas totalmente fechadas nas áreas costeiras dos pântanos Marshy Swamp e Mangrove Forest planets.</Description>
+Os Haakonish normalmente vivem em biosferas totalmente fechadas nas áreas costeiras dos Planetas Pantanosos e Floresta de Manguezais.</Description>
     <ImageFilename>UserInterface/Races/Haakonish</ImageFilename>
   </Race>
   <Race>
@@ -1583,11 +1583,11 @@ Os Haakonish normalmente vivem em biosferas totalmente fechadas nas áreas coste
     </CharacterLastNames>
     <DefaultInfantryId>17</DefaultInfantryId>
     <Name>Mortalen</Name>
-    <Description>Os mortalenos são uma feroz meia raça de mamíferos, meia raça de répteis. Eles têm reflexos extremamente rápidos, uma habilidade que pode surpreender aqueles que não estão familiarizados com eles.
+    <Description>Os Mortalen são uma feroz meia raça de mamíferos, meia raça de répteis. Eles têm reflexos extremamente rápidos, uma habilidade que pode surpreender aqueles que não estão familiarizados com eles.
 
 Eles são facilmente provocados pelo menor insulto, e perseguirão um inimigo incessantemente até obterem vingança.
 
-Os mortalenos são excelentes guerreiros - uma perseguição que eles passam muito tempo aperfeiçoando. Seu código guerreiro é altamente desenvolvido. Os mortalenos consideram a derrota de um inimigo em batalha como a maior conquista possível. Eles são amplamente reconhecidos como quase certamente os melhores combatentes da galáxia.
+Os Mortalen são excelentes guerreiros - uma perseguição que eles passam muito tempo aperfeiçoando. Seu código guerreiro é altamente desenvolvido. Os Mortalen consideram a derrota de um inimigo em batalha como a maior conquista possível. Eles são amplamente reconhecidos como quase certo os melhores combatentes da galáxia.
 
 Eles desenvolveram um poderoso motor vetor, o Swift Vector. Este avançado componente do motor dá às naves estelares Mortalen uma agilidade e manobra inigualáveis.
 
@@ -1595,7 +1595,7 @@ Os Mortalen desfrutam de uma vida bastante simples, seguindo muitas tradições 
 
 Uma tradição em particular exige que qualquer homem que procure uma liderança tribal para caçar e matar um dos temíveis Mortaks. Os Mortaks são grandes monstros aterrorizantes que habitam as vastas terras desertas e arenosas do mundo natal dos Mortalen. O nome Mortalen significa "Caçador dos Mortak".
 
-Os mortalenos são normalmente encontrados vivendo em habitações de blocos simples nos pisos de cânions cobertos de arbustos dos planetas do Deserto Rochoso. Eles também podem ser encontrados nos planetas Sandy Desert ou Desert Savanna.</Description>
+Os Mortalen são normalmente encontrados vivendo em habitações de blocos simples nos pisos de cânions cobertos de arbustos dos planetas do Deserto Rochoso. Eles também podem ser encontrados nos planetas Deserto de Areia ou Deserto de Savanna.</Description>
     <ImageFilename>UserInterface/Races/Mortalen</ImageFilename>
   </Race>
   <Race>
@@ -1699,7 +1699,7 @@ Os mortalenos são normalmente encontrados vivendo em habitações de blocos sim
     <Name>Ikkuro</Name>
     <Description>Os Ikkuro são primatas grandes e musculosos com pêlo curto marrom-avermelhado.
 
-Têm orelhas muito grandes e largamente espaçadas que lhes permitem determinar com precisão a localização dos sons. Esta habilidade lhes dá habilidades rudimentares de sonar, permitindo-lhes "ver" no escuro.
+Têm orelhas muito grandes e largamente espaçadas que lhes permitem determinar com precisão a localização dos sons. Isto lhes dá habilidades rudimentares de sonar, permitindo-lhes "ver" no escuro.
 
 O Ikkuro tende a ser inteligente e agressivo, embora cauteloso. Os Ikkuro são frequentemente de temperamento curto. Quando provocados ou ameaçados, eles podem rapidamente se tornar violentos. Apesar disso, eles são geralmente gentis e carinhosos com aqueles que conhecem bem.
 
@@ -1709,7 +1709,7 @@ Esta predisposição mecânica natural também levou o Ikkuro a desenvolver o S2
 
 O Ikkuro tem um grande fascínio por árvores e plantas, e tem um amplo conhecimento dos vários tipos de flora em toda a galáxia. Eles usam este conhecimento especializado para criar uma gama de medicamentos herbáceos altamente eficazes.
 
-Eles vivem tipicamente em florestas de árvores no alto dos dossel da floresta, em planetas continentais ou de pastagens.</Description>
+Eles normalmente vivem em habitações arborizadas no alto das copas das árvores em Planetas Florestais, Continentais ou Pradarias.</Description>
     <ImageFilename>UserInterface/Races/Ikkuro</ImageFilename>
   </Race>
   <Race>
@@ -2058,13 +2058,13 @@ Eles vivem tipicamente em florestas de árvores no alto dos dossel da floresta, 
     <Name>Boskara</Name>
     <Description>Boskara são uma raça feroz de insetoides com uma pele dura de exoesqueleto marrom.
 
-Eles são a raça mais violenta e agressiva da galáxia conhecida. Eles se destacam no combate, usando truques e enganos para ganhar a vantagem. Boskara são aliados não confiáveis.
+Eles são a raça mais violenta e agressiva da galáxia conhecida. Eles se destacam no combate, usando truques e enganos para ganhar vantagem. Boskara são aliados não confiáveis.
 
-A luxúria instintiva dos bóscaros pela conquista e expansão é sem igual. A maioria das outras raças os consideram completamente sem escrúpulos, e assim se afastam bem deles. Entretanto, os Boskara têm um aliado natural no Sluken, seus parentes próximos um pouco mais razoáveis.
+A luxúria instintiva dos Boskara pela conquista e expansão é sem igual. A maioria das outras raças os consideram completamente sem escrúpulos, e assim se afastam bem deles. Entretanto, os Boskara têm um aliado natural no Sluken, seus parentes próximos um pouco mais razoáveis.
 
-Sua tecnologia inclui o mortal Shaktur FireStorm, uma arma torpedo imensamente destrutiva. Esta arma dá às naves estelares Boskaran capacidades de ataque planetárias muito poderosas, permitindo-lhes derrubar rapidamente os aeroportos de defesa das colônias inimigas. A Shaktur Firestorm também tem capacidade de bombardeio planetário, permitindo que os Boskara eliminem as populações das colônias inimigas.
+Sua tecnologia inclui o mortal Shaktur FireStorm, uma arma torpedo imensamente destrutiva. Esta arma dá às naves estelares Boskaran capacidades de ataque planetárias muito poderosas, permitindo-lhes derrubar rapidamente os espaços de defesa das colônias inimiga. A Shaktur Firestorm também tem capacidade de bombardeio planetário, permitindo que os Boskara eliminem as populações das colônias inimigas.
 
-Boskara normalmente habita o terreno proibitivo dos planetas vulcânicos. As comunidades também podem às vezes ser encontradas nas montanhas rochosas dos planetas Carbonaceus.</Description>
+Boskara normalmente habita o terreno inóspito dos planetas vulcânicos. As comunidades também podem às vezes ser encontradas nas montanhas rochosas dos planetas Carbonaceus.</Description>
     <ImageFilename>UserInterface/Races/Boskara</ImageFilename>
   </Race>
   <Race>
@@ -2405,7 +2405,7 @@ Boskara normalmente habita o terreno proibitivo dos planetas vulcânicos. As com
     <Name>Zenox</Name>
     <Description>Zenox são uma antiga raça felina com pêlo dourado espesso.
 
-Eles são muito cautelosos e não entrarão levemente em um acordo com outros. Quaisquer novos tratados que formem geralmente envolvem um período extremamente longo de negociação, com uma fase de revisão prolongada em cada etapa das discussões. A Zenox garante que eles sejam absolutamente claros em cada último detalhe do acordo antes de finalmente aprová-lo.
+Eles são muito cautelosos e não entram em um acordo com os outros de uma forma leviana. Quaisquer novos tratados que formem geralmente envolvem um período extremamente longo de negociação, com uma fase de revisão prolongada em cada etapa das discussões. A Zenox garante que eles sejam absolutamente claros em cada último detalhe do acordo antes de finalmente aprová-lo.
 
 A Zenox tem um interesse particular em registrar e preservar a história galáctica. Eles buscam itens de importância histórica de toda a galáxia.
 
@@ -2415,7 +2415,7 @@ De fato, algumas de suas pesquisas históricas levaram a afirmações pouco orto
 
 A tecnologia Zenox inclui um avançado componente de escudo, o Megatron. Estes poderosos escudos dão uma potente defesa às bases e naves estelares Zenox.
 
-Os Zenox habitam os desertos da Tundra de Tundra de Gelo, Gelo ou Planetas de Gelo Congelado. Eles normalmente constroem grandes cidades no subsolo em vastas cavernas e túneis de gelo.</Description>
+Os Zenox habitam os desertos de Planetas Tundra Gelada, Gelo ou Congelado. Eles normalmente constroem grandes cidades no subsolo em vastas cavernas e túneis de gelo.</Description>
     <ImageFilename>UserInterface/Races/Zenox</ImageFilename>
   </Race>
   <Race>
@@ -2557,11 +2557,11 @@ Os Zenox habitam os desertos da Tundra de Tundra de Gelo, Gelo ou Planetas de Ge
     <ImageFilename>UserInterface/Races/Wekkarus</ImageFilename>
     <Description>Os Wekkarus são grandes crustáceos com mandíbulas faciais distintas.
 
-Os Wekkarus vivem nas profundezas dos mares dos planetas oceânicos. Eles também podem viver fora d'água por longos períodos, mas preferem um ambiente úmido.
+Os Wekkarus vivem nas profundezas dos mares nos Planetas Oceânicos. Eles também podem viver fora d'água por longos períodos, mas preferem um ambiente úmido.
 
 Eles constroem cidades subaquáticas inteiras nas vastas cavernas e nos túneis dos mundos oceânicos que habitam. Essas cidades são centros de tecnologia e indústria, fabricando tecnologia subaquática avançada que é utilizada em toda a galáxia.
 
-Os túneis subaquáticos profundos que o Wekkarus habita são também o lar de uma abundância de outra vida marinha - algumas delas hostis. O Wekkarus teme um predador em particular: o leviatã Darkhul, um formidável monstro das profundezas do mar que cresce até comprimentos de 100 metros ou mais.
+Os túneis subaquáticos profundos que o Wekkarus habitam são também o lar em abundância de outra vida marinha - algumas delas hostis. O Wekkarus teme um predador em particular: o leviatã Darkhul, um formidável monstro das profundezas do mar que cresce até 100 metros de comprimento ou mais.
 
 Wekkarus adaptou-se a estas ameaças desenvolvendo poderosos campos de força que guardam as entradas de suas colônias submarinas.
 
@@ -2708,9 +2708,9 @@ Eles têm preservado uma história oral detalhada que remonta a centenas de gera
 
 Sua relutância em tolerar qualquer pensamento inovador fez com que sua cultura e tecnologia estagnassem a um nível bastante primitivo.
 
-Acima de tudo, os Atuuks gostam de caçar nas selvas de seu mundo natal. Sua presa preferida é o Caguar listrado, um enorme gato sabre armado com garras afiadas. Caçar esta enorme besta é extremamente perigoso. Os Atuuks geralmente caçam as onças-pintadas em equipes de 30-40, armados apenas com simples lanças de ponta de pedra.
+Acima de tudo, os Atuuks gostam de caçar nas selvas de seu mundo natal. Sua presa preferida é a Onça-Pintada, um enorme gato sabre armado com garras afiadas. Caçar esta enorme besta é extremamente perigoso. Os Atuuks geralmente caçam as Onças-Pintadas em equipes de 30-40, armados apenas com simples lanças de ponta de pedra.
 
-Os Atuuks vivem em cabanas de árvores rudimentares em planetas florestais ou continentais.</Description>
+Os Atuuks vivem em cabanas de árvores rudimentares em Planetas Florestais ou Continentais.</Description>
   </Race>
   <Race>
     <RaceId>10</RaceId>
@@ -2879,19 +2879,19 @@ Os Atuuks vivem em cabanas de árvores rudimentares em planetas florestais ou co
     <DefaultInfantryId>44</DefaultInfantryId>
     <Name>Dhayut</Name>
     <ImageFilename>UserInterface/Races/Dhayut</ImageFilename>
-    <Description>Os dhayuts são uma grande e poderosa raça aracnídea. Os dhayuts têm uma enorme cabeça distendida com manchas vermelhas proeminentes e grandes olhos amarelo-laranja.
+    <Description>Os Dhayuts são uma grande e poderosa raça aracnídea. Os Dhayuts têm uma enorme cabeça distendida com manchas vermelhas proeminentes e grandes olhos amarelo-laranja.
 
-Os dhayuts são muito agressivos e altamente antipáticos. Eles também podem revelar-se parceiros traiçoeiros, traindo seus aliados sempre que conveniente.
+Os Dhayuts são muito agressivos e altamente antipáticos. Eles também podem revelar-se parceiros traiçoeiros, traindo seus aliados sempre que conveniente.
 
 Eles se reproduzem a um ritmo baixo, e assim suas populações podem levar algum tempo para crescer.
 
 Quando estão irritados, os Dhayuts podem se tornar frenéticos e temporariamente loucos, agindo de forma instintiva e selvagem. Nesses momentos, eles são extremamente perigosos, tornando-se totalmente destemidos quando atacam.
 
-Os dhayuts também são famosos por sua impiedade. Eles geralmente não têm dúvidas sobre roubar, trapacear ou assassinar, se isso lhes interessa. Por esta razão, é prudente usar de extrema cautela ao lidar com eles.
+Os Dhayuts também são famosos por sua impiedade. Eles geralmente não têm dúvidas sobre roubar, trapacear ou assassinar, se isso lhes interessa. Por esta razão, é prudente usar de extrema cautela ao lidar com eles.
 
 O fascínio natural dos Dhayuts pela tecnologia do hiperespaço os levou a desenvolver o VelocityDrive ST3, um hiperdrive extremamente rápido e eficiente.
 
-Os habitats naturais dos Dhayuts são recantos rochosos em Savana do Deserto, Deserto Rochoso ou planetas do Deserto Sandy.</Description>
+Os habitats naturais dos Dhayuts são recantos rochosos em planetas Deserto de Savanas, Deserto Rochoso ou Deserto de Areia.</Description>
   </Race>
   <Race>
     <RaceId>11</RaceId>
@@ -3072,15 +3072,15 @@ Os habitats naturais dos Dhayuts são recantos rochosos em Savana do Deserto, De
     <DefaultInfantryId>45</DefaultInfantryId>
     <Name>Gizurean</Name>
     <ImageFilename>UserInterface/Races/Gizurean</ImageFilename>
-    <Description>Os gizureanos são uma raça de insetoides com quatro braços. Os gizureanos também podem voar curtas distâncias com suas pequenas asas.
+    <Description>Os Gizureanos são uma raça de insetoides com quatro braços. Os Gizureanos também podem voar curtas distâncias com suas pequenas asas.
 
-Eles são agressivos e hostis, embora não sejam muito inteligentes. Os gizureanos tendem a ser altamente beligerantes. Eles freqüentemente fazem reivindicações inflamadas de sua própria superioridade tribal, zombando e insultando ferozmente outras tribos. Isto leva a freqüentes batalhas inter-tribais.
+Eles são agressivos e hostis, embora não sejam muito inteligentes. Os Gizureanos tendem a ser altamente beligerantes. Eles freqüentemente fazem reivindicações inflamadas de sua própria superioridade tribal, zombando e insultando ferozmente outras tribos. Isto leva a freqüentes batalhas inter-tribais.
 
-Os gizureanos têm uma intensa antipatia por outras raças alienígenas, especialmente as não insetoides. Esta característica torna muito difícil assimilar pacificamente os gizureanos em um império.
+Os Gizureanos têm uma intensa antipatia por outras raças alienígenas, especialmente as não insetoides. Esta característica torna muito difícil assimilar pacificamente os Gizureanos em um império.
 
 Eles têm uma taxa de reprodução muito alta, e assim seus impérios podem crescer e expandir-se muito rapidamente.
 
-Os gizureanos normalmente constroem suas casas subterrâneas cavernosas em áreas rochosas do Deserto Rochoso ou planetas do Deserto de Sandy, mas às vezes também podem ser encontrados em Savanas do Deserto ou planetas vulcânicos.</Description>
+Os Gizureanos normalmente constroem suas cavernosas casas subterrâneas em áreas rochosas de Planetas de Desertos Rochosos ou de Desertos de Areias, mas às vezes também podem ser encontrados em Deserto de Savanas ou Planetas Vulcânicos.</Description>
   </Race>
   <Race>
     <RaceId>12</RaceId>
@@ -3242,11 +3242,11 @@ Os gizureanos normalmente constroem suas casas subterrâneas cavernosas em área
 
 Os Ketarovs são muito inteligentes e adoram intrigas e enganos. Em vez de entrar em conflito aberto com seus inimigos, eles preferem usar a espionagem e a sabotagem para explorar suas fraquezas.
 
-Eles desconfiam muitas vezes que outros estão trabalhando para miná-los. Esta paranóia natural reforça sua inclinação para a espionagem e a espionagem. No entanto, também pode levar a mal-entendidos, pois questionam constantemente as intenções até mesmo de seus amigos.
+Eles desconfiam muitas vezes que outros estão trabalhando para miná-los. Esta paranóia natural reforça sua inclinação para a espionagem e a sabotagem. No entanto, também pode levar a mal-entendidos, pois questionam constantemente as intenções até mesmo de seus amigos.
 
 Por estas razões, os Ketarovs são frequentemente aliados pouco confiáveis - ironicamente, eles não são confiáveis porque não confiam nos outros.
 
-Os ketarovs são geralmente encontrados em grandes comunidades que habitam as planícies abertas de Grasslands ou planetas continentais.</Description>
+Os ketarovs são geralmente encontrados em grandes comunidades que habitam as planícies abertas de Planetas de Pradarias ou Continentais.</Description>
   </Race>
   <Race>
     <RaceId>13</RaceId>
@@ -3587,17 +3587,17 @@ Os habitats típicos dos Kiadianos são as montanhas e as planícies baixas dos 
     <DefaultInfantryId>48</DefaultInfantryId>
     <Name>Naxxilian</Name>
     <ImageFilename>UserInterface/Races/Naxxilian</ImageFilename>
-    <Description>Os naxxilianos são répteis imponentes e temíveis com olhos vermelhos intensos. Apesar de serem répteis, os naxxilianos estão cobertos de peles desgrenhadas. Eles têm antebraços imensamente poderosos que os equipam bem para o combate corpo a corpo.
+    <Description>Os Naxxilianos são répteis imponentes e temíveis com olhos vermelhos intensos. Apesar de serem répteis, os Naxxilianos estão cobertos de peles desgrenhadas. Eles têm antebraços imensamente poderosos que os equipam bem para o combate corpo a corpo.
 
-Eles são altamente agressivos, mas podem ser aliados bastante leais se fizerem amizade. Os naxxilianos tendem a ser extremamente cautelosos, embora possam ser bastante amigáveis uma vez que se familiarizem com os outros.
+Eles são altamente agressivos, mas podem ser aliados bastante leais se fizerem amizade. Os Naxxilianos tendem a ser extremamente cautelosos, embora possam ser bastante amigáveis uma vez que se familiarizem com os outros.
 
-Os naxxilianos são fanaticamente devotados a um esporte competitivo que chamam de Todash. O Todash é um jogo jogado com duas pequenas rochas. O objetivo do jogo é colocar ambas as pedras na área de gol do time adversário ao mesmo tempo. Um ponto é marcado quando isso acontece. O primeiro time a alcançar 10 pontos ganha o jogo.
+Os Naxxilianos são fanaticamente devotados a um esporte competitivo que chamam de Todash. O Todash é jogado com duas pequenas rochas. O objetivo do jogo é colocar ambas as pedras na área de gol do time adversário ao mesmo tempo. Um ponto é marcado quando isso acontece. O primeiro time a alcançar 10 pontos ganha o jogo.
 
-Em Todash, não há regras rígidas sobre como se pode enfrentar um jogador carregando uma das pedras, de modo que o jogo às vezes pode se tornar bastante brutal. A posse sobre as duas pedras pode ser vista para frente e para trás por um tempo considerável, sem nenhuma vantagem clara para nenhum dos times. Os jogos podem às vezes se estender por muitas horas, e podem até ser adiados para retomar no dia seguinte.
+No Todash, não há regras rígidas sobre como se pode enfrentar um jogador carregando uma das pedras, de modo que o jogo às vezes pode se tornar bastante brutal. A posse sobre as duas pedras podem ser vista para frente e para trás por um tempo considerável, sem nenhuma vantagem clara para nenhum dos times. Os jogos podem às vezes se estender por muitas horas, e podem até ser adiados para retomar no dia seguinte.
 
-Muitos Naxxilians vivem em pequenos acampamentos tribais. Entretanto, eles também têm áreas urbanas altamente desenvolvidas, repletas de indústrias avançadas, como a construção de naves estelares.
+Muitos Naxxilianos vivem em pequenos acampamentos tribais. Entretanto, eles também têm áreas urbanas altamente desenvolvidas, repletas de indústrias avançadas, como a construção de naves estelares.
 
-Os naxxilianos normalmente vivem nos desertos da Tundra de Gelo e planetas de gelo, mas às vezes também podem ser encontrados em vales isolados em planetas de gelo congelado.</Description>
+Os Naxxilianos normalmente vivem nos desertos dos Planetas de Tundra Gelados e de Gelo, mas às vezes também podem ser encontrados em vales isolados de Planetas Congelados.</Description>
   </Race>
   <Race>
     <RaceId>15</RaceId>
@@ -3757,17 +3757,17 @@ Os naxxilianos normalmente vivem nos desertos da Tundra de Gelo e planetas de ge
     </StartingArtifactIds>
     <Name>Quameno</Name>
     <ImageFilename>UserInterface/Races/Quameno</ImageFilename>
-    <Description>Os quamenos são uma raça anfíbia altamente inteligente. Os quamenos são altos e graciosos, com membros longos e pescoço. Seus grandes olhos são colocados na lateral da cabeça, dando-lhes uma excelente visão periférica com um alcance de quase 360 graus.
+    <Description>Os Quamenos são uma raça anfíbia altamente inteligente. Os Quamenos são altos e graciosos, com longos membros  e pescoço. Seus grandes olhos são colocados na lateral da cabeça, dando-lhes uma excelente visão periférica com um alcance de quase 360 graus.
 
-Os quamenos são muito pacíficos e preferem se manter em paz. Eles normalmente preferem viver isolados de outras raças, ficando fora do mainstream da atividade galáctica.
+Os Quamenos são muito pacíficos e preferem se manter em paz. Eles normalmente preferem viver isolados de outras raças, ficando fora do mainstream da atividade galáctica.
 
 Eles gostam de desafios mentais difíceis, como resolver enigmas ou decifrar inscrições desconhecidas. Esta inclinação natural também os torna linguistas dotados - eles podem dominar uma nova língua dentro de poucos dias.
 
 Eles também adoram experimentar princípios científicos exóticos e, no processo, muitas vezes produzem tecnologia potente. De fato, seu fascínio natural por teorias energéticas incomuns os levou a desenvolver o NovaCore, um reator muito poderoso e eficiente.
 
-Os quamenos têm um tremendo interesse na história galáctica. Eles também buscam artefatos pré-históricos peculiares. Seus estudos levaram muitos estudiosos quamenos a afirmar que existem grandes lacunas em nossa compreensão de eventos passados.
+Os Quamenos têm um tremendo interesse na história galáctica. Eles também buscam artefatos pré-históricos peculiares. Seus estudos levaram muitos estudiosos Quamenos a afirmar que existem grandes lacunas em nossa compreensão de eventos passados.
 
-As comunidades de Quameno normalmente vivem em biodomes semi-submersos, de alta tecnologia, nas áreas costeiras rasas dos planetas oceânicos ou de águas profundas.</Description>
+As comunidades de Quameno normalmente vivem em biodomes semi-submersos, de alta tecnologia, nas áreas costeiras rasas dos Planetas Oceânicos ou de Oceanos Profundos.</Description>
   </Race>
   <Race>
     <RaceId>16</RaceId>
@@ -3925,7 +3925,7 @@ Elas também têm um interesse apaixonado em cozinhar e comer. Apreciar boa comi
 
 Os securanos são muito hospitaleiros e, invariavelmente, eles se entregam a qualquer visitante de fora do mundo em uma grande festa que apresenta toda a sua excelente cozinha.
 
-Os securanos habitam as vastas planícies abertas de Savana Deserta, Deserto de Sandy ou planetas do Deserto Rochoso.</Description>
+Os securanos habitam as vastas planícies abertas de planetas de Desertos de Savanas , Desertos de Areias ou Desertos Rochosos.</Description>
   </Race>
   <Race>
     <RaceId>17</RaceId>
@@ -4057,15 +4057,15 @@ Os securanos habitam as vastas planícies abertas de Savana Deserta, Deserto de 
     <DefaultInfantryId>51</DefaultInfantryId>
     <Name>Shandar</Name>
     <ImageFilename>UserInterface/Races/Shandar</ImageFilename>
-    <Description>SOs handars são uma raça reptiliana de pele verde escamosa e fácil de andar.
+    <Description>Os Shandar são uma raça reptiliana de vida simples, com pele verde escamosa..
 
-Os Shandar residem perto de aberturas de vapor vulcânicas em planetas vulcânicos ou caribáceos. Às vezes também podem ser encontrados em mundos vulcânicos de enxofre. Eles adoram calor e calor, e especialmente gostam de ficar horas a fio em piscinas geotérmicas quentes.
+Os Shandar residem perto de aberturas de vapor vulcânicas em Planetas Vulcânicos ou Carbonaceous. Às vezes também podem ser encontrados em mundos Vulcânicos de Enxofre. Eles adoram calor e aquecimento e especialmente gostam de ficar horas a fio em piscinas geotérmicas quentes.
 
-A vida útil de Shandar é medida em séculos, com alguns chegando mesmo a atingir 1.000 anos de idade. Eles geralmente são bastante descontraídos e não se preocupam com preocupações ou planejamento. Shandar se concentra em desfrutar de prazeres simples e viver no momento.
+A vida útil de Shandar é medida em séculos, com alguns chegando mesmo a atingir 1.000 anos de idade. Eles geralmente são bastante descontraídos e não se preocupam com problemas ou planejamento. Shandar se concentra em desfrutar de prazeres simples e viver o momento.
 
 Eles são particularmente hábeis em usar lava líquida na construção, formando estruturas à medida que resfria até a rocha. Usando estas técnicas, eles podem fabricar rapidamente edifícios resistentes e duráveis. Seus vastos pátios subterrâneos, construídos desta maneira, são especialmente famosos.
 
-Apesar de muitas vezes explorarem industrialmente as pedras preciosas, eles geralmente se interessam pouco pela galáxia maior ao seu redor. Eles geralmente se contentam em viver suas vidas de séculos, baseando-se no calor das margens dos lagos de lava.</Description>
+Apesar de muitas vezes explorarem industrialmente as pedras preciosas, eles geralmente pouco se interessam pela galáxia maior ao seu redor. Eles geralmente se contentam em viver suas vidas de séculos, baseando-se no calor das margens dos lagos de lava.</Description>
   </Race>
   <Race>
     <RaceId>18</RaceId>
@@ -4223,17 +4223,17 @@ Apesar de muitas vezes explorarem industrialmente as pedras preciosas, eles gera
     </CharacterLastNames>
     <Name>Sluken</Name>
     <ImageFilename>UserInterface/Races/Sluken</ImageFilename>
-    <Description>Os eluídos são uma raça de insetoides curtos com cobertura de exoesqueleto marrom espesso. Os eluenos têm muitos antebraços pequenos que lhes permitem realizar múltiplas ações simultaneamente.
+    <Description>Os Sluken são uma raça de insetoides pequenos com cobertura de exoesqueleto marrom espesso. Os Sluken têm muitos antebraços pequenos que lhes permitem realizar múltiplas ações simultaneamente.
 
-Os eluenos são muito agressivos e inteligentes. Um tema central em seus costumes envolve uma macabra reverência à morte.
+Os Sluken são muito agressivos e inteligentes. Um tema central em seus costumes envolve uma macabra reverência à morte.
 
-Os dejetos têm a bizarra e horripilante capacidade de incorporar em seus próprios corpos os apêndices biológicos e órgãos de outras raças alienígenas. Assim, alguns Derramados têm membros, olhos ou outras partes do corpo adicionais.
+Os Sluken têm a bizarra e horripilante capacidade de incorporar em seus próprios corpos os apêndices biológicos e órgãos de outras raças alienígenas. Assim, alguns Slukens têm membros, olhos ou outras partes do corpo adicionais.
 
 Algumas outras raças alienígenas alegam que os Sluken são, de fato, criaturas geneticamente modificadas, concebidas como uma raça guerreira final. Mas os próprios Sluken denunciam tais afirmações como calúnias ultrajantes.
 
 A tecnologia dos Sluken inclui o StarBurner, um motor muito rápido e poderoso. Com estes motores, as naves estelares Sluken são capazes de superar quase todos os oponentes.
 
-Os Sluken são encontrados nos planetas Marshy Swamp e Mangrove Forest.</Description>
+Os Sluken são encontrados nos Planetas Pantanoso e Florestas de Manguezais.</Description>
   </Race>
   <Race>
     <RaceId>19</RaceId>
@@ -4405,21 +4405,21 @@ Os Sluken são encontrados nos planetas Marshy Swamp e Mangrove Forest.</Descrip
     <DefaultInfantryId>53</DefaultInfantryId>
     <Name>Ugnari</Name>
     <ImageFilename>UserInterface/Races/Ugnari</ImageFilename>
-    <Description>Os Ugnari são uma raça de roedores curtos e enrugados.
+    <Description>Os Ugnari são uma raça de roedores pequenos e enrugados.
 
 Embora não especialmente dotados de tecnologia, os Ugnari são fascinados por maquinaria e eletrônica e passam muito tempo estudando e experimentando diligentemente com eles.
 
 Este fascínio freqüentemente leva o Ugnari a inventar tecnologias alternativas interessantes, combinando componentes não relacionados entre si para formar novos equipamentos com capacidades aprimoradas.
 
-A Ugnari também gosta de apostar e fazer apostas em quase todas as atividades imagináveis.
+OS Ugnari também gostam de apostar e fazer apostas em quase todas as atividades imagináveis.
 
-Por natureza, eles são bastante amigáveis, embora cautelosos. Entretanto, é sábio examinar cuidadosamente as letras miúdas de qualquer contrato comercial feito com um Ugnari - eles são muitas vezes desonestos, até mesmo desonestos.
+Por natureza, eles são bastante amigáveis, embora cautelosos. Entretanto, é sábio examinar cuidadosamente as letras miúdas de qualquer contrato comercial feito com um Ugnari - eles são muitas vezes desonestos, até mesmo enganosos.
 
 Os Ugnari não vêem a desonestidade como um traço negativo, nem consideram enganar alguém como um insulto pessoal à sua vítima. Ao contrário, eles consideram um negócio altamente lucrativo como uma grande conquista, mesmo que tenha sido alcançado por truques. Na verdade, eles admiram muito qualquer um que consiga enganá-los.
 
-Sua tecnologia inclui o sistema Raptor Combat Targetting. Esta poderosa tecnologia de mira torna o fogo de armas das naves militares Ugnari mais preciso e mortal.
+Sua tecnologia inclui o sistema Alvo de combate de Raptor. Esta poderosa tecnologia de mira torna o fogo de armas das naves militares Ugnari mais preciso e mortal.
 
-O Ugnari habita as terras devastadas de Tundra de Gelo e planetas de Gelo. Eles normalmente constroem grandes cidades no subsolo em vastas cavernas e túneis de gelo.</Description>
+Os Ugnari habitam os desertos de Tundras Geladas e Planetas de gelo. Normalmente constroem grandes cidades no subsolo em enormes cavernas e túneis de gelo.</Description>
   </Race>
   <Race>
     <RaceId>249</RaceId>
