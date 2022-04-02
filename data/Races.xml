@@ -313,7 +313,7 @@ Os seres humanos têm uma curiosidade natural que lhes dá uma vantagem na pesqu
 
 Os seres humanos têm um passado misterioso, camuflado em ambigüidade. Não está claro de onde eles se originaram. Alguns dizem que eles são na verdade imigrantes de outra galáxia. Os próprios seres humanos reivindicam o Sol como seu sistema de origem.
 
-Seus habitats preferidos são as planícies de terras baixas dos planetas Continental, Florestal ou de Prados.</Description>
+Seus habitats preferidos são as planícies de terras baixas dos Planetas Continentais, Florestal ou de Pradarias.</Description>
     <ImageFilename>UserInterface/Races/Human</ImageFilename>
   </Race>
   <Race>
@@ -609,7 +609,7 @@ Os ackdarianos são famosos por cultivar as algas Nepthys, das quais eles produz
 
 Eles também são mestres na construção subaquática, construindo grandes e elaboradas cidades submarinas. Essas cidades têm muitos níveis, alguns dos quais chegam até bem abaixo das vastas profundezas dos oceanos que habitam. Nos níveis mais profundos, os ackdarianos buscam recursos preciosos como a rara pérola de Ucantium.
 
-Os ackdarianos também habitam as pequenas ilhas e as áreas costeiras pouco profundas dos planetas oceânicos.</Description>
+Os ackdarianos também habitam as pequenas ilhas e as áreas costeiras pouco profundas dos Planetas Oceânicos.</Description>
     <ImageFilename>UserInterface/Races/Ackdarian</ImageFilename>
   </Race>
   <Race>
@@ -1595,7 +1595,7 @@ Os Mortalen desfrutam de uma vida bastante simples, seguindo muitas tradições 
 
 Uma tradição em particular exige que qualquer homem que procure uma liderança tribal para caçar e matar um dos temíveis Mortaks. Os Mortaks são grandes monstros aterrorizantes que habitam as vastas terras desertas e arenosas do mundo natal dos Mortalen. O nome Mortalen significa "Caçador dos Mortak".
 
-Os Mortalen são normalmente encontrados vivendo em habitações de blocos simples nos pisos de cânions cobertos de arbustos dos planetas do Deserto Rochoso. Eles também podem ser encontrados nos planetas Deserto de Areia ou Deserto de Savanna.</Description>
+Os Mortalen são normalmente encontrados vivendo em habitações de blocos simples nos pisos de cânions cobertos de arbustos dos Planetas de Desertos Rochosos. Eles também podem ser encontrados nos planetas de Desertos de Areias ou Desertos de Savanas.</Description>
     <ImageFilename>UserInterface/Races/Mortalen</ImageFilename>
   </Race>
   <Race>
@@ -2064,7 +2064,7 @@ A luxúria instintiva dos Boskara pela conquista e expansão é sem igual. A mai
 
 Sua tecnologia inclui o mortal Shaktur FireStorm, uma arma torpedo imensamente destrutiva. Esta arma dá às naves estelares Boskaran capacidades de ataque planetárias muito poderosas, permitindo-lhes derrubar rapidamente os espaços de defesa das colônias inimiga. A Shaktur Firestorm também tem capacidade de bombardeio planetário, permitindo que os Boskara eliminem as populações das colônias inimigas.
 
-Boskara normalmente habita o terreno inóspito dos planetas vulcânicos. As comunidades também podem às vezes ser encontradas nas montanhas rochosas dos planetas Carbonaceus.</Description>
+Boskara normalmente habita o terreno inóspito dos Planetas Vulcânicos. As comunidades também podem às vezes ser encontradas nas montanhas rochosas dos planetas Carbonaceus.</Description>
     <ImageFilename>UserInterface/Races/Boskara</ImageFilename>
   </Race>
   <Race>
@@ -2891,7 +2891,7 @@ Os Dhayuts também são famosos por sua impiedade. Eles geralmente não têm dú
 
 O fascínio natural dos Dhayuts pela tecnologia do hiperespaço os levou a desenvolver o VelocityDrive ST3, um hiperdrive extremamente rápido e eficiente.
 
-Os habitats naturais dos Dhayuts são recantos rochosos em planetas Deserto de Savanas, Deserto Rochoso ou Deserto de Areia.</Description>
+Os habitats naturais dos Dhayuts são recantos rochosos em planetas Desertos de Savanas, Desertos Rochosos ou Desertos de Areias.</Description>
   </Race>
   <Race>
     <RaceId>11</RaceId>
@@ -3080,7 +3080,7 @@ Os Gizureanos têm uma intensa antipatia por outras raças alienígenas, especia
 
 Eles têm uma taxa de reprodução muito alta, e assim seus impérios podem crescer e expandir-se muito rapidamente.
 
-Os Gizureanos normalmente constroem suas cavernosas casas subterrâneas em áreas rochosas de Planetas de Desertos Rochosos ou de Desertos de Areias, mas às vezes também podem ser encontrados em Deserto de Savanas ou Planetas Vulcânicos.</Description>
+Os Gizureanos normalmente constroem suas cavernosas casas subterrâneas em áreas rochosas de Planetas de Desertos Rochosos ou de Desertos de Areias, mas às vezes também podem ser encontrados em Desertos de Savanas ou Planetas Vulcânicos.</Description>
   </Race>
   <Race>
     <RaceId>12</RaceId>
@@ -3246,7 +3246,7 @@ Eles desconfiam muitas vezes que outros estão trabalhando para miná-los. Esta 
 
 Por estas razões, os Ketarovs são frequentemente aliados pouco confiáveis - ironicamente, eles não são confiáveis porque não confiam nos outros.
 
-Os ketarovs são geralmente encontrados em grandes comunidades que habitam as planícies abertas de Planetas de Pradarias ou Continentais.</Description>
+Os ketarovs são geralmente encontrados em grandes comunidades que habitam as planícies abertas de Planetas Continentais. ou de Pradarias </Description>
   </Race>
   <Race>
     <RaceId>13</RaceId>
