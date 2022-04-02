@@ -17,7 +17,7 @@
     <FacilityFamilyId>1</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Missile Defense</Name>
+    <Name>Defesa Planetária Anti-míssil</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Missile Batteries</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -37,7 +37,7 @@
     <FacilityFamilyId>2</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Cannon Batteries</Name>
+    <Name>Baterias de Canhões Planetários</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Cannon Batteries</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -57,7 +57,7 @@
     <FacilityFamilyId>3</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Beam Defense</Name>
+    <Name>Defesa planetária de Feixes</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Beam Defense</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -77,7 +77,7 @@
     <FacilityFamilyId>4</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Giant Ion Cannon</Name>
+    <Name>Canhão planetário Gigante de Íons</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Giant Ion Cannon</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -97,7 +97,7 @@
     <FacilityFamilyId>5</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Mine Projectors</Name>
+    <Name>Projetores Planetários de Minas</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Mine Projectors</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -124,7 +124,7 @@
     <FacilityFamilyId>6</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Gravitic Net</Name>
+    <Name>Rede Gravitica Planetária</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Gravitic Net</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -144,7 +144,7 @@
     <FacilityFamilyId>7</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Torpedo Launcher</Name>
+    <Name>Lançador Planetário de Torpedos</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Torpedo Launcher</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -166,7 +166,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Missile Defence Mk2</Name>
+    <Name>Defesa Planetária Anti-míssil Mk2</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Missile Batteries</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -188,7 +188,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Cannon Batteries Mk2</Name>
+    <Name>Baterias de Canhão Planetário Mk2</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Cannon Batteries</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -210,7 +210,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Beam Defense</Name>
+    <Name>Defesa planetária de Feixes</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Beam Defense</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -232,7 +232,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Giant Ion Cannon Mk2</Name>
+    <Name>Canhão planetário Gigante de Íons Mk2</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Giant Ion Cannon</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -254,7 +254,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Mine Projectors Mk2</Name>
+    <Name>Projetores Planetários de Mina Mk2</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Mine Projectors</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -283,7 +283,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Gravitic Net Mk2</Name>
+    <Name>Rede Gravitica Planetária Mk2</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Gravitic Net</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -305,7 +305,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Torpedo Launcher Mk2</Name>
+    <Name>Lançador Planetário de Torpedos Mk2</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Torpedo Launcher</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -327,7 +327,7 @@
     <FacilityFamilyLevel>2</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Missile Defense Mk3</Name>
+    <Name>Defesa Planetária Anti-míssil Mk3</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Missile Batteries</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -349,7 +349,7 @@
     <FacilityFamilyLevel>2</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Cannon Batteries Mk3</Name>
+    <Name>Baterias de Canhão Planetário Mk3</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Cannon Batteries</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -370,7 +370,7 @@
     <FacilityFamilyId>8</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Shield Generator</Name>
+    <Name>Gerador de Escudo Planetário</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Shield Generator</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -391,7 +391,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Shield Generator Mk2</Name>
+    <Name>Gerador de Escudo Planetário Mk2</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Shield Generator</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -412,7 +412,7 @@
     <FacilityFamilyId>9</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Gravity Well Generator</Name>
+    <Name>Gerador de Poços Gravitacionais</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Gravity Well Generator</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -434,7 +434,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Gravity Well Generator Mk2</Name>
+    <Name>Gerador de Poços Gravitacionais Mk2</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Gravity Well Generator</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -456,7 +456,7 @@
     <FacilityFamilyId>10</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Fighter Base</Name>
+    <Name>Base Planetária de Caças</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Fighter Base</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -479,7 +479,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Fighter Base Mk2</Name>
+    <Name>Base Planetária de Caças Mk2</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Fighter Base</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -502,7 +502,7 @@
     <FacilityFamilyLevel>2</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Fighter Base Mk3</Name>
+    <Name>Base Planetária de Caças Mk3</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Fighter Base</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -540,7 +540,7 @@
     <FacilityFamilyId>11</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Space Traders Bazaar</Name>
+    <Name>Bazar dos Comerciantes Espaciais</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Space Traders Bazaar</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -578,7 +578,7 @@
     <FacilityFamilyId>17</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Advanced Shipyard</Name>
+    <Name>Estaleiro Avançado</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Advanced Shipyard</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -632,7 +632,7 @@
     <FacilityFamilyId>13</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Advanced Medicomplex</Name>
+    <Name>Medicomplexo Avançado</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Advanced Medicomplex</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -663,7 +663,7 @@
     <FacilityFamilyId>15</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Holographic Network</Name>
+    <Name>Rede Holográfica</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Holographic Network</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -702,7 +702,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Space Traders Guild</Name>
+    <Name>Guilda Comerciantes espaciais</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Space Traders Guild</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -741,7 +741,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>High Speed Shipyard</Name>
+    <Name>Estaleiro de Alta Velocidade</Name>
     <ImageFilename>Environment/PlanetaryFacilities/High Speed Shipyard</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -773,7 +773,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Reality Adjustment Matrix</Name>
+    <Name>Matriz de Ajuste de Realidade</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Reality Adjustment Matrix</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -809,7 +809,7 @@
     <FacilityFamilyId>12</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Space Commerce Nexus</Name>
+    <Name>Comércio Espacial Nexus</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Space Commerce Nexus</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -868,7 +868,7 @@
     <FacilityFamilyId>14</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Koloros Medical Academy</Name>
+    <Name>Academia Médica Koloros</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Koloros Medical Academy</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -911,7 +911,7 @@
     <FacilityFamilyId>18</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Bakuras Shipyard Complex</Name>
+    <Name>Complexo do Estaleiro Bakuras</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Bakuras Shipyard Complex</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -947,7 +947,7 @@
     <FacilityFamilyId>16</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Holographic Universe</Name>
+    <Name>Universo Holográfico</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Holographic Universe</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -990,7 +990,7 @@
     <FacilityFamilyId>19</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Galactic Mining Center</Name>
+    <Name>Centro de Mineração Galáctica</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Galactic Mining Center</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1078,7 +1078,7 @@
     <FacilityFamilyId>45</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Galactic Command Center</Name>
+    <Name>Centro de Comando Galáctico</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Galactic Command Center</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1146,7 +1146,7 @@
     <FacilityFamilyId>46</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Galactic Tourism Mega-Park</Name>
+    <Name>Turismo Galáctico Mega-Park</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Galactic Tourism Mega-Park</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1194,7 +1194,7 @@
     <FacilityFamilyId>47</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Galactic Diplomatic Center</Name>
+    <Name>Centro Diplomático Galáctico</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Galactic Diplomatic Center</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1248,7 +1248,7 @@
     <FacilityFamilyId>20</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Administration Center</Name>
+    <Name>Centro de Administração Planetária</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Administration Center</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1279,7 +1279,7 @@
     <FacilityFamilyId>44</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Espionage Academy</Name>
+    <Name>Academia de Espionagem</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Espionage Academy</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1310,7 +1310,7 @@
     <FacilityFamilyId>42</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Science Academy</Name>
+    <Name>Academia de Ciências</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Science Academy</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1363,7 +1363,7 @@
     <FacilityFamilyId>48</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Military Academy</Name>
+    <Name>Academia Militar</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Military Academy</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1418,7 +1418,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Administration Complex</Name>
+    <Name>Complexo de Administração Planetária</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Administration Center</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1473,7 +1473,7 @@
     <FacilityFamilyLevel>2</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Administration District</Name>
+    <Name>Distrito de Administração Planetária</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Administration Center</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1528,7 +1528,7 @@
     <FacilityFamilyLevel>3</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Administration Metropolis</Name>
+    <Name>Metrópole da Administração Planetária</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Administration Center</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1588,7 +1588,7 @@
     <FacilityFamilyLevel>0</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Galactic Administration Megalopolis</Name>
+    <Name>Megalópole da Administração Galáctica </Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Administration Center</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1636,7 +1636,7 @@
     <FacilityFamilyId>38</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Galactic Command Network</Name>
+    <Name>Rede de Comando Galáctico</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Galactic Command Network</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1659,7 +1659,7 @@
     <FacilityFamilyLevel>2</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Enhanced Terraforming Facility</Name>
+    <Name>Instalação de Terraformação Melhorada</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Terraforming Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1682,7 +1682,7 @@
     <FacilityFamilyLevel>3</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Advanced Terraforming Facility</Name>
+    <Name>Instalação de Terraformação Avançada</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Terraforming Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1705,7 +1705,7 @@
     <FacilityFamilyLevel>4</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Complete Terraforming Facility</Name>
+    <Name>Central de Terraformação Completa</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Terraforming Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1743,7 +1743,7 @@
     <FacilityFamilyId>22</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>High Tech Academy</Name>
+    <Name>Academia de Alta Tecnologia</Name>
     <ImageFilename>Environment/PlanetaryFacilities/High Tech Academy</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1786,7 +1786,7 @@
     <FacilityFamilyId>23</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Weapons Academy</Name>
+    <Name>Academia de Armas</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Weapons Academy</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1829,7 +1829,7 @@
     <FacilityFamilyId>24</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Energy Academy</Name>
+    <Name>Academia de Energia</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Energy Academy</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1862,7 +1862,7 @@
     <FacilityFamilyId>25</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Industrial Academy</Name>
+    <Name>Academia Industrial</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Industrial Academy</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1900,7 +1900,7 @@
     <FacilityFamilyId>26</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Construction Academy</Name>
+    <Name>Academia de Construção</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Construction Academy</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1931,7 +1931,7 @@
     <FacilityFamilyId>27</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Ruslan Technology Installation</Name>
+    <Name>Instalação da Tecnologia Ruslan</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Ruslan Technology Installation</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -1967,7 +1967,7 @@
     <FacilityFamilyId>28</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Casidor Weapons Facility</Name>
+    <Name>Instalação de Armas Casidor</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Casidor Weapons Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2003,7 +2003,7 @@
     <FacilityFamilyId>29</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Vortigen Energy Complex</Name>
+    <Name>Complexo Energético Vortigen</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Vortigen Energy Complex</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2029,7 +2029,7 @@
     <FacilityFamilyId>30</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Danula Engineering Center</Name>
+    <Name>Centro de Engenharia Danula</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Danuta Engineering Center</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2060,7 +2060,7 @@
     <FacilityFamilyId>31</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Forbard Construction Zone</Name>
+    <Name>Zona de Construção Forbard</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Forbard Construction Zone</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2086,7 +2086,7 @@
     <FacilityFamilyId>32</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Galactic Science Center</Name>
+    <Name>Centro de Ciências Galácticas</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Galactic Science Center</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2115,7 +2115,7 @@
       <short>33</short>
       <short>38</short>
     </TroopIdsRecruitable>
-    <Name>Armor Barracks</Name>
+    <Name>Quartel de Blindados</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Armor Barracks</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2137,7 +2137,7 @@
     <TroopIdsRecruitable>
       <short>0</short>
     </TroopIdsRecruitable>
-    <Name>Robotic Troop Foundry</Name>
+    <Name>Fundição de Tropas Robotizadas</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Robotic Troop Foundry</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2156,7 +2156,7 @@
     <FacilityFamilyId>35</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Troop Cloning Facility</Name>
+    <Name>Instalação de Clonagem de Tropas</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Troop Cloning Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2185,7 +2185,7 @@
       <short>35</short>
       <short>40</short>
     </TroopIdsRecruitable>
-    <Name>Special Operations Barracks</Name>
+    <Name>Quartel de Operações Especiais</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Special Operations Barracks</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2208,7 +2208,7 @@
     <TroopIdsRecruitable>
       <short>1</short>
     </TroopIdsRecruitable>
-    <Name>Synthetic Troop Foundry</Name>
+    <Name>Fundição de Tropas Sintéticas</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Troop Cloning Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2228,7 +2228,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Chimera Cloning Facility</Name>
+    <Name>Instalação de Clonagem de Chimera</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Troop Cloning Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2257,7 +2257,7 @@
       <short>36</short>
       <short>41</short>
     </TroopIdsRecruitable>
-    <Name>Titan Manufacturing Center</Name>
+    <Name>Centro de Fabricação de Titãs</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Titan Manufacturing Center</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2286,7 +2286,7 @@
       <short>34</short>
       <short>39</short>
     </TroopIdsRecruitable>
-    <Name>Planetary Defense Center</Name>
+    <Name>Centro de Defesa Planetária</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Bastion</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2317,7 +2317,7 @@
     <FacilityFamilyId>39</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Planetary Bastion</Name>
+    <Name>Bastião planetário</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Bastion</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2353,7 +2353,7 @@
     <FacilityFamilyId>40</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Merkidor Planetary Fortress</Name>
+    <Name>Fortaleza Planetária Merkidor</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Merkidor Planetary Fortress</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2375,7 +2375,7 @@
     <FacilityFamilyId>-1</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Buried Ancient Starship</Name>
+    <Name>Nave Espacial Antiga Enterrada</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Buried Ancient Starship</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2390,7 +2390,7 @@
     <FacilityFamilyId>-1</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Great Hall of Haako</Name>
+    <Name>Grande Salão de Haako</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Great Hall of Haako</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2428,7 +2428,7 @@
     <FacilityFamilyId>41</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Galactic Archives</Name>
+    <Name>Arquivos Galácticos</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Galactic Archives</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2446,7 +2446,7 @@
     <FacilityFamilyId>43</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Deep Space Observatory</Name>
+    <Name>Observatório do Espaço Profundo</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Deep Space Observatory</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2467,7 +2467,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Deep Space Observatory</Name>
+    <Name>Observatório do Espaço Profundo</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Deep Space Observatory</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2488,7 +2488,7 @@
     <FacilityFamilyLevel>2</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Deep Space Observatory</Name>
+    <Name>Observatório do Espaço Profundo</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Deep Space Observatory</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2510,7 +2510,7 @@
     <FacilityFamilyId>21</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Limited Terraforming Facility</Name>
+    <Name>Instalação de Terraformação Limitada</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Terraforming Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2533,7 +2533,7 @@
 	<FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Terraforming Facility</Name>
+    <Name>Instalação de Terraformação</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Terraforming Facility</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2555,7 +2555,7 @@
     <FacilityFamilyId>-1</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Buried Ancient Battleship</Name>
+    <Name>Couraçado Ancião de Batalha</Name>
     <ImageFilename>Environment/Events/CrashedShip</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2577,7 +2577,7 @@
     <FacilityFamilyId>-1</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Buried Ancient Research Station</Name>
+    <Name>Estação de Pesquisa dos Antigos Enterrados</Name>
     <ImageFilename>Environment/Events/CrashedShip</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2599,7 +2599,7 @@
     <FacilityFamilyId>-1</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Ancient Shipyard</Name>
+    <Name>Estaleiro dos Antigos</Name>
     <ImageFilename>Environment/Events/CrashedShip</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2621,7 +2621,7 @@
     <FacilityFamilyId>-1</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Ancient Ackdarian Research Base</Name>
+    <Name>Base de Pesquisa dos Antigos Ackdarianos</Name>
     <ImageFilename>Environment/Events/CrashedShip</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2643,7 +2643,7 @@
     <FacilityFamilyId>-1</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Ruined Fortress</Name>
+    <Name>Fortaleza Arruinada</Name>
     <ImageFilename>Environment/Events/CityRuins</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2665,7 +2665,7 @@
     <FacilityFamilyId>-1</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Ancient Boskaran Warrens</Name>
+    <Name>Labirinto dos Antigos Boskaran </Name>
     <ImageFilename>Environment/Events/CityRuins</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2687,7 +2687,7 @@
     <FacilityFamilyId>-1</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Ancient Troop Training Facility</Name>
+    <Name>Instalação de Treinamento Antigo de Tropas</Name>
     <ImageFilename>Environment/Events/CityRuins</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -2714,7 +2714,7 @@
     <FacilityFamilyId>-1</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Ancient Troop Training Facility</Name>
+    <Name>Instalação de Treinamento Antigo de Tropas</Name>
     <ImageFilename>Environment/Events/CityRuins</ImageFilename>
   </PlanetaryFacilityDefinition>
 </ArrayOfPlanetaryFacilityDefinition>
