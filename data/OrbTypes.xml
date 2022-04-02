@@ -1338,7 +1338,7 @@
   <OrbType>
     <OrbTypeId>8</OrbTypeId>
     <Category>Planet</Category>
-    <Name>Pantano</Name>
+    <Name>Pantanoso</Name>
     <Description></Description>
     <ImageFilename>Environment/OrbTypes/MarshySwamp</ImageFilename>
     <LargeImageFilename>Environment/OrbTypes/Large/MarshySwamp</LargeImageFilename>
@@ -5138,7 +5138,7 @@
   <OrbType>
     <OrbTypeId>30</OrbTypeId>
     <Category>Planet</Category>
-    <Name>Vulcânico de enxofre</Name>
+    <Name>Vulcânico de Enxofre</Name>
     <Description></Description>
     <ImageFilename>Environment/OrbTypes/SulphurVolcanic</ImageFilename>
     <LargeImageFilename>Environment/OrbTypes/Large/SulphurVolcanic</LargeImageFilename>
