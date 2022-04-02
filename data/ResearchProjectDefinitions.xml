@@ -178,7 +178,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>8</ResearchProjectId>
-    <Name>Armas de feixe constante</Name>
+    <Name>Armas de Feixe Constante</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>150</Size>
     <InitiationCost>
@@ -290,7 +290,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>11</ResearchProjectId>
-    <Name>Armas de íons pesados</Name>
+    <Name>Armas de Íons Pesados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>225</Size>
     <InitiationCost>
@@ -591,7 +591,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>18</ResearchProjectId>
-    <Name>Defesa pontual básica</Name>
+    <Name>Defesa Pontual Básica</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>150</Size>
     <InitiationCost>
@@ -684,7 +684,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>20</ResearchProjectId>
-    <Name>Colonização melhorada</Name>
+    <Name>Colonização Melhorada</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>5120</Size>
     <InitiationCost>
@@ -801,7 +801,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>21</ResearchProjectId>
-    <Name>Força de choque</Name>
+    <Name>Força de Choque</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>150</Size>
     <InitiationCost>
