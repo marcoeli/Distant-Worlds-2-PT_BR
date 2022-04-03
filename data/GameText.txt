@@ -38,62 +38,62 @@ Resort Base		;Base do Resort
 Interceptor		;Interceptor
 Bomber		;Bombardeiro
 
-ShipMission Description Undefined		;Sem missão
-ShipMission Description Attack		;Ataque {0}
-ShipMission Description Attack Prepare		;Preparar e atacar {0}
-ShipMission Description Attack Prepare Waypoint		;Ataque {0} (ponto de passagem em {1})
-ShipMission Description Attack Prepare Refuel		;Ataque {0} (reabasteça em {1})
-ShipMission Description Blockade		;Bloqueio {0}
-ShipMission Description Bombard		;Bombardear {0}
-ShipMission Description Bombard Prepare		;Preparar e Bombardear {0}
-ShipMission Description Bombard Prepare Waypoint		;Bombardear {0} (ponto de passagem em {1})
-ShipMission Description Bombard Prepare Refuel		;Bombardear {0} (reabastecer em {1})
-ShipMission Description Build		;Construir {0} em {1}
-ShipMission Description BuildRepair		;Construir {0}
-ShipMission Description BuildRepair Detailed		;Construção completa de {0} no sistema {1}.
-ShipMission Description Build Coordinates		;Construir {0} nestas coordenadas
-ShipMission Description Capture		;Captura {0}
-ShipMission Description Capture Prepare		;Preparar e Capturar {0}
-ShipMission Description Capture Prepare Waypoint		;Captura {0} (ponto de passagem em {1})
-ShipMission Description Capture Prepare Refuel		;Captura {0} (reabastecer em {1})
+ShipMission Description Undefined		;No mission
+ShipMission Description Attack		;Attack {0}
+ShipMission Description Attack Prepare		;Prepare and Attack {0}
+ShipMission Description Attack Prepare Waypoint		;Attack {0} (waypoint at {1})
+ShipMission Description Attack Prepare Refuel		;Attack {0} (refuel at {1})
+ShipMission Description Blockade		;Blockade {0}
+ShipMission Description Bombard		;Bombard {0}
+ShipMission Description Bombard Prepare		;Prepare and Bombard {0}
+ShipMission Description Bombard Prepare Waypoint		;Bombard {0} (waypoint at {1})
+ShipMission Description Bombard Prepare Refuel		;Bombard {0} (refuel at {1})
+ShipMission Description Build		;Build {0} at {1}
+ShipMission Description BuildRepair		;Build {0}
+ShipMission Description BuildRepair Detailed		;Complete construction of {0} in the {1} system
+ShipMission Description Build Coordinates		;Build {0} at these coordinates
+ShipMission Description Capture		;Capture {0}
+ShipMission Description Capture Prepare		;Prepare and Capture {0}
+ShipMission Description Capture Prepare Waypoint		;Capture {0} (waypoint at {1})
+ShipMission Description Capture Prepare Refuel		;Capture {0} (refuel at {1})
 ShipMission Description Colonize		;Colonize {0}
-ShipMission Description Escape Target		;Fuga de {0}
-ShipMission Description Escape Destination		;Fugir para {0}
-ShipMission Description Escape		;Fuga
-ShipMission Description Escort		;Escolte {0}
+ShipMission Description Escape Target		;Escape from {0}
+ShipMission Description Escape Destination		;Escape to {0}
+ShipMission Description Escape		;Escape
+ShipMission Description Escort		;Escort {0}
 ShipMission Description Explore		;Explore {0}
-ShipMission Description ExploreSystem		;Explore {0} sistema ({1})
-ShipMission Description ExploreSurvey		;Pesquisa {0}
-ShipMission Description FighterBoardCarrier		;Porta-aviões de caças {0}
-ShipMission Description Guard		;Guarda {0}
-ShipMission Description LoadTroops		;Carregar tropas em {0}
-ShipMission Description LoadTroops Unavailable		;Carregar tropas
-ShipMission Description LoadPopulation		;Carregar colonos em {0}
-ShipMission Description LoadCargo		;Carregar combustível em {0}
-ShipMission Description TransferFuel		;Transferir combustível para {0}
-ShipMission Description Mine		;Mina {0}, descarga em {1}
-ShipMission Description MineLoad		;Combustível de mina em {0}
-ShipMission Description Move		;Mover para {0}
-ShipMission Description Move Coordinates		;Mover para {0}, {1}
-ShipMission Description Patrol		;Patrulhas {0}
-ShipMission Description Pickup		;Pegar {0}
-ShipMission Description Raid		;Assalto {0}
-ShipMission Description Raid Prepare		;Preparar e Assaltar0}
-ShipMission Description Raid Prepare Waypoint		;Assalto {0} (ponto de passagem em {1})
-ShipMission Description Raid Prepare Refuel		;Assalto {0} (reabastecer em {1})
+ShipMission Description ExploreSystem		;Explore {0} system ({1})
+ShipMission Description ExploreSurvey		;Survey {0}
+ShipMission Description FighterBoardCarrier		;Board carrier {0}
+ShipMission Description Guard		;Guard {0}
+ShipMission Description LoadTroops		;Load troops at {0}
+ShipMission Description LoadTroops Unavailable		;Load troops
+ShipMission Description LoadPopulation		;Load colonists at {0}
+ShipMission Description LoadCargo		;Load fuel at {0}
+ShipMission Description TransferFuel		;Transfer fuel to {0}
+ShipMission Description Mine		;Mine {0}, offload at {1}
+ShipMission Description MineLoad		;Mine fuel at {0}
+ShipMission Description Move		;Move to {0}
+ShipMission Description Move Coordinates		;Move to {0}, {1}
+ShipMission Description Patrol		;Patrol {0}
+ShipMission Description Pickup		;Pick up {0}
+ShipMission Description Raid		;Raid {0}
+ShipMission Description Raid Prepare		;Prepare and Raid {0}
+ShipMission Description Raid Prepare Waypoint		;Raid {0} (waypoint at {1})
+ShipMission Description Raid Prepare Refuel		;Raid {0} (refuel at {1})
 ShipMission Description Refuel		;Refuel at {0}
-ShipMission Description Repair		;Reparo em {0}
-ShipMission Description Retire Target		;Aposente-se em {0}
-ShipMission Description Retire		;Se aposentar
-ShipMission Description Retrofit		;Modernizar em {0}
-ShipMission Description Scout		;Batedor {0}
-ShipMission Description Scrap		;Sucata em {0}
-ShipMission Description Transport		;Transporte de cargas de {0} para {1}
-ShipMission Description Transport Passengers		;Transporte de passageiros de {0} para {1}
-ShipMission Description Transport Migrants		;Transportar migrantes de {0} para {1}
-ShipMission Description Transport Tourists		;Transportar turistas de {0} para {1}
-ShipMission Description UnloadTroops		;Descarregar tropas em {0}
-ShipMission Description ExitYard		;Deixar o estaleiro de construção
+ShipMission Description Repair		;Repair at {0}
+ShipMission Description Retire Target		;Retire at {0}
+ShipMission Description Retire		;Retire
+ShipMission Description Retrofit		;Retrofit at {0}
+ShipMission Description Scout		;Scout {0}
+ShipMission Description Scrap		;Scrap at {0}
+ShipMission Description Transport		;Transport cargo from {0} to {1}
+ShipMission Description Transport Passengers		;Transport passengers from {0} to {1}
+ShipMission Description Transport Migrants		;Transport migrants from {0} to {1}
+ShipMission Description Transport Tourists		;Transport tourists from {0} to {1}
+ShipMission Description UnloadTroops		;Unload troops at {0}
+ShipMission Description ExitYard		;Leave construction yard
 
 SYSTEMNAME system		;{0} sistema
 Quality		;Qualidade
@@ -187,7 +187,7 @@ Tax		;Imposto
 Facilities		;Instalações
 Support Costs Explanation		;As colônias custam dinheiro para sustentar. À medida que aumentam sua receita tributária \nexcederá seus custos de apoio, fornecendo financiamento para seu império. \nMas quando as colônias são pequenas e subdesenvolvidas, elas são um dreno líquido \non your economy.\n\nOs seguintes fatores aumentam os custos de apoio às colônias:\n- população inferior a 100 milhões\n- adequação para população inferior a 20\n- população não assimilada\n- população acima de 50% do máximo
 
-The inhabitants of COLONY are FEELING with you		;Os habitantes de {0} são {1}
+The inhabitants of COLONY are FEELING with you		;Os habitantes de {0} estão {1}
 happy		;feliz
 satisfied		;satisfeito
 unhappy		;infeliz
@@ -645,7 +645,7 @@ All Ships already using latest design		;Todos os navios já estão usando o desi
 No construction yard available		;Não há estaleiro de construção disponível
 No construction yard available with sufficient resources		;Nenhum estaleiro de construção disponível com recursos suficientes
 Cannot retrofit until current construction finished		;Não pode ser adaptado até que a construção atual esteja concluída
-No ships need retrofitting		;Nenhum navio precisa de retrofit
+No ships need retrofitting		;Nenhum navio precisa atualizar
 No fleets to join		;Nenhuma frota para se juntar
 Cannot afford recruitment cost for this troop		;Não pode pagar o custo de recrutamento para esta tropa
 Already lead ship for fleet		;Já lidera navio para frota
@@ -1077,7 +1077,7 @@ EvasionSpecialForces		;Evasão das Forças Especiais
 Recruitment Cost		;Custo de Recrutamento
 
 All Troops		;Todas as tropas
-TroopImprovement Defend		;{0} Defender a força
+TroopImprovement Defend		;{0} Força de Defesa
 TroopImprovement Attack		;{0} Força de Ataque
 TroopImprovement Intercept		;{0} Nível de força de interceptação
 TroopImprovement Sabotage		;{0} Força de sabotagem
@@ -2306,8 +2306,8 @@ MessageType Characters		;Personagens
 MessageType Colonies		;Colônias
 MessageType Construction State		;Construção do Governo
 MessageType Construction Civilian		;Construção Civil
-MessageType Retrofit State		;Retrofits do Governo
-MessageType Retrofit Civilian		;Retrofits civis
+MessageType Retrofit State		;Atualizações do Governo
+MessageType Retrofit Civilian		;Atualizaçoes civis
 MessageType Diplomacy		;Diplomacia
 MessageType Economy		;Economia
 MessageType Exploration		;Exploração
@@ -3613,7 +3613,7 @@ Character Mission DeepCover		;Cobertura Profunda
 Character Mission DestroyBase		;Destruir Base
 Character Mission InciteRevolution		;Incitar a Revolução
 Character Mission SabotageColony		;Incite a rebelião na colônia
-Character Mission SabotageConstruction		;Construção de sabotagem
+Character Mission SabotageConstruction		;Sabotagem de Construção
 Character Mission StealGalaxyMap		;Roubar o mapa da galáxia
 Character Mission StealOperationsMap		;Mapa de Operações de Roubo
 Character Mission StealTechData		;Roubar informações de pesquisa
