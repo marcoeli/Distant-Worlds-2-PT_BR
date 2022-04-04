@@ -1921,47 +1921,47 @@ Fighters must have weapons		;Os Caças devem ter armas
 Engine Limit		;Limite do motor
 You have reached the maximum limit of X engines for this Ship Hull		;Você atingiu o limite máximo de {0} motores para este casco de navio
 
-Light Transport		;Transporte Leve
+Light Transport		;Transporte leve
 Light Trader		;Comerciante Leve
-Light Hauler		;Caminhão Leve
+Light Hauler		;Transporte leve
 Light Freighter		;Cargueiro Leve
-Cargo Shuttle		;Transp. carga
-Merchant Freighter		;Cargueiro mercante
-Medium Transport		;Transporte Médio
-Cargo Freighter		;Cargueiro
-Cargo Hauler		;Transportador de carga
-Cargo Ferry		;Balsa de carga
-Freight Hauler		;Transportador de carga
-Super Hauler		;Super caminhão
-Cargo Carrier		;Transportador de carga
+Cargo Shuttle		;Cargueiro
+Merchant Freighter		;Cargueiro Mercante
+Medium Transport		;Transporte médio
+Cargo Freighter		;Cargo Freighter
+Cargo Hauler		;Cargo Hauler
+Cargo Ferry		;Cargo Ferry
+Freight Hauler		;Freight Hauler
+Super Hauler		;Super Hauler
+Cargo Carrier		;Cargo Carrier
 Heavy Freighter		;Cargueiro Pesado
 Cargo Barge		;Barcaça de carga
-Bulk Freighter		;Cargueiro a granel
-Heavy Lifter		;Levantador Pesado
-Bulk Transport		;Transporte a granel
-Ore Prospector		;Prospector de Minério
+Bulk Freighter		;Cargueiro Graneleiro
+Heavy Lifter		;Heavy Lifter
+Bulk Transport		;Graneleiro
+Ore Prospector		;Prospector de minério
 Ore Hauler		;Transportador de minério
-Miner		;Mineiro
-Mineral Miner		;Mineiro
-Supply Tanker		;Tanque de abastecimento
+Miner		;Mineradora
+Mineral Miner		;Mineral Miner
+Supply Tanker		;Tanque de Suprimentos
 Fuel Transport		;Transporte de combustível
 Fuel Barge		;Barcaça de Combustível
 Constructor		;Construtor
 Ship Yard		;Estaleiro
 Space Dock		;Doca Espacial
-Space Liner		;Revestimento Espacial
-Commuter		;Mercador
+Space Liner		;Navegação Espacial
+Commuter		;Distribuidor
 Tourist		;Turista
-Migrant		;Migrante
+Migrant		;Migrantes
 Scout		;Batedor
 Surveyor		;Pesquisador
-Pathfinder		;Desbravador
+Pathfinder		;Descobridor
 Explorer		;Explorador
 Traveller		;Viajante
 Navigator		;Navegador
 Colonizer		;Colonizador
 Settler		;Colono
-World Founder		;Fundador de Mundo
+World Founder		;Fundador de Mundos
 
 Manually create new Design using this Ship Hull		;Crie manualmente um novo design usando este casco de navio
 Auto-generate new Design using this Ship Hull		;Gere automaticamente um novo design usando este casco de navio
@@ -3916,7 +3916,7 @@ Basic		;Básico
 Detailed		;Detalhado
 Mouse Click-Drag Function		;Função de clique-arrastar do mouse
 Mouse Drag Selects Ships Description		;Seleciona Navios na Vista Principal
-Mouse Drag Moves View Description		;Move a vista principal\n(Ctrl+clique = seleção)
+Mouse Drag Moves View Description		;Mover Vista Geral\n(Ctrl-clique=seleciona)
 Rotate Camera Mouse Button		;Botão Girar o Mouse da Câmera
 Rotate Camera Mouse Button Middle		;Botão do meio\n(ou Shift-botão direito) 
 Rotate Camera Mouse Button Right		;Botão direito
@@ -4250,7 +4250,7 @@ Suppress Popups		;Suprimir mensagens pop-up
 
 Explanation SuppressAllPopups		;Quando ativado, impede que muitos tipos de mensagens pop-up de bloqueio apareçam.\n\nObserve que, para evitar completamente o bloqueio de mensagens, você também precisará usar as seguintes configurações de Exploração no Política do império: Investigar Ruínas deve ser definido como 'Investigar sem relatório', Investigar navios abandonados deve ser definido como 'Investigar sem relatório'
 
-Hive Carrier		;Colmeias Porta-aviões
+Hive Carrier		;Porta-aviões Colmeia 
 Hive Attack Description Colony		;O {0} fala sobre um ataque contra sua colônia {1} no sistema {2}.\n\nOs atacantes eram uma estranha raça de insetoides híbridos. Este grupo selvagem atacou com uma raiva enlouquecida e impiedosa, consumindo tudo em seu caminho.\n\nA RAÇA vive com medo de que esses monstros cruéis possam retornar...
 Hive Attack Description Base		;O {0} fala sobre um ataque contra sua base {1} no sistema {2}.\n\nOs atacantes eram uma estranha raça de insetoides híbridos. Este grupo selvagem atacou com uma fúria enlouquecida e impiedosa, destruindo completamente a base.\n\nA RACE vive aterrorizada que esses monstros cruéis possam atacar novamente...
 Savage Attack at LOCATION		;Ataque Selvagem em {0}
