@@ -13047,8 +13047,10 @@ A última parte da mensagem é um breve vídeo clipe do comandante da base dizen
     <TriggerActions>
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
-        <MessageTitle>Um Mundo Fortaleza Destruído</MessageTitle>
-        <Description>As extensas ruínas deste mundo mostram que já foi um mundo amplamente militarizado e fortemente defendido, talvez na fronteira da Antiga República Solar Humana.\n\nHá evidências claras de um bombardeio orbital, bem como de um cataclismo repentino maciço, seguido por muitos eventos menores ao longo dos séculos. As tempestades gravitacionais no planeta e dentro do sistema parecem ser resquícios desse cataclismo e permanecem extremamente perigosas.\n\nNenhuma vida sobrevive na superfície, embora inúmeros restos de humanos antigos e várias flora e fauna sejam evidentes. O próprio planeta também foi quase dilacerado por eventos sísmicos maciços passados. Em seu estado atual, seria muito difícil para a vida retornar e sobreviver./n/nAs ruínas também provam ser uma fonte abundante de vários recursos importantes e valiosos e algumas das instalações militares danificadas podem ser de interesse,</Description>
+        <MessageTitle>Um Mundo Fortaleza Destruída</MessageTitle>
+        <Description>As extensas ruínas deste mundo mostram que já foi um mundo extensivamente militarizado e fortemente defendido, talvez na fronteira da Antiga República Solar Humana Antiga. Há evidências claras de um bombardeio orbital, bem como um enorme cataclismo repentino, seguido de muitos eventos menores ao longo dos séculos.  As tempestades gravíticas no planeta e dentro do sistema parecem ser remanescentes desse cataclismo e permanecem extremamente perigosas.n Nenhuma vida sobrevive na superfície, embora inúmeros restos de seres humanos antigos e várias espécies de flora e fauna sejam evidentes. O próprio planeta também tem sido quase dilacerado por eventos sísmicos maciços do passado.  Em seu estado atual, seria muito difícil para a vida retornar e sobreviver.
+		
+		As ruínas também provam ser uma fonte abundante de vários recursos importantes e valiosos e algumas das instalações militares danificadas podem ser de interesse,</Description>
         <ImageFilepath />
         <MusicFilepath />
         <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
@@ -22835,7 +22837,7 @@ Examinando os restos mortais da estação, pudemos colher alguns segredos da ant
         <ActionLocationItemName>Ancient Mortalen Spaceport</ActionLocationItemName>
         <ActionLocationItemType>Ship</ActionLocationItemType>
         <Id1>324</Id1>
-        <Value1>0</Value1>
+        <Value1>1</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -22848,7 +22850,7 @@ Examinando os restos mortais da estação, pudemos colher alguns segredos da ant
         <DelaySecondsMaximum>0</DelaySecondsMaximum>
       </GameEventAction>
       <GameEventAction>
-        <Type>ResearchProjectEnable</Type>
+        <Type>ResearchProgress</Type>
         <MessageTitle />
         <Description />
         <ImageFilepath />
@@ -22859,7 +22861,7 @@ Examinando os restos mortais da estação, pudemos colher alguns segredos da ant
         <ActionLocationItemName>Ancient Mortalen Spaceport</ActionLocationItemName>
         <ActionLocationItemType>Ship</ActionLocationItemType>
         <Id1>704</Id1>
-        <Value1>0</Value1>
+        <Value1>1</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -22925,7 +22927,7 @@ Examinando os restos mortais da estação, pudemos colher alguns segredos da ant
         <ActionLocationItemName>Ancient Mortalen Spaceport</ActionLocationItemName>
         <ActionLocationItemType>Ship</ActionLocationItemType>
         <Id1>324</Id1>
-        <Value1>0</Value1>
+        <Value1>1</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -22938,7 +22940,7 @@ Examinando os restos mortais da estação, pudemos colher alguns segredos da ant
         <DelaySecondsMaximum>0</DelaySecondsMaximum>
       </GameEventAction>
       <GameEventAction>
-        <Type>ResearchProjectEnable</Type>
+        <Type>ResearchProgress</Type>
         <MessageTitle />
         <Description />
         <ImageFilepath />
@@ -22949,7 +22951,7 @@ Examinando os restos mortais da estação, pudemos colher alguns segredos da ant
         <ActionLocationItemName>Ancient Mortalen Spaceport</ActionLocationItemName>
         <ActionLocationItemType>Ship</ActionLocationItemType>
         <Id1>704</Id1>
-        <Value1>0</Value1>
+        <Value1>1</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -23020,7 +23022,7 @@ Entre os dados, encontramos algumas informações interessantes que irão fazer 
         <ActionLocationItemName>Ancient Mortalen Spaceport</ActionLocationItemName>
         <ActionLocationItemType>Ship</ActionLocationItemType>
         <Id1>324</Id1>
-        <Value1>0</Value1>
+        <Value1>1</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -23159,7 +23161,7 @@ Os registros finais indicam que as perdas de uma longa batalha haviam sido sever
         <ActionLocationItemName>Ancient Mortalen Spaceport</ActionLocationItemName>
         <ActionLocationItemType>Ship</ActionLocationItemType>
         <Id1>324</Id1>
-        <Value1>0</Value1>
+        <Value1>1</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -23355,6 +23357,71 @@ Os registros finais indicam que as perdas de uma longa batalha haviam sido sever
     </PlacementActions>
     <PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
     <OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
+    <TriggerActionsAreChoices>false</TriggerActionsAreChoices>
+    <SuppressTriggerDescriptions>true</SuppressTriggerDescriptions>
+    <TriggerActions>
+      <GameEventAction>
+        <Type>TriggerEvent</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName>Slave Mining World Choice (Mortalen)</GeneratedItemName>
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>DisableEvent</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName>Slave Mining World (Non-Mortalen)</GeneratedItemName>
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+    </TriggerActions>
+  </GameEvent>
+  <GameEvent>
+    <Name>Slave Mining World Choice (Mortalen)</Name>
+    <GroupName />
+    <Title />
+    <Description />
+    <ImageFilepath />
+    <MusicFilepath />
+    <TriggerType>Undefined</TriggerType>
+    <TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
+    <TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
+    <TriggerRaceId>4</TriggerRaceId>
+    <TriggerPriority>0</TriggerPriority>
+    <PlacementAtGameStart>true</PlacementAtGameStart>
+    <PlacementRaceId>4</PlacementRaceId>
+    <PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
+    <OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
     <TriggerActionsAreChoices>true</TriggerActionsAreChoices>
     <SuppressTriggerDescriptions>true</SuppressTriggerDescriptions>
     <TriggerActions>
@@ -23535,6 +23602,32 @@ Devemos aceitar o artefato, ou recusar e pressionar por mais informações?</Des
     <SuppressTriggerDescriptions>false</SuppressTriggerDescriptions>
     <TriggerActions>
       <GameEventAction>
+        <Type>GeneralStoryMessageToEmpire</Type>
+        <MessageTitle>Nossos Escravos Antigos</MessageTitle>
+        <Description>Recusamos a oferta deles, e agora esta mistura de bóias de flutuação alienígenas ousa falar ousadamente para nós. Eles dizem que seus ancestrais já foram escravos dos Mortalen, forçados a servir nas minas deste mundo. Então, de acordo com suas lendas, veio um grande cataclismo que criou o caos global. Os escravos se libertaram de suas correntes e se levantaram contra seus senhores Mortalen.
+
+Devemos assumir que as circunstâncias deste Cataclismo deixaram muito mais alienígenas do que Mortalen vivos. Como explicar que os escravos miseráveis tenham derrotado os Mortalen? 
+
+Agora, eles atacam num tom desafiador, mas se enfrentarem os Mortalen em batalha de novo, é duvidoso que eles se saiam tão bem quanto seus antepassados.</Description>
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
         <Type>GenerateArtifact</Type>
         <MessageTitle />
         <Description />
@@ -23554,17 +23647,13 @@ Devemos aceitar o artefato, ou recusar e pressionar por mais informações?</Des
         <BonusAppliesTo>Undefined</BonusAppliesTo>
         <ChoiceButtonText />
         <GeneratedItemName />
-        <DelaySecondsMinimum>0</DelaySecondsMinimum>
-        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+        <DelaySecondsMinimum>5</DelaySecondsMinimum>
+        <DelaySecondsMaximum>5</DelaySecondsMaximum>
       </GameEventAction>
       <GameEventAction>
-        <Type>ChangeColonyEmpire</Type>
-        <MessageTitle>Our Old Slaves</MessageTitle>
-        <Description>Recusamos a oferta deles, e agora esta mistura de bóias de flutuação alienígenas ousa falar ousadamente para nós. Eles dizem que seus ancestrais já foram escravos do Mortalen, forçados a servir nas minas deste mundo. Então, de acordo com suas lendas, veio um grande cataclismo que criou o caos global. Os escravos se libertaram de suas correntes e se levantaram contra seus senhores Mortalen.
-
-Devemos assumir que as circunstâncias deste Cataclismo deixaram muito mais alienígenas do que Mortalen vivos. Como explicar que os escravos miseráveis tenham derrotado os Mortalen? 
-
-Agora, eles atacam num tom desafiador, mas se enfrentarem o Mortalen em batalha novamente, é duvidoso que eles se saiam tão bem quanto seus antepassados.</Description>
+        <Type>GenerateEmpire</Type>
+        <MessageTitle />
+        <Description />
         <ImageFilepath />
         <MusicFilepath />
         <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
@@ -23572,8 +23661,8 @@ Agora, eles atacam num tom desafiador, mas se enfrentarem o Mortalen em batalha 
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id1>0</Id1>
-        <Value1>0</Value1>
-        <Value2>0</Value2>
+        <Value1>3</Value1>
+        <Value2>1E+09</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
         <ResearchCategory>Undefined</ResearchCategory>
@@ -23603,8 +23692,77 @@ Agora, eles atacam num tom desafiador, mas se enfrentarem o Mortalen em batalha 
         <BonusAppliesTo>Undefined</BonusAppliesTo>
         <ChoiceButtonText />
         <GeneratedItemName />
-        <DelaySecondsMinimum>10</DelaySecondsMinimum>
-        <DelaySecondsMaximum>10</DelaySecondsMaximum>
+        <DelaySecondsMinimum>5</DelaySecondsMinimum>
+        <DelaySecondsMaximum>5</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddPopulationToColony</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id1>1</Id1>
+        <Value1>3E+08</Value1>
+        <Value2>1</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>5</DelaySecondsMinimum>
+        <DelaySecondsMaximum>5</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddPopulationToColony</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id1>2</Id1>
+        <Value1>3E+08</Value1>
+        <Value2>1</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>5</DelaySecondsMinimum>
+        <DelaySecondsMaximum>5</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddPopulationToColony</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id1>6</Id1>
+        <Value1>3E+08</Value1>
+        <Value2>1</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>5</DelaySecondsMinimum>
+        <DelaySecondsMaximum>5</DelaySecondsMaximum>
       </GameEventAction>
     </TriggerActions>
   </GameEvent>
@@ -23629,7 +23787,7 @@ Agora, eles atacam num tom desafiador, mas se enfrentarem o Mortalen em batalha 
     <TriggerActions>
       <GameEventAction>
         <Type>GeneralStoryMessageToEmpire</Type>
-        <MessageTitle>The Free Slaves</MessageTitle>
+        <MessageTitle>Os Escravos Livres</MessageTitle>
         <Description>Encontramos um mundo independente no sistema {1}, povoado por várias espécies de alienígenas.
 
 Dizem que seus ancestrais já foram escravizados por uma espécie de guerreiros reptilianos brutais. Isto foi durante uma época de uma grande guerra galáctica, e quando essa guerra chegou ao fim, os escravos derrubaram seus senhores. Uma vez livres, eles se uniram para construir uma nova sociedade onde vivessem em paz e liberdade.</Description>
@@ -23937,8 +24095,8 @@ Dentro das instalações, também aprendemos a localização do antigo mundo nat
         <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationCanBeAsteroid>false</ActionLocationCanBeAsteroid>
-        <ActionLocationItemName>Ancient Mortalen Capital Ruins</ActionLocationItemName>
-        <ActionLocationItemType>PlanetaryFacility</ActionLocationItemType>
+        <ActionLocationItemName>Kartikeya</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
         <Value1>0</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
@@ -23985,7 +24143,7 @@ Dentro das instalações, também aprendemos a localização do antigo mundo nat
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id1>23</Id1>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -24008,7 +24166,7 @@ Dentro das instalações, também aprendemos a localização do antigo mundo nat
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id1>76</Id1>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -24101,8 +24259,8 @@ Ainda mais alarmante, há sinais de que os clones podem ter transportado um vír
         <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationCanBeAsteroid>false</ActionLocationCanBeAsteroid>
-        <ActionLocationItemName>Ancient Mortalen Capital Ruins</ActionLocationItemName>
-        <ActionLocationItemType>PlanetaryFacility</ActionLocationItemType>
+        <ActionLocationItemName>Kartikeya</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
         <Value1>0</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
@@ -24149,7 +24307,7 @@ Ainda mais alarmante, há sinais de que os clones podem ter transportado um vír
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id1>23</Id1>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -24396,8 +24554,8 @@ Dentro das instalações, também aprendemos a localização do antigo mundo nat
         <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationCanBeAsteroid>false</ActionLocationCanBeAsteroid>
-        <ActionLocationItemName>Ancient Mortalen Capital Ruins</ActionLocationItemName>
-        <ActionLocationItemType>PlanetaryFacility</ActionLocationItemType>
+        <ActionLocationItemName>Kartikeya</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
         <Value1>0</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
@@ -24444,7 +24602,7 @@ Dentro das instalações, também aprendemos a localização do antigo mundo nat
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id1>23</Id1>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -24467,7 +24625,7 @@ Dentro das instalações, também aprendemos a localização do antigo mundo nat
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id1>76</Id1>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -24558,8 +24716,8 @@ Ainda mais alarmante, há sinais de que os clones podem ter transportado um vír
         <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationCanBeAsteroid>false</ActionLocationCanBeAsteroid>
-        <ActionLocationItemName>Ancient Mortalen Capital Ruins</ActionLocationItemName>
-        <ActionLocationItemType>PlanetaryFacility</ActionLocationItemType>
+        <ActionLocationItemName>Kartikeya</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
         <Value1>0</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
@@ -24583,7 +24741,7 @@ Ainda mais alarmante, há sinais de que os clones podem ter transportado um vír
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id1>23</Id1>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -30884,7 +31042,7 @@ Para nossa resposta, podemos tentar receber os sentinelas ou podemos tentar hack
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id1>666</Id1>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -31090,7 +31248,7 @@ Para nossa resposta, podemos tentar receber os sentinelas ou podemos tentar hack
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.75</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -31388,8 +31546,8 @@ As forças opostas serão agora severamente enfraquecidas. Esta antiga Aliança 
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>0</Value1>
-        <Value2>0</Value2>
+        <Value1>1</Value1>
+        <Value2>15</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
         <ResearchCategory>Undefined</ResearchCategory>
@@ -31410,8 +31568,8 @@ As forças opostas serão agora severamente enfraquecidas. Esta antiga Aliança 
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Id1>5</Id1>
-        <Id2>400000</Id2>
+        <Id1>4</Id1>
+        <Id2>20000000</Id2>
         <Value1>15</Value1>
         <Value2>0.72</Value2>
         <ShipRole>Undefined</ShipRole>
@@ -31460,6 +31618,52 @@ As forças opostas serão agora severamente enfraquecidas. Esta antiga Aliança 
         <Id2>6</Id2>
         <Value1>3</Value1>
         <Value2>0.6</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>GenerateTroops</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id1>24</Id1>
+        <Value1>2</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>GenerateTroops</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id1>22</Id1>
+        <Value1>5</Value1>
+        <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
         <ResearchCategory>Undefined</ResearchCategory>
@@ -31565,6 +31769,28 @@ Nós somos os Guardiões, colocados aqui pela Supremacia de Boskara para nosso p
         <GeneratedItemName>Secret Boskara Research Facility Choice (Boskara)</GeneratedItemName>
         <DelaySecondsMinimum>60</DelaySecondsMinimum>
         <DelaySecondsMaximum>60</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>DisableEvent</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName>Encounter Guardians (Non-Boskara)</GeneratedItemName>
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
       </GameEventAction>
     </TriggerActions>
   </GameEvent>
@@ -31707,9 +31933,866 @@ Estes Guardiões querem saber quem é o verdadeiro inimigo de Boskara. Quem repr
         <ActionLocationItemName>Greer</ActionLocationItemName>
         <ActionLocationItemType>Orb</ActionLocationItemType>
         <Id1>6</Id1>
-        <Id2>7</Id2>
+        <Value1>4</Value1>
+        <Value2>7.5E+08</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName>Boskara Conformity</GeneratedItemName>
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>TriggerEvent</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationCanBeAsteroid>false</ActionLocationCanBeAsteroid>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName>Wrong Boskara Choice Delayed (Boskara)</GeneratedItemName>
+        <DelaySecondsMinimum>5</DelaySecondsMinimum>
+        <DelaySecondsMaximum>5</DelaySecondsMaximum>
+      </GameEventAction>
+    </TriggerActions>
+  </GameEvent>
+  <GameEvent>
+    <Name>Wrong Boskara Choice Delayed (Boskara)</Name>
+    <GroupName />
+    <Title />
+    <Description />
+    <ImageFilepath />
+    <MusicFilepath />
+    <TriggerType>Undefined</TriggerType>
+    <TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
+    <TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
+    <TriggerPriority>0</TriggerPriority>
+    <PlacementAtGameStart>false</PlacementAtGameStart>
+    <PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
+    <OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
+    <TriggerActionsAreChoices>false</TriggerActionsAreChoices>
+    <SuppressTriggerDescriptions>false</SuppressTriggerDescriptions>
+    <TriggerActions>
+      <GameEventAction>
+        <Type>AddEmpireIncidentFactorGeneral</Type>
+        <MessageTitle />
+        <Description>You are not the right Boskara</Description>
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationCanBeAsteroid>false</ActionLocationCanBeAsteroid>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Value1>-60</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>GenerateTroops</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>24</Id1>
+        <Value1>2</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>GenerateTroops</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>22</Id1>
         <Value1>5</Value1>
-        <Value2>5E+08</Value2>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>TriggerEvent</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName>Wrong Boskara Choice Generate Ship 1 (Boskara)</GeneratedItemName>
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>TriggerEvent</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName>Wrong Boskara Choice Generate Ship 2 (Boskara)</GeneratedItemName>
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>TriggerEvent</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName>Wrong Boskara Choice Generate Ship 3 (Boskara)</GeneratedItemName>
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>TriggerEvent</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName>Wrong Boskara Choice Generate Ship 4 (Boskara)</GeneratedItemName>
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>0</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>1</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>2</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>3</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>4</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>5</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>6</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>7</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>8</Id1>
+        <Value1>10000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>9</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>10</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>11</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>12</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>13</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>14</Id1>
+        <Value1>5000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>77</Id1>
+        <Value1>3000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddCargo</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>78</Id1>
+        <Value1>3000</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+    </TriggerActions>
+  </GameEvent>
+  <GameEvent>
+    <Name>Wrong Boskara Choice Generate Ship 1 (Boskara)</Name>
+    <GroupName />
+    <Title />
+    <Description />
+    <ImageFilepath />
+    <MusicFilepath />
+    <TriggerType>Undefined</TriggerType>
+    <TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
+    <TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
+    <TriggerPriority>0</TriggerPriority>
+    <PlacementAtGameStart>false</PlacementAtGameStart>
+    <PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
+    <OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
+    <TriggerActionsAreChoices>false</TriggerActionsAreChoices>
+    <SuppressTriggerDescriptions>false</SuppressTriggerDescriptions>
+    <TriggerActions>
+      <GameEventAction>
+        <Type>GenerateAbandonedShipBase</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationCanBeAsteroid>false</ActionLocationCanBeAsteroid>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>6</Id1>
+        <Id2>4</Id2>
+        <Value1>1</Value1>
+        <Value2>0.01</Value2>
+        <ShipRole>ConstructionShip</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>ChangeShipEmpire</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id2>-2</Id2>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+    </TriggerActions>
+  </GameEvent>
+  <GameEvent>
+    <Name>Wrong Boskara Choice Generate Ship 2 (Boskara)</Name>
+    <GroupName />
+    <Title />
+    <Description />
+    <ImageFilepath />
+    <MusicFilepath />
+    <TriggerType>Undefined</TriggerType>
+    <TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
+    <TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
+    <TriggerPriority>0</TriggerPriority>
+    <PlacementAtGameStart>false</PlacementAtGameStart>
+    <PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
+    <OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
+    <TriggerActionsAreChoices>false</TriggerActionsAreChoices>
+    <SuppressTriggerDescriptions>false</SuppressTriggerDescriptions>
+    <TriggerActions>
+      <GameEventAction>
+        <Type>GenerateAbandonedShipBase</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationCanBeAsteroid>false</ActionLocationCanBeAsteroid>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>6</Id1>
+        <Id2>4</Id2>
+        <Value1>1</Value1>
+        <Value2>0.01</Value2>
+        <ShipRole>ConstructionShip</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>ChangeShipEmpire</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id2>-2</Id2>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+    </TriggerActions>
+  </GameEvent>
+  <GameEvent>
+    <Name>Wrong Boskara Choice Generate Ship 3 (Boskara)</Name>
+    <GroupName />
+    <Title />
+    <Description />
+    <ImageFilepath />
+    <MusicFilepath />
+    <TriggerType>Undefined</TriggerType>
+    <TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
+    <TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
+    <TriggerPriority>0</TriggerPriority>
+    <PlacementAtGameStart>false</PlacementAtGameStart>
+    <PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
+    <OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
+    <TriggerActionsAreChoices>false</TriggerActionsAreChoices>
+    <SuppressTriggerDescriptions>false</SuppressTriggerDescriptions>
+    <TriggerActions>
+      <GameEventAction>
+        <Type>GenerateAbandonedShipBase</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationCanBeAsteroid>false</ActionLocationCanBeAsteroid>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>6</Id1>
+        <Id2>4</Id2>
+        <Value1>1</Value1>
+        <Value2>0.01</Value2>
+        <ShipRole>ExplorationShip</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>ChangeShipEmpire</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id2>-2</Id2>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+    </TriggerActions>
+  </GameEvent>
+  <GameEvent>
+    <Name>Wrong Boskara Choice Generate Ship 4 (Boskara)</Name>
+    <GroupName />
+    <Title />
+    <Description />
+    <ImageFilepath />
+    <MusicFilepath />
+    <TriggerType>Undefined</TriggerType>
+    <TriggerBuildBaseRole>Undefined</TriggerBuildBaseRole>
+    <TriggerEmpireRelationType>Undefined</TriggerEmpireRelationType>
+    <TriggerPriority>0</TriggerPriority>
+    <PlacementAtGameStart>false</PlacementAtGameStart>
+    <PlacementActionEventHostIndex>0</PlacementActionEventHostIndex>
+    <OrbEncounterDiscoveryLevel>0</OrbEncounterDiscoveryLevel>
+    <TriggerActionsAreChoices>false</TriggerActionsAreChoices>
+    <SuppressTriggerDescriptions>false</SuppressTriggerDescriptions>
+    <TriggerActions>
+      <GameEventAction>
+        <Type>GenerateAbandonedShipBase</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationCanBeAsteroid>false</ActionLocationCanBeAsteroid>
+        <ActionLocationItemName>Greer</ActionLocationItemName>
+        <ActionLocationItemType>Orb</ActionLocationItemType>
+        <Id1>6</Id1>
+        <Id2>4</Id2>
+        <Value1>1</Value1>
+        <Value2>0.01</Value2>
+        <ShipRole>ExplorationShip</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>ChangeShipEmpire</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id2>-2</Id2>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
         <ResearchCategory>Undefined</ResearchCategory>
@@ -31806,8 +32889,8 @@ Estes Guardiões querem saber quem é o verdadeiro inimigo de Boskara. Quem apre
     <TriggerActions>
       <GameEventAction>
         <Type>TriggerEvent</Type>
-        <MessageTitle>Comunicação de entrada...</MessageTitle>
-        <Description>"Nós somos os Guardiões". Você está errado Boskara. Nós vamos destruí-lo".</Description>
+        <MessageTitle />
+        <Description />
         <ImageFilepath />
         <MusicFilepath />
         <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
@@ -31970,7 +33053,7 @@ Importante revelação. Descoberta a localização do mundo natal de Boskara! A 
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -31992,7 +33075,7 @@ Importante revelação. Descoberta a localização do mundo natal de Boskara! A 
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -32015,29 +33098,6 @@ Importante revelação. Descoberta a localização do mundo natal de Boskara! A 
         <ActionLocationCanBeAsteroid>false</ActionLocationCanBeAsteroid>
         <ActionLocationItemName>Shahad</ActionLocationItemName>
         <ActionLocationItemType>Orb</ActionLocationItemType>
-        <Value1>0</Value1>
-        <Value2>0</Value2>
-        <ShipRole>Undefined</ShipRole>
-        <CharacterRole>Undefined</CharacterRole>
-        <ResearchCategory>Undefined</ResearchCategory>
-        <BonusType>Undefined</BonusType>
-        <BonusAppliesTo>Undefined</BonusAppliesTo>
-        <ChoiceButtonText />
-        <GeneratedItemName />
-        <DelaySecondsMinimum>0</DelaySecondsMinimum>
-        <DelaySecondsMaximum>0</DelaySecondsMaximum>
-      </GameEventAction>
-      <GameEventAction>
-        <Type>GenerateArtifact</Type>
-        <MessageTitle />
-        <Description />
-        <ImageFilepath />
-        <MusicFilepath />
-        <ActionLocationHint>TriggeringItem</ActionLocationHint>
-        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
-        <ActionLocationItemName />
-        <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Id1>18</Id1>
         <Value1>0</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
@@ -32106,7 +33166,7 @@ Mas revelação importante. Descoberta a localização do mundo natal de Boskara
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -32183,9 +33243,9 @@ Mas revelação importante. Descoberta a localização do mundo natal de Boskara
         <DelaySecondsMaximum>0</DelaySecondsMaximum>
       </GameEventAction>
       <GameEventAction>
-        <Type>GenerateEmpire</Type>
+        <Type>AddEmpireIncidentFactorGeneral</Type>
         <MessageTitle />
-        <Description />
+        <Description>Você não é a Supremacia de Boskara</Description>
         <ImageFilepath />
         <MusicFilepath />
         <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
@@ -32193,10 +33253,8 @@ Mas revelação importante. Descoberta a localização do mundo natal de Boskara
         <ActionLocationCanBeAsteroid>false</ActionLocationCanBeAsteroid>
         <ActionLocationItemName>Greer</ActionLocationItemName>
         <ActionLocationItemType>Orb</ActionLocationItemType>
-        <Id1>6</Id1>
-        <Id2>7</Id2>
-        <Value1>5</Value1>
-        <Value2>5E+08</Value2>
+        <Value1>-40</Value1>
+        <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
         <ResearchCategory>Undefined</ResearchCategory>
@@ -34302,7 +35360,7 @@ Os alienígenas permitiram que nossos engenheiros ajudassem no conserto de seu n
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -36569,7 +37627,7 @@ Nas bases planetárias, descobrimos alguns segredos interessantes da antiga ciê
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -36591,7 +37649,7 @@ Nas bases planetárias, descobrimos alguns segredos interessantes da antiga ciê
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -37080,7 +38138,7 @@ Os bancos de informática nos revelaram outros segredos tecnológicos valiosos, 
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -37102,7 +38160,7 @@ Os bancos de informática nos revelaram outros segredos tecnológicos valiosos, 
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -37329,7 +38387,7 @@ Os bancos de informática nos revelaram outros segredos tecnológicos valiosos, 
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -37351,7 +38409,7 @@ Os bancos de informática nos revelaram outros segredos tecnológicos valiosos, 
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -39747,8 +40805,8 @@ As fontes de energia neste mundo são muito limitadas e não podemos fazer a int
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>0</Value1>
-        <Value2>0.5</Value2>
+        <Value1>0.5</Value1>
+        <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
         <ResearchCategory>WeaponIon</ResearchCategory>
@@ -39877,8 +40935,8 @@ As fontes de energia neste mundo são muito limitadas e não podemos fazer a int
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>0</Value1>
-        <Value2>0.5</Value2>
+        <Value1>0.5</Value1>
+        <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
         <ResearchCategory>WeaponIon</ResearchCategory>
@@ -39963,8 +41021,8 @@ As fontes de energia neste mundo são muito limitadas e não podemos fazer a int
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>0</Value1>
-        <Value2>0.5</Value2>
+        <Value1>0.5</Value1>
+        <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
         <ResearchCategory>WeaponIon</ResearchCategory>
@@ -41191,8 +42249,8 @@ Os bancos de dados também revelam mais dois locais. É improvável que eles sej
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>0</Value1>
-        <Value2>0.5</Value2>
+        <Value1>0.5</Value1>
+        <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
         <ResearchCategory>Construction</ResearchCategory>
