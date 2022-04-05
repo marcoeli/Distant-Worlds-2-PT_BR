@@ -343,7 +343,7 @@
     <ResearchProjectsUnlockDescription />
     <ResearchProjectsCompleteDescription />
     <GovernmentsUnlockDescription />
-    <Name>Constituição Crystal (Ackdara)</Name>
+    <Name>Constituição Cristal (Ackdara)</Name>
     <Description>Um dispositivo de armazenamento cristalino contendo possivelmente a única cópia original sobrevivente da Constituição da antiga Aliança pela Liberdade.  Como a primeira carta a unir completamente múltiplas espécies alienígenas sob um governo, é uma parte única e sem preço da história da galáxia.  Dizia-se que esta cópia estava armazenada no antigo mundo natal ackdariano de Ackdara.</Description>
     <ImageFilename>Artifacts/ackdarian constitution crystal</ImageFilename>
   </Artifact>
@@ -704,14 +704,14 @@
       <Bonus>
         <Type>Diplomacy</Type>
         <Amount>0.1</Amount>
-        <AppliesTo>Item</AppliesTo>
+        <AppliesTo>Empire</AppliesTo>
         <DiscoveryLevel>0</DiscoveryLevel>
         <Description />
       </Bonus>
       <Bonus>
         <Type>CounterEspionage</Type>
         <Amount>0.1</Amount>
-        <AppliesTo>Item</AppliesTo>
+        <AppliesTo>Empire</AppliesTo>
         <DiscoveryLevel>0</DiscoveryLevel>
         <Description />
       </Bonus>
@@ -877,13 +877,6 @@
         <DiscoveryLevel>0</DiscoveryLevel>
         <Description />
       </Bonus>
-      <Bonus>
-        <Type>Diplomacy</Type>
-        <Amount>0.1</Amount>
-        <AppliesTo>Empire</AppliesTo>
-        <DiscoveryLevel>0</DiscoveryLevel>
-        <Description />
-      </Bonus>
     </BonusesToOwner>
     <ResearchProjectUnlockIds>
 		<short>139</short>
@@ -954,7 +947,7 @@
     <ResearchProjectsUnlockDescription />
     <ResearchProjectsCompleteDescription />
     <GovernmentsUnlockDescription />
-    <Name>Escudos Experimentais Citadel </Name>
+    <Name>Escudos Experimentais  da Cidadela </Name>
     <Description>Os restos de um gerador de escudo experimental de incrível força, no qual o antigo Zenox parece ter trabalhado.  Parece que estava quase concluído antes de suas pesquisas e engenharia serem interrompidas.</Description>
     <ImageFilename>Environment/Components/Zenox_ExperimentalCitadelShields</ImageFilename>
   </Artifact>
