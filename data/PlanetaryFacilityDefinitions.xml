@@ -1633,7 +1633,7 @@
     <AchievementRaceId>-1</AchievementRaceId>
     <WeaponComponentId>-1</WeaponComponentId>
     <AllowTroopInfantryCloning>false</AllowTroopInfantryCloning>
-    <FacilityFamilyId>38</FacilityFamilyId>
+    <FacilityFamilyId>50</FacilityFamilyId>
     <ExclusiveWithinFamily>false</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
     <Name>Rede de Comando Galáctico</Name>
@@ -2443,7 +2443,7 @@
     <WeaponComponentId>345</WeaponComponentId>
     <WeaponCount>1</WeaponCount>
     <AllowTroopInfantryCloning>false</AllowTroopInfantryCloning>
-    <FacilityFamilyId>43</FacilityFamilyId>
+    <FacilityFamilyId>49</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
     <Name>Observatório do Espaço Profundo</Name>
@@ -2463,7 +2463,7 @@
     <WeaponComponentLevel>1</WeaponComponentLevel>
     <WeaponCount>1</WeaponCount>
     <AllowTroopInfantryCloning>false</AllowTroopInfantryCloning>
-    <FacilityFamilyId>43</FacilityFamilyId>
+    <FacilityFamilyId>49</FacilityFamilyId>
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
@@ -2484,7 +2484,7 @@
     <WeaponComponentLevel>2</WeaponComponentLevel>
     <WeaponCount>1</WeaponCount>
     <AllowTroopInfantryCloning>false</AllowTroopInfantryCloning>
-    <FacilityFamilyId>43</FacilityFamilyId>
+    <FacilityFamilyId>49</FacilityFamilyId>
     <FacilityFamilyLevel>2</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
