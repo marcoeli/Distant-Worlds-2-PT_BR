@@ -636,7 +636,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>19</ResearchProjectId>
-    <Name>Arma Canhão Ferroviário</Name>
+    <Name>Arma Rail Gun</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>150</Size>
     <InitiationCost>
@@ -3158,7 +3158,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>73</ResearchProjectId>
-    <Name>Armas Canhão Ferroviário Massivo</Name>
+    <Name>Armas Rail Gun Massivo</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>1600</Size>
     <InitiationCost>
@@ -6102,7 +6102,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>128</ResearchProjectId>
-    <Name>Missile Defense Network</Name>
+    <Name>Rede de Defesa Antimíssil</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6156,7 +6156,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>129</ResearchProjectId>
-    <Name>High Capacity Batteries</Name>
+    <Name>Baterias de Alta Capacidade</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6209,7 +6209,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>130</ResearchProjectId>
-    <Name>Heavy Missile Swarms</Name>
+    <Name>Enxames de Mísseis Pesados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6269,7 +6269,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>131</ResearchProjectId>
-    <Name>Integrated Missile Defenses</Name>
+    <Name>Defesa Integrada de Mísseis</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6312,7 +6312,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>132</ResearchProjectId>
-    <Name>Severe Radiation Blast</Name>
+    <Name>Detonador de Radiação Grave</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>2560</Size>
     <InitiationCost>
@@ -6361,7 +6361,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>133</ResearchProjectId>
-    <Name>Superheavy Mass Drivers</Name>
+    <Name>Drivers de Massa Superpesados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>2560</Size>
     <InitiationCost>
@@ -6410,7 +6410,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>134</ResearchProjectId>
-    <Name>Terminal Point Defense</Name>
+    <Name>Terminal de Defesa Pontual</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6467,7 +6467,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>135</ResearchProjectId>
-    <Name>Advanced Adaptive Projectiles</Name>
+    <Name>Projetores Adaptativos Avançados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6531,7 +6531,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>136</ResearchProjectId>
-    <Name>Rail Gun Defense Network</Name>
+    <Name>Rede de Defesa de Rail Gun</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6574,7 +6574,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>137</ResearchProjectId>
-    <Name>Heavy Shock Forces</Name>
+    <Name>Forças de Choque Pesado</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6632,7 +6632,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>138</ResearchProjectId>
-    <Name>Basic Synthetics</Name>
+    <Name>Sintéticos Básicos</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6675,7 +6675,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>139</ResearchProjectId>
-    <Name>Basic Chimeras</Name>
+    <Name>Chimeras Básicas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6738,7 +6738,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>140</ResearchProjectId>
-    <Name>Superior Assault Tactics</Name>
+    <Name>Táticas de Assalto Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6796,7 +6796,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>141</ResearchProjectId>
-    <Name>Superior Defense Tactics</Name>
+    <Name>Táticas de Defesa Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6859,7 +6859,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>142</ResearchProjectId>
-    <Name>Multi Layer Planetary Defenses</Name>
+    <Name>Defesas Planetárias Multicamadas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6917,7 +6917,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>143</ResearchProjectId>
-    <Name>Integrated Installations</Name>
+    <Name>Instalações Integradas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -6975,7 +6975,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>144</ResearchProjectId>
-    <Name>Assault Marines</Name>
+    <Name>Marines de Assalto</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -7036,7 +7036,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>145</ResearchProjectId>
-    <Name>Ship Defense Network</Name>
+    <Name>Rede de Defesa Naval</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -7092,7 +7092,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>146</ResearchProjectId>
-    <Name>Advanced Battlefield Medicine</Name>
+    <Name>Medicina de Campo de Batalha Avançada</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -7148,7 +7148,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>147</ResearchProjectId>
-    <Name>Advanced Phaser Capacitors</Name>
+    <Name>Capacitores Phaser Avançados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -7205,7 +7205,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>148</ResearchProjectId>
-    <Name>Pulse Power Optimization</Name>
+    <Name>Otimização da Potência de Pulso</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>6400</Size>
     <InitiationCost>
@@ -7277,7 +7277,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>149</ResearchProjectId>
-    <Name>Advanced EM Beams</Name>
+    <Name>Feixes EM Avançados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>5120</Size>
     <InitiationCost>
@@ -7326,7 +7326,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>150</ResearchProjectId>
-    <Name>Superior Ion Point Defense</Name>
+    <Name>Defensa Pontual de Ion Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>6400</Size>
     <InitiationCost>
@@ -7379,7 +7379,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>151</ResearchProjectId>
-    <Name>Superior Ion Weapons</Name>
+    <Name>Armas de Íon Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>6400</Size>
     <InitiationCost>
@@ -7448,7 +7448,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>152</ResearchProjectId>
-    <Name>Detonation Optimization</Name>
+    <Name>Otimização de Detonação</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>5120</Size>
     <InitiationCost>
@@ -7505,7 +7505,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>153</ResearchProjectId>
-    <Name>Gravitic Distortion Zone</Name>
+    <Name>Zona de Distorção Gravitica</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>10240</Size>
     <InitiationCost>
@@ -8726,7 +8726,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>176</ResearchProjectId>
-    <Name>Intense Gravitic Warping</Name>
+    <Name>Deformação Gravitica Intensa</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>5120</Size>
     <InitiationCost>
@@ -11879,7 +11879,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>252</ResearchProjectId>
-    <Name>Early Warp Field Experiments</Name>
+    <Name>Experimentos de Campo de Dobra Inicial</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>75</Size>
     <EnabledByDefault>true</EnabledByDefault>
@@ -12128,7 +12128,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>261</ResearchProjectId>
-    <Name>Stable Warp Fields</Name>
+    <Name>Campos de Dobra Estável</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>225</Size>
     <InitiationCost>
@@ -18873,7 +18873,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>401</ResearchProjectId>
-    <Name>Warped Light Field</Name>
+    <Name>Campo de luz distorcido</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>187.5</Size>
     <InitiationCost>
@@ -20062,7 +20062,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>430</ResearchProjectId>
-    <Name>Advanced Light Warping</Name>
+    <Name>Distorção de Luz Avançada</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>2000</Size>
     <InitiationCost>
