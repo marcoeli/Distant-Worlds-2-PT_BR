@@ -7562,7 +7562,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>154</ResearchProjectId>
-    <Name>Extreme Energy Charging</Name>
+    <Name>Carga de energia extrema</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>5120</Size>
     <InitiationCost>
@@ -7615,7 +7615,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>155</ResearchProjectId>
-    <Name>Hyper Predictive Guidance</Name>
+    <Name>Guia Hiper Predictiva</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>5120</Size>
     <InitiationCost>
@@ -7676,7 +7676,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>156</ResearchProjectId>
-    <Name>Hyper Efficient Containment</Name>
+    <Name>Contenção hiper-eficiente</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>5120</Size>
     <InitiationCost>
@@ -7733,7 +7733,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>157</ResearchProjectId>
-    <Name>Decoy Swarms</Name>
+    <Name>Enxames de iscas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>5120</Size>
     <InitiationCost>
@@ -7790,7 +7790,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>158</ResearchProjectId>
-    <Name>Advanced Missile Swarms</Name>
+    <Name>Enxames de mísseis avançados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>5120</Size>
     <InitiationCost>
@@ -7843,7 +7843,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>159</ResearchProjectId>
-    <Name>Synchronized Fire</Name>
+    <Name>Fogo Sincronizado</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>8000</Size>
     <InitiationCost>
@@ -7903,7 +7903,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>160</ResearchProjectId>
-    <Name>Stealth Operations</Name>
+    <Name>Operações furtivas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>6400</Size>
     <InitiationCost>
@@ -7961,7 +7961,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>161</ResearchProjectId>
-    <Name>Superior Wave Weapons</Name>
+    <Name>Armas de Onda Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -7993,7 +7993,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>162</ResearchProjectId>
-    <Name>Superior Point Defense</Name>
+    <Name>Defesa Pontual Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -8051,7 +8051,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>163</ResearchProjectId>
-    <Name>Core-Linked Energy Beams</Name>
+    <Name>Feixes de Energia Core-Linked</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -8089,7 +8089,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>164</ResearchProjectId>
-    <Name>Superior Phased Beams</Name>
+    <Name>Feixes Faseados Superiores</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>6400</Size>
     <InitiationCost>
@@ -8155,7 +8155,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>165</ResearchProjectId>
-    <Name>Superior Pulse Intensification</Name>
+    <Name>Intensificação de Pulso Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -8216,7 +8216,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>166</ResearchProjectId>
-    <Name>Extreme Ion Weapons</Name>
+    <Name>Armas de Íon Extremas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -8273,7 +8273,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>167</ResearchProjectId>
-    <Name>Superior EMP Defenses</Name>
+    <Name>Defesas EMP superiores</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -8319,7 +8319,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>168</ResearchProjectId>
-    <Name>Overwhelming Ion Blasts</Name>
+    <Name>Detonadores de íons</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>38400</Size>
     <InitiationCost>
@@ -8367,7 +8367,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>169</ResearchProjectId>
-    <Name>Core-Linked Ion Weapons</Name>
+    <Name>Armas de Íons Core-Linked</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -8405,7 +8405,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>170</ResearchProjectId>
-    <Name>Superior Energy Surge</Name>
+    <Name>Surtos de Energia Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -8476,7 +8476,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>171</ResearchProjectId>
-    <Name>Area Pattern Optimization</Name>
+    <Name>Otimização de Padrões de Área</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -8533,7 +8533,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>172</ResearchProjectId>
-    <Name>Core-Linked Area Weapons</Name>
+    <Name>Armas de Área Core-Linked</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -8571,7 +8571,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>173</ResearchProjectId>
-    <Name>Improved Wave Field</Name>
+    <Name>Campo de Ondas Melhoradas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -8628,7 +8628,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>174</ResearchProjectId>
-    <Name>Superior Gravitic Resonance</Name>
+    <Name>Resonância Gravitica Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -8685,7 +8685,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>175</ResearchProjectId>
-    <Name>Intense Gravitic Stretching</Name>
+    <Name>Estiramento Gravitico Intenso</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>5120</Size>
     <InitiationCost>
@@ -8767,7 +8767,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>177</ResearchProjectId>
-    <Name>Core-Linked Gravitic Control</Name>
+    <Name>Controle Gravitico Core-Linked</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>6400</Size>
     <InitiationCost>
@@ -8805,7 +8805,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>178</ResearchProjectId>
-    <Name>Resonant Plasma Pulse</Name>
+    <Name>Pulso de Plasma Ressonante</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -8887,7 +8887,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>179</ResearchProjectId>
-    <Name>Dimensional Plasma Physics</Name>
+    <Name>Física de Plasma Dimensional</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -8958,7 +8958,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>180</ResearchProjectId>
-    <Name>Core-Linked Torpedo Weapons</Name>
+    <Name>Armas de Torpedo Core-Linked</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -8996,7 +8996,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>181</ResearchProjectId>
-    <Name>Extreme Energy Warheads</Name>
+    <Name>Ogivas de Energia Extrema</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9053,7 +9053,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>182</ResearchProjectId>
-    <Name>Impenetrable Missile Defense</Name>
+    <Name>Defesa Antimíssil Impenetrável</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>32000</Size>
     <InitiationCost>
@@ -9113,7 +9113,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>183</ResearchProjectId>
-    <Name>Superior Missile Defense Network</Name>
+    <Name>Rede de Defesa Antimíssil Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9162,7 +9162,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>184</ResearchProjectId>
-    <Name>Fortified Missile Defenses</Name>
+    <Name>Defesas Antimíssil Fortificadas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9205,7 +9205,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>185</ResearchProjectId>
-    <Name>Total Destruction</Name>
+    <Name>Destruição Total</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9254,7 +9254,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>186</ResearchProjectId>
-    <Name>Extreme Mass Drivers</Name>
+    <Name>Drivers de Massa Extrema</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9303,7 +9303,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>187</ResearchProjectId>
-    <Name>Superior Kinetic Point Defense</Name>
+    <Name>Defesa Pontual Cinética Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9360,7 +9360,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>188</ResearchProjectId>
-    <Name>Extreme Projectile Batteries</Name>
+    <Name>Baterias de Projéteis Extremos</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9417,7 +9417,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>189</ResearchProjectId>
-    <Name>Fortified Rail Gun Defenses</Name>
+    <Name>Defesas Rail Gun Fortificadas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9455,7 +9455,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>190</ResearchProjectId>
-    <Name>Super Heavy Shock Forces</Name>
+    <Name>Forças de Choque Superpesadas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9513,7 +9513,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>191</ResearchProjectId>
-    <Name>Advanced Synthetics</Name>
+    <Name>Sintéticos Avançados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9576,7 +9576,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>192</ResearchProjectId>
-    <Name>Advanced Chimeras</Name>
+    <Name>Chimeras Avançadas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9639,7 +9639,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>193</ResearchProjectId>
-    <Name>Assault Supremacy</Name>
+    <Name>Supremacia de Assalto</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9697,7 +9697,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>194</ResearchProjectId>
-    <Name>Elite Operatives</Name>
+    <Name>Operações de Elite</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9755,7 +9755,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>195</ResearchProjectId>
-    <Name>Defense Supremacy</Name>
+    <Name>Superioridade da Defesa</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9813,7 +9813,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>196</ResearchProjectId>
-    <Name>Orbital Defense Network</Name>
+    <Name>Rede de Defesa Orbital</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9871,7 +9871,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>197</ResearchProjectId>
-    <Name>Core-Linked Installations</Name>
+    <Name>Instalações Core-Linked</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9929,7 +9929,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>198</ResearchProjectId>
-    <Name>Armored Assault Marines</Name>
+    <Name>Fuzileiros Blindados de Assaulto</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9985,7 +9985,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>199</ResearchProjectId>
-    <Name>Superior Logistics</Name>
+    <Name>Logística Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -10041,7 +10041,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>200</ResearchProjectId>
-    <Name>Superior Battlefield Medicine</Name>
+    <Name>Medicina de Campo de Batalha Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -10097,7 +10097,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>201</ResearchProjectId>
-    <Name>Extreme Point Defense</Name>
+    <Name>Defesa Pontual Extrema</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -10150,7 +10150,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>202</ResearchProjectId>
-    <Name>Extreme Phased Energy</Name>
+    <Name>Energia Faseada Extrema</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -10211,7 +10211,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>203</ResearchProjectId>
-    <Name>Beam Superflow</Name>
+    <Name>Feixe Superfluxo</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -10293,7 +10293,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>204</ResearchProjectId>
-    <Name>EM Wave Projection</Name>
+    <Name>Projeção da Onda EM</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -10348,7 +10348,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>205</ResearchProjectId>
-    <Name>Extreme Energy Surge</Name>
+    <Name>Surto de Energia Extrema</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -10409,7 +10409,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>206</ResearchProjectId>
-    <Name>Gravitic Singularity Creation</Name>
+    <Name>Criação da Singularidade Gravitica</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>102400</Size>
     <InitiationCost>
@@ -10476,7 +10476,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>207</ResearchProjectId>
-    <Name>Extreme Gravitic Control</Name>
+    <Name>Controle Gravitico Extremo</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -10535,7 +10535,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>208</ResearchProjectId>
-    <Name>Extreme Plasma Charge</Name>
+    <Name>Carga Extrema de Plasma</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -10567,7 +10567,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>209</ResearchProjectId>
-    <Name>Intense Plasma Eruptions</Name>
+    <Name>Erupções Plasmáticas Intensas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -10632,7 +10632,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>210</ResearchProjectId>
-    <Name>Self-Repairing Swarms</Name>
+    <Name>Enxames Auto-regenerativos</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -10699,7 +10699,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>211</ResearchProjectId>
-    <Name>Complete Extermination</Name>
+    <Name>Exterminação Total</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -10748,7 +10748,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>212</ResearchProjectId>
-    <Name>Massive Assault Forces</Name>
+    <Name>Forças de Assalto Massivo</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>51200</Size>
     <InitiationCost>
@@ -10792,7 +10792,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>213</ResearchProjectId>
-    <Name>Improved PD Accuracy</Name>
+    <Name>Precisão Melhorada da DP</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -10817,7 +10817,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>214</ResearchProjectId>
-    <Name>Improved PD Range</Name>
+    <Name>Alcance de DP Melhorado</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -10842,7 +10842,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>215</ResearchProjectId>
-    <Name>Improved PD Rate of Fire</Name>
+    <Name>Taxa de Fogo DP Melhorada</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -10867,7 +10867,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>216</ResearchProjectId>
-    <Name>Reduced EM Energy Cost</Name>
+    <Name>Redução do Custo de Energia EM</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -10892,7 +10892,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>217</ResearchProjectId>
-    <Name>Improved EM Range</Name>
+    <Name>Alcance EM Melhorado</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -10917,7 +10917,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>218</ResearchProjectId>
-    <Name>Improved EM Damage</Name>
+    <Name>Danos EM melhorados</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -10942,7 +10942,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>219</ResearchProjectId>
-    <Name>Increased Nova Area</Name>
+    <Name>Área Nova ampliada</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -10967,7 +10967,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>220</ResearchProjectId>
-    <Name>Improved Nova Damage</Name>
+    <Name>Melhoria Danos Nova</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -10992,7 +10992,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>221</ResearchProjectId>
-    <Name>Reduced Nova Energy Cost</Name>
+    <Name>Custo Reduzido da Energia Nova</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -11017,7 +11017,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>222</ResearchProjectId>
-    <Name>Increased Singularity Area</Name>
+    <Name>Aumento da Singularidade</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -11042,7 +11042,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>223</ResearchProjectId>
-    <Name>Improved Singularity Damage</Name>
+    <Name>Melhoria do dano de Singularidade</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -11067,7 +11067,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>224</ResearchProjectId>
-    <Name>Increased Singularity Force</Name>
+    <Name>Aumento da força de Singularidade</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -11092,7 +11092,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>225</ResearchProjectId>
-    <Name>Increased Control Range</Name>
+    <Name>Aumento da Faixa de Controle</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
@@ -11117,7 +11117,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>226</ResearchProjectId>
-    <Name>Reduced Control Energy Cost</Name>
+    <Name>Redução Custo Controle de Energia</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>19200</Size>
     <InitiationCost>
