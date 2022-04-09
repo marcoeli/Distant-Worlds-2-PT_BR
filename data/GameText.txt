@@ -27,73 +27,73 @@ Exploration Ship		;Navio de Exploração
 Passenger Ship		;Navio de Passageiros
 Colony Ship		;Navio Colônia
 Spaceport		;Porto espacial
-Small Spaceport		;Pequeno porto espacial
-Medium Spaceport		;Porto espacial médio
-Large Spaceport		;Grande Porto Espacial
-Mining Station		;Estação de mineração
+Small Spaceport		;Porto Espacial Pequeno
+Medium Spaceport		;Porto Espacial Médio
+Large Spaceport		;Porto Espacial Grande
+Mining Station		;Estação de Mineração
 Defensive Base		;Base defensiva
 Research Station		;Estação de Pesquisa
-Monitoring Station		;Estação de monitoramento
+Monitoring Station		;Estação de Monitoramento
 Resort Base		;Base do Resort
 Interceptor		;Interceptor
 Bomber		;Bombardeiro
 
-ShipMission Description Undefined		;No mission
-ShipMission Description Attack		;Attack {0}
-ShipMission Description Attack Prepare		;Prepare and Attack {0}
-ShipMission Description Attack Prepare Waypoint		;Attack {0} (waypoint at {1})
-ShipMission Description Attack Prepare Refuel		;Attack {0} (refuel at {1})
-ShipMission Description Blockade		;Blockade {0}
-ShipMission Description Bombard		;Bombard {0}
-ShipMission Description Bombard Prepare		;Prepare and Bombard {0}
-ShipMission Description Bombard Prepare Waypoint		;Bombard {0} (waypoint at {1})
-ShipMission Description Bombard Prepare Refuel		;Bombard {0} (refuel at {1})
-ShipMission Description Build		;Build {0} at {1}
-ShipMission Description BuildRepair		;Build {0}
-ShipMission Description BuildRepair Detailed		;Complete construction of {0} in the {1} system
-ShipMission Description Build Coordinates		;Build {0} at these coordinates
+ShipMission Description Undefined		;Sem missão
+ShipMission Description Attack		;Ataque {0}
+ShipMission Description Attack Prepare		;Prepare e Ataque {0}
+ShipMission Description Attack Prepare Waypoint		;Ataque {0} (Ponto de passagem em {1})
+ShipMission Description Attack Prepare Refuel		;Ataque {0} (reabastecer em {1})
+ShipMission Description Blockade		;Bloqueio {0}
+ShipMission Description Bombard		;Bombardear {0}
+ShipMission Description Bombard Prepare		;Preparar e Bombardear {0}
+ShipMission Description Bombard Prepare Waypoint		;Bombardear {0} (Ponto de passagem em {1})
+ShipMission Description Bombard Prepare Refuel		;Bombardear {0} (reabastecer em {1})
+ShipMission Description Build		;Construir {0} em {1}
+ShipMission Description BuildRepair		;Construir {0}
+ShipMission Description BuildRepair Detailed		;Construção completa de {0} no sistema {1} 
+ShipMission Description Build Coordinates		;Construir {0} nestas coordenadas
 ShipMission Description Capture		;Capture {0}
-ShipMission Description Capture Prepare		;Prepare and Capture {0}
-ShipMission Description Capture Prepare Waypoint		;Capture {0} (waypoint at {1})
-ShipMission Description Capture Prepare Refuel		;Capture {0} (refuel at {1})
+ShipMission Description Capture Prepare		;Preparar e Capturar {0}
+ShipMission Description Capture Prepare Waypoint		;Capturar {0} (Ponto de passagem em {1})
+ShipMission Description Capture Prepare Refuel		;Capturar {0} (reabastecer em {1})
 ShipMission Description Colonize		;Colonize {0}
-ShipMission Description Escape Target		;Escape from {0}
-ShipMission Description Escape Destination		;Escape to {0}
-ShipMission Description Escape		;Escape
-ShipMission Description Escort		;Escort {0}
+ShipMission Description Escape Target		;Fuga de {0}
+ShipMission Description Escape Destination		;Fuga para {0}
+ShipMission Description Escape		;Fuga
+ShipMission Description Escort		;Escolte {0}
 ShipMission Description Explore		;Explore {0}
-ShipMission Description ExploreSystem		;Explore {0} system ({1})
-ShipMission Description ExploreSurvey		;Survey {0}
+ShipMission Description ExploreSystem		;Explore {0} sistema ({1})
+ShipMission Description ExploreSurvey		;Pesquisa {0}
 ShipMission Description FighterBoardCarrier		;Board carrier {0}
-ShipMission Description Guard		;Guard {0}
-ShipMission Description LoadTroops		;Load troops at {0}
-ShipMission Description LoadTroops Unavailable		;Load troops
-ShipMission Description LoadPopulation		;Load colonists at {0}
-ShipMission Description LoadCargo		;Load fuel at {0}
-ShipMission Description TransferFuel		;Transfer fuel to {0}
-ShipMission Description Mine		;Mine {0}, offload at {1}
+ShipMission Description Guard		;Guarda {0}
+ShipMission Description LoadTroops		;Carregar tropas em {0}
+ShipMission Description LoadTroops Unavailable		;Carregar tropas
+ShipMission Description LoadPopulation		;Carregue os colonos em {0}
+ShipMission Description LoadCargo		;Carregar combustível em {0}
+ShipMission Description TransferFuel		;Transferir combustível para {0}
+ShipMission Description Mine		;Minere {0}, descarregue em {1}
 ShipMission Description MineLoad		;Mine fuel at {0}
-ShipMission Description Move		;Move to {0}
-ShipMission Description Move Coordinates		;Move to {0}, {1}
-ShipMission Description Patrol		;Patrol {0}
-ShipMission Description Pickup		;Pick up {0}
-ShipMission Description Raid		;Raid {0}
-ShipMission Description Raid Prepare		;Prepare and Raid {0}
-ShipMission Description Raid Prepare Waypoint		;Raid {0} (waypoint at {1})
-ShipMission Description Raid Prepare Refuel		;Raid {0} (refuel at {1})
-ShipMission Description Refuel		;Refuel at {0}
-ShipMission Description Repair		;Repair at {0}
-ShipMission Description Retire Target		;Retire at {0}
-ShipMission Description Retire		;Retire
-ShipMission Description Retrofit		;Retrofit at {0}
-ShipMission Description Scout		;Scout {0}
-ShipMission Description Scrap		;Scrap at {0}
-ShipMission Description Transport		;Transport cargo from {0} to {1}
-ShipMission Description Transport Passengers		;Transport passengers from {0} to {1}
-ShipMission Description Transport Migrants		;Transport migrants from {0} to {1}
-ShipMission Description Transport Tourists		;Transport tourists from {0} to {1}
-ShipMission Description UnloadTroops		;Unload troops at {0}
-ShipMission Description ExitYard		;Leave construction yard
+ShipMission Description Move		;Mover para {0}
+ShipMission Description Move Coordinates		;Mover para {0}, {1}
+ShipMission Description Patrol		;Patrulhar {0}
+ShipMission Description Pickup		;Pegar {0}
+ShipMission Description Raid		;Assalto {0}
+ShipMission Description Raid Prepare		;Preparar e Assaltar {0}
+ShipMission Description Raid Prepare Waypoint		;Assaltar {0} (Ponto de passagem em {1})
+ShipMission Description Raid Prepare Refuel		;Assaltar {0} (reabastecer em {1})
+ShipMission Description Refuel		;reabastecer em {0}
+ShipMission Description Repair		;Reparo em {0}
+ShipMission Description Retire Target		;Aposente-se em {0}
+ShipMission Description Retire		;Aposentar-se
+ShipMission Description Retrofit		;Atualiza em {0}
+ShipMission Description Scout		;Batedor {0}
+ShipMission Description Scrap		;Sucatear em {0}
+ShipMission Description Transport		;Transporte de carga de {0} para {1}
+ShipMission Description Transport Passengers		;Transporte de passageiros de {0} para {1}
+ShipMission Description Transport Migrants		;Transportar migrantes de {0} para {1}
+ShipMission Description Transport Tourists		;Transportar turistas de {0} para {1}
+ShipMission Description UnloadTroops		;Descarregar tropas em {0}
+ShipMission Description ExitYard		;Deixar o estaleiro de construção
 
 SYSTEMNAME system		;{0} sistema
 Quality		;Qualidade
@@ -2898,7 +2898,7 @@ Colony Events		;Eventos da colônia
 Colony Events Explanation		;Habilite eventos de colônia no jogo: desastres, pragas, etc.
 Your Empire		;Seu Império
 Progress		;Progresso
-Victory Conditions Explanation		;Selecione qualquer combinação de condições de vitória específicas de Território, População, Economia ou Raça à esquerda.\n\nEm seguida, selecione a porcentagem de Limiar de Vitória: esta é a parte das condições de vitória selecionadas que devem ser atendidas para a vitória.\n\nDeixe todas as vitórias condições desmarcadas para o Modo Sandbox (jogo aberto).
+Victory Conditions Explanation		;Selecione qualquer combinação de condições de vitória específicas de Território, População, Economia ou Raça à esquerda.\n\nEm seguida, selecione a porcentagem de Limiar de Vitória: esta é a parte das condições de vitória selecionadas que devem ser atendidas para a vitória.\n\nDeixe todas as condições de vitórias desmarcadas para o Modo Sandbox (jogo aberto).
 Other Story Events		;Outros eventos de história
 Enables other events in the game		;Ativa outros eventos de história no jogo
 Allow Tech Trading		;Permitir negociação de tecnologia
@@ -2970,7 +2970,7 @@ Fighters and Assault Pods		;Caças e cápsulas de assalto
 Reactors		;Reatores
 Mining and Energy		;Mineração e Energia
 Storage and Transport		;Armazenamento e Transporte
-Sensors, Scanners and Stealth		;Sensores, Scanners e Stealth
+Sensors, Scanners and Stealth		;Sensores, Scanners e Furtivo
 Exploration and Colonization		;Exploração e Colonização
 Commerce and Recreation		;Comércio e Lazer
 
