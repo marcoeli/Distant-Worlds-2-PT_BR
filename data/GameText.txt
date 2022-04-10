@@ -1019,7 +1019,7 @@ Not RACE		;Não {0}
 
 Maintenance		;Manutenção
 COST per year		;{0}/ano
-Build Cost		;Custo de construção
+Build Cost		;Custo
 Can only build X per empire		;Só pode construir {0} em seu império
 Can only build X per galaxy		;Só pode construir {0} na galáxia
 Can only build at PLANETTYPES		;Só pode construir em {0}
@@ -4024,7 +4024,7 @@ Load Fleet Templates Explanation		;Selecione um arquivo de modelo de frota para 
 Save Fleet Templates		;Salvar modelos de frota
 Save Fleet Templates Explanation		;Insira ou selecione um nome de arquivo para salvar os modelos de frota.
 New ROLE Fleet		;Nova frota {0}
-Ship Count		;Contagem de Navios
+Ship Count		;Quant. Navios
 ROLE Fleet		;{0} Frota
 Must have at least one fleet template per fleet role		;Deve ter pelo menos um modelo de frota por função de frota
 Cannot delete fleet templates that are being used by fleets		;Não é possível excluir modelos de frota que estão sendo usados por frotas
