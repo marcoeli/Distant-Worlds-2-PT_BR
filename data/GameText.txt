@@ -85,7 +85,7 @@ ShipMission Description Refuel		;reabastecer em {0}
 ShipMission Description Repair		;Reparo em {0}
 ShipMission Description Retire Target		;Aposente-se em {0}
 ShipMission Description Retire		;Aposentar-se
-ShipMission Description Retrofit		;Atualiza em {0}
+ShipMission Description Retrofit		;Atualizar em {0}
 ShipMission Description Scout		;Batedor {0}
 ShipMission Description Scrap		;Sucatear em {0}
 ShipMission Description Transport		;Transporte de carga de {0} para {1}
@@ -311,15 +311,15 @@ GameTaskType RefuelAndRepair		;Reabastecer e Reparar
 GameTaskType RefuelAndRepair Location		;Reabasteça e Repare em {0}
 GameTaskType RemoveCharacter		;
 GameTaskType RemoveDesign		;
-GameTaskType RetrofitShip No Design		;Retrofit para o design mais recente
-GameTaskType RetrofitShip		;Retrofit para o design mais recente ({0}) por {1} créditos
-GameTaskType RetrofitShip Short		;Retrofit para {0} para {1} créditos
-GameTaskType RetrofitShip Location		;Retrofit para o design mais recente ({0}) em {1} por {2} créditos
-GameTaskType RetrofitShip Multiple Designs		;Retrofit para o projeto selecionado
-GameTaskType RetrofitMultipleShips		;Retrofit navios para designs mais recentes
-GameTaskType RetrofitMultipleShips Location		;O retrofit é enviado para os designs mais recentes em {0}
-GameTaskType RetrofitFleet		;Retrofit frota para designs mais recentes
-GameTaskType RetrofitFleet Location		;Modernize a frota para os designs mais recentes em {0}
+GameTaskType RetrofitShip No Design		;Atualização para o design mais recente
+GameTaskType RetrofitShip		;Atualização para o design mais recente ({0}) por {1} créditos
+GameTaskType RetrofitShip Short		;Atualização para {0} para {1} créditos
+GameTaskType RetrofitShip Location		;Atualizaçãopara o design mais recente ({0}) em {1} por {2} créditos
+GameTaskType RetrofitShip Multiple Designs		;Atualização para o projeto selecionado
+GameTaskType RetrofitMultipleShips		;atualiza navios para designs mais recentes
+GameTaskType RetrofitMultipleShips Location		;A atualizção é enviada para os designs mais recentes em {0}
+GameTaskType RetrofitFleet		;Atualiza frota para designs mais recentes
+GameTaskType RetrofitFleet Location		;Atualize a frota para os designs mais recentes em {0}
 GameTaskType TopupFleet		;Recarregar frota com navios
 GameTaskType ScrapPlanetaryFacility		;Sucata {0} em {1}
 GameTaskType SetAsFleetLeadShip		;Definir navio {0} como líder para frota ({1})
@@ -430,13 +430,13 @@ GameTaskType Short RefuelAndRepair		;Reabastecer e Reparar
 GameTaskType Short RefuelAndRepair Location		;Reabastecer e Reparar
 GameTaskType Short RemoveCharacter		;Remover Personagem
 GameTaskType Short RemoveDesign		;Remover Design
-GameTaskType Short RetrofitShip No Design		;Modernizar
-GameTaskType Short RetrofitShip		;Modernizar
-GameTaskType Short RetrofitShip Location		;Modernizar
-GameTaskType Short RetrofitMultipleShips		;Modernize Navios
-GameTaskType Short RetrofitMultipleShips Location		;Modernize Navios
-GameTaskType Short RetrofitFleet		;Modernize Frota
-GameTaskType Short RetrofitFleet Location		;Modernize Frota
+GameTaskType Short RetrofitShip No Design		;Atualizar
+GameTaskType Short RetrofitShip		;Atualizar
+GameTaskType Short RetrofitShip Location		;Atualizar
+GameTaskType Short RetrofitMultipleShips		;Atualize Navios
+GameTaskType Short RetrofitMultipleShips Location		;Atualize Navios
+GameTaskType Short RetrofitFleet		;Atualize Frota
+GameTaskType Short RetrofitFleet Location		;Atualize Frota
 GameTaskType Short TopupFleet		;Completar a Frota
 GameTaskType Short ScrapPlanetaryFacility		;Sucata {0} em {1}
 GameTaskType Short SetAsFleetLeadShip		;Definir navio principal
@@ -488,7 +488,7 @@ GameTaskType Short UI_ZoomOut		;Reduzir o zoom
 GameTaskType Short UI_ZoomLocation		;Zoom para o nível de localização
 GameTaskType Short UI_ZoomSystem		;Zoom para o nível do sistema
 GameTaskType Short UI_ZoomRegion		;Zoom para o nível da região
-GameTaskType Short UI_ZoomGalaxy		;Zoom para o nível Galaxy
+GameTaskType Short UI_ZoomGalaxy		;Zoom para o nível Galaxia
 GameTaskType Short UI_MoveViewLeft		;Mover visualização para a esquerda
 GameTaskType Short UI_MoveViewRight		;Mover visualização para a direita
 GameTaskType Short UI_MoveViewForward		;Mover visualização para frente
@@ -639,13 +639,13 @@ Can only build X of these facilities in the galaxy		;Só pode construir {0} dess
 Cannot build this facility at this planet type		;Não é possível construir esta instalação neste tipo de planeta
 We have the wrong government to build this facility		;Temos o governo errado para construir esta instalação
 Cannot afford the cost to build this facility		;Não pode arcar com o custo de construir esta instalação
-Already retrofitting		;Já reformando
+Already retrofitting		;Já atualizado
 Already using latest design		;Já usando o design mais recente
 All Ships already using latest design		;Todos os navios já estão usando o design mais recente
 No construction yard available		;Não há estaleiro de construção disponível
 No construction yard available with sufficient resources		;Nenhum estaleiro de construção disponível com recursos suficientes
-Cannot retrofit until current construction finished		;Não pode ser adaptado até que a construção atual esteja concluída
-No ships need retrofitting		;Nenhum navio precisa atualizar
+Cannot retrofit until current construction finished		;Não pode ser atualizado até que a construção atual esteja concluída
+No ships need retrofitting		;Nenhum navio precisa se atualizar
 No fleets to join		;Nenhuma frota para se juntar
 Cannot afford recruitment cost for this troop		;Não pode pagar o custo de recrutamento para esta tropa
 Already lead ship for fleet		;Já lidera navio para frota
@@ -2368,8 +2368,8 @@ Character Killed during Invasion		;{0} Morto durante a invasão
 Character Killed during Invasion Description		;Nosso {0} {1} foi morto por forças inimigas durante uma batalha terrestre em {2}.
 New Ship Completed		;Novo {0} concluído
 New Ship Completed Description		;A construção de um novo {0} foi concluída em {1}.
-Retrofit Ship Completed		;Retrofit de {0} concluído
-Retrofit Ship Completed Description		;O retrofit de um {0} foi concluído em {1}.
+Retrofit Ship Completed		;Atualização de {0} concluído
+Retrofit Ship Completed Description		;O atualização de um {0} foi concluído em {1}.
 Tech Bonus From Scrapping Ship		;Avanço tecnológico da demolição {0}
 Tech Bonus From Scrapping Ship Description		;Fizemos um avanço na pesquisa em {0} ao examinar a tecnologia avançada ao desmontar o {1} {2}
 Tech Bonus From Repairing Ship		;Avanço Tecnológico do Reparo {0}
@@ -3446,10 +3446,10 @@ Character Event RaidColonyDefenderWin		;Assalto inimigo repelido
 Character Event ResearchBreakthrough		;Avanço da Pesquisa
 Character Event ResearchCriticalFailure		;Falha crítica de pesquisa
 Character Event ResearchCriticalSuccess		;Sucesso de Pesquisa Crítica
-Character Event RetrofitBase		;Base adaptada
-Character Event RetrofitShipCivilian		;Navio Civil Adaptado
-Character Event RetrofitShipMilitary		;Navio militar adaptado
-Character Event RetrofitShipOtherState		;Navio adaptado
+Character Event RetrofitBase		;Base Atualizada
+Character Event RetrofitShipCivilian		;Navio Civil Atualizado
+Character Event RetrofitShipMilitary		;Navio Militar Atualizado
+Character Event RetrofitShipOtherState		;Navio Atualizado
 Character Event SalvageShip		;Navio recuperado
 Character Event SkillProgressed		;Habilidade progredida
 Character Event SpyRecruited		;Espião Recrutado
@@ -4041,8 +4041,8 @@ PLANET has the following research bonuses		;{0} tem os seguintes bônus de pesqu
 PLANET has the following scenery bonuses		;{0} tem os seguintes bônus de paisagem
 
 Independent Colonization Minimum Success		;Sucesso Mínimo da Colonização Independente
-Incoming for repair or retrofit		;Entrada para reparo ou retrofit
-Corruption Factors Explanation		;A corrupção é aumentada pelos seguintes fatores:\n- grande tamanho da população\n- altas taxas de impostos (acima de 20%)\n- ataques piratas recentes\n- baixo nível de desenvolvimento para o tamanho da população\n- populações não assimiladas
+Incoming for repair or retrofit		;Entrada para reparo ou atualização
+Corruption Factors Explanation		;A corrupção é aumentada pelos seguintes fatores:\n- Grande tamanho da população\n- Altas taxas de impostos (acima de 20%)\n- Ataques piratas recentes\n- Baixo nível de desenvolvimento para o tamanho da população\n- Populações não assimiladas
 Very high corruption reduces our happiness		;Corrupção muito alta reduz nossa felicidade
 High corruption reduces our happiness		;Alta corrupção reduz nossa felicidade
 Corruption reduces our happiness		;A corrupção reduz nossa felicidade
@@ -4150,11 +4150,11 @@ Ship cannot move		;Navio não pode se mover
 
 Automatically Refuel Manual Ships		;Reabastecer automaticamente navios manuais
 Automatically Repair Manual Ships		;Reparar automaticamente navios manuais
-Automatically Retrofit Manual Ships		;Retrofit automático de navios manuais
+Automatically Retrofit Manual Ships		;Atualização automática de navios manuais
 Automatically Refuel Manual Fleets		;Reabastecer automaticamente frotas manuais
 Automatically Repair Manual Fleets		;Reparar automaticamente frotas manuais
-Automatically Retrofit Manual Fleets		;Retrofit automático de frotas manuais
-Automatically Retrofit Automated Fleets		;Retrofit automático de frotas automatizadas
+Automatically Retrofit Manual Fleets		;Atualização automática de frotas manuais
+Automatically Retrofit Automated Fleets		;Atualização automática de frotas automatizadas
 NewShipsAutomatedMilitary		;Novos navios militares são automatizados
 NewShipsAutomatedOtherState		;Novos outros navios do Governo são automatizados
 ConstructionPrioritizeStateShipsInQueue		;Priorize Navios do Governo em Filas de Construção
@@ -4368,7 +4368,7 @@ Bonuses To Owner		;Bônus para o proprietário
 Artifact must be at a colony for bonuses to apply		;O artefato deve estar em uma colônia para que os bônus sejam aplicados
 Artifact must be at your empire's capital for bonuses to apply		;artefato deve estar na capital do seu império para que os bônus sejam aplicados
 
-Artifact Transfer Explanation		;" Para mover um artefato para um navio, base ou colônia próxima do seu império: primeiro selecione o local atual e, em seguida, pressione Ctrl-Clique com o botão direito do mouse no destino para mostrar um menu pop-up com a opção ""Mover imediatamente"".\n\nComo alternativa, você pode transfira para qualquer colônia, navio ou base em seu império clicando com o botão direito do mouse no destino distante para mostrar um menu pop-up com a opção 'Transferir'."
+Artifact Transfer Explanation		;"Para mover um artefato para um navio, base ou colônia próxima do seu império: primeiro selecione o local atual e, em seguida, pressione Ctrl-Clique com o botão direito do mouse no destino para mostrar um menu pop-up com a opção ""Mover imediatamente"".\n\nComo alternativa, você pode transfira para qualquer colônia, navio ou base em seu império clicando com o botão direito do mouse no destino distante para mostrar um menu pop-up com a opção 'Transferir'."
 Auto-Enabled		;Ativado automaticamente
 Add Player Exploration Ship		;Adicionar Navio de Exploração de Jogador
 
@@ -4387,7 +4387,7 @@ Common Resources		;Recursos comuns
 
 ComponentCategory Description AreaShieldRecharge		;componente Recarga de Escudo de Área recarrega os escudos de outras naves ou bases aliadas próximas, projetando um campo de energia de proteção em direção a elas.\n\nIsso pode ser especialmente útil quando em batalha para reforçar naves com escudos vacilantes.
 ComponentCategory Description Armor		;A armadura absorve o dano de explosão do fogo das armas recebidas.\n\nQuando a quantidade de dano da arma é menor que a classificação reativa da armadura, o componente da armadura não sofre dano. No entanto, se o nível de dano da arma for maior que a classificação reativa da armadura, o componente da armadura será danificado ou destruído.\n\nObserve que a armadura não bloqueará todos os disparos de armas recebidas - algumas rajadas de armas inevitavelmente passarão pela armadura e causarão dano em a nave ou base, mesmo quando a quantidade de dano da arma for menor que a classificação reativa da armadura.\n\nAlguns tipos de armas são melhores para contornar a armadura de proteção e, assim, infligir danos à nave ou base alvo.
-ComponentCategory Description AssaultPod		;Assault Pods são usadas para lançar grupos de embarque contra navios ou bases inimigas próximas, permitindo que você ataque ou capture o alvo. Os grupos de abordagem armados percorrem uma curta distância até um alvo e embarcam na embarcação inimiga, lutando com os defensores.\n\nObserve que a nave ou base alvo deve ter seus escudos abaixados antes que o Assault Pod possa abordar o alvo.\n\ nAssault Pods também servem como forças defensivas se um navio ou base for abordado por um atacante.
+ComponentCategory Description AssaultPod		;Pods de Assalto são usados para lançar grupos de embarque contra navios ou bases inimigas próximas, permitindo que você ataque ou capture o alvo. Os grupos de abordagem armados percorrem uma curta distância até um alvo e embarcam na embarcação inimiga, lutando com os defensores.\n\nObserve que a nave ou base alvo deve ter seus escudos abaixados antes que o Assault Pod possa abordar o alvo.\n\ nPods de Assalto também servem como forças defensivas se um navio ou base for abordado por um atacante.
 ComponentCategory Description CargoBay		;Os componentes de armazenamento de carga fornecem armazenamento para carga durante o transporte ou armazenamento.\n\nEles são normalmente usados em portos espaciais e estações de mineração para armazenar recursos para uso posterior.\n\nEles também são usados em navios cargueiros ou navios de mineração para transportar recursos entre locais.\n\nNaves de construção também exigem componentes de armazenamento para armazenar temporariamente recursos ao construir novas bases.
 ComponentCategory Description Colonization		;Os módulos de colonização incluem tudo o que é necessário para estabelecer uma colônia em um novo planeta.\n\nOs módulos de colonização são muito grandes e exigem muitos recursos para serem construídos. Esses recursos fornecem um pontapé inicial para os colonos da nova colônia.\n\nOs colonos são colocados em hibernação de estase no módulo Colonização. Eles podem sobreviver indefinidamente até serem revividos quando chegarem à nova colônia.
 ComponentCategory Description CommandCenter		;Os Centros de Comando são o centro de controle de um navio, base ou caça, ou seja, a ponte ou cockpit.\n\nOs Centros de Comando podem fornecer bônus e outros modificadores que melhoram as capacidades de um navio.
@@ -4428,8 +4428,8 @@ ComponentCategory Description Shields		;Os escudos são barreiras de energia def
 ComponentCategory Description ShieldEnhancement		;Os aprimoramentos de escudo complementam os componentes completos do escudo ao fornecer barreiras de energia defensivas que protegem uma nave ou base do fogo de armas recebidas.\n\nOs aprimoramentos de escudo normalmente aumentam a taxa de regeneração do escudo, mas não fornecem nenhuma força de escudo própria.
 ComponentCategory Description Stealth		;Componentes furtivos minimizam a visibilidade de uma nave, permitindo que ela evite a detecção, principalmente a longa distância.\n\nObserve que componentes furtivos não tornam uma nave completamente invisível. Eles simplesmente reduzem sua detectabilidade por sensores inimigos, aumentando o alcance em que pode ser detectado.\n\nAlém disso, quando uma nave ou base equipada com furtividade é detectada, a habilidade Furtividade reduz a facilidade de identificar a função e o império do navio ou base. Portanto, a nave ou base pode aparecer como um item desconhecido, especialmente quando detectada perto dos limites de alcance do scanner.
 ComponentCategory Description TargetingComputer		;Os componentes de mira aumentam a precisão do disparo de armas em combate.\n\nEsses computadores poderosos calculam rapidamente as trajetórias ideais para atingir um alvo inimigo. Isso lhe dá uma chance maior de acertar um inimigo durante o combate.
-ComponentCategory Description TargetingComputerFleet		;O Fleet Targeting afeta uma frota inteira, aumentando a precisão do direcionamento de todos os navios da frota.
-ComponentCategory Description TractorBeam		;Tractor Beams são usados para puxar navios inimigos em direção ao atirador para ataque ou para empurrar um atacante inimigo para longe.\n\nEles têm um efeito maior em alvos menores e próximos. Vários raios tratores podem ser usados para fornecer maior força de tração ou empurrão.\n\nOs raios tratores são especialmente úteis para abordar e capturar navios inimigos. Eles também são eficazes para evitar que os inimigos em fuga escapem.\n\nObserve que os Tractor Beams não causam nenhum dano em um alvo, eles simplesmente o puxam ou empurram.
+ComponentCategory Description TargetingComputerFleet		;O Alvo da frota, afeta uma frota inteira, aumentando a precisão do direcionamento de todos os navios da frota.
+ComponentCategory Description TractorBeam		;Feixes Trator são usados para puxar navios inimigos em direção ao atirador para ataque ou para empurrar um atacante inimigo para longe.\n\nEles têm um efeito maior em alvos menores e próximos. Vários raios tratores podem ser usados para fornecer maior força de tração ou empurrão.\n\nOs raios tratores são especialmente úteis para abordar e capturar navios inimigos. Eles também são eficazes para evitar que os inimigos em fuga escapem.\n\nObserve que os Tractor Beams não causam nenhum dano em um alvo, eles simplesmente o puxam ou empurram.
 ComponentCategory Description TroopCompartment		;Os componentes de Armazenamento de Tropas fornecem instalações básicas para as tropas de combate a bordo de um navio ou base.\n\nVocê deve ter espaço de armazenamento de tropas suficiente para conter o tamanho total de todas as unidades de tropas que deseja transportar em um navio.
 ComponentCategory Description Troops		;N/A
 ComponentCategory Description Diplomacy		;N/A
@@ -4475,7 +4475,7 @@ Spies CounterIntel		;Espiões - CounterIntel
 Spies Missions		;Espiões - Missões
 Ambassadors		;Embaixadores
 Scientists		;Cientistas
-Admirals and Generals		;Almirantes e generais
+Admirals and Generals		;Almirantes e Generais
 
 Weapons Report		;Relatório de armas
 Suitable for RACE		;Adequado para {0}
@@ -4677,7 +4677,7 @@ Currently Visible		;Atualmente visível
 All Creatures		;Todas as criaturas
 FLEET investigating		;{0} investigando
 Multiple Fleets investigating		;Várias frotas investigando
-No Attack or Raid fleets available		;Nenhuma frota de Ataque ou Incursão disponível
+No Attack or Raid fleets available		;Nenhuma frota de Ataque ou Assalto disponível
 
 Can only have one Command Center		;Só pode ter um Centro de Comando
 Ctrl-click for x5, Shift-click for x10		;Ctrl-clique para x5, Shift-clique para x10
@@ -4686,7 +4686,7 @@ Multiple Construction Ships repairing		;Reparação de vários navios de constru
 X abandoned ships		;{0} navios abandonados neste local
 
 Urgent Warning from PIRATES		;Aviso urgente de {0}
-HiveMenace Pirates Request Help Description		;Salve, Dirtsider. Não somos amigos ou aliados, mas você deve saber que a Colmeia, uma antiga inimiga de todos, um terror de tempos inimagináveis, voltou.\n\nAcabamos de ouvir de um de nossos navios de piquete que um Portador da Colmeia se aproxima agora nosso sistema.\n\nVamos lutar, mas não podemos derrotá-los sozinhos. Estamos orgulhosos, mas sem a sua ajuda estamos condenados.\n\nSe você se juntar a nós para derrotar a Colmeia, nos juntaremos ao seu Império. Se você ficar de lado, ganhará ainda mais nosso desprezo. Saiba que quando partirmos eles virão atrás de você.
+HiveMenace Pirates Request Help Description		;Salve, Diário de bordo. Não somos amigos ou aliados, mas você deve saber que a Colmeia, uma antiga inimiga de todos, um terror de tempos inimagináveis, voltou.\n\nAcabamos de ouvir de um de nossos navios de piquete que um Portador da Colmeia se aproxima agora nosso sistema.\n\nVamos lutar, mas não podemos derrotá-los sozinhos. Estamos orgulhosos, mas sem a sua ajuda estamos condenados.\n\nSe você se juntar a nós para derrotar a Colmeia, nos juntaremos ao seu Império. Se você ficar de lado, ganhará ainda mais nosso desprezo. Saiba que quando partirmos eles virão atrás de você.
 We will help you		;Nós iremos ajudá-lo
 We will not risk our fleet to help pirates		;Não arriscaremos nossa frota para ajudar piratas
 You stood against the Hive with us		;Você se levantou contra a Colmeia conosco
