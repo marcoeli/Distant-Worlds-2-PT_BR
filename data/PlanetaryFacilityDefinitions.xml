@@ -702,7 +702,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Guilda Comerciantes espaciais</Name>
+    <Name>Guilda Comerciantes Espaciais</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Space Traders Guild</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>

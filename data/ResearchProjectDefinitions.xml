@@ -11667,11 +11667,47 @@
     <Size>19200</Size>
     <InitiationCost>
       <Money>50000</Money>
+      <Resources>
+        <ResourceQuantity>
+          <ResourceId>0</ResourceId>
+          <Amount>5000</Amount>
+        </ResourceQuantity>
+        <ResourceQuantity>
+          <ResourceId>1</ResourceId>
+          <Amount>5000</Amount>
+        </ResourceQuantity>
+        <ResourceQuantity>
+          <ResourceId>2</ResourceId>
+          <Amount>5000</Amount>
+        </ResourceQuantity>
+        <ResourceQuantity>
+          <ResourceId>3</ResourceId>
+          <Amount>5000</Amount>
+        </ResourceQuantity>
+        <ResourceQuantity>
+          <ResourceId>4</ResourceId>
+          <Amount>5000</Amount>
+        </ResourceQuantity>
+        <ResourceQuantity>
+          <ResourceId>5</ResourceId>
+          <Amount>5000</Amount>
+        </ResourceQuantity>
+        <ResourceQuantity>
+          <ResourceId>6</ResourceId>
+          <Amount>5000</Amount>
+        </ResourceQuantity>
+      </Resources>
     </InitiationCost>
     <EnabledByDefault>false</EnabledByDefault>
     <ProjectAppearanceProbability>1</ProjectAppearanceProbability>
     <Column>10</Column>
     <Row>20</Row>
+    <Components>
+      <Component>
+        <ComponentId>369</ComponentId>
+        <Level>0</Level>
+      </Component>
+    </Components>
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>246</ResearchProjectId>
@@ -14662,7 +14698,7 @@
           <ResourceId>10</ResourceId>
           <Amount>1250</Amount>
         </ResourceQuantity>
-        <ResourceQuantity>Navios capitais
+        <ResourceQuantity>
           <ResourceId>12</ResourceId>
           <Amount>1250</Amount>
         </ResourceQuantity>

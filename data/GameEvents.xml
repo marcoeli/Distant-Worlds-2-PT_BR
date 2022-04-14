@@ -39778,8 +39778,31 @@ As fontes de energia neste mundo são muito limitadas e não podemos fazer a int
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id2>2</Id2>
-        <Value1>5E+07</Value1>
+        <Value1>1000000</Value1>
         <Value2>0.25</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>AddPopulationToColony</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id1>2</Id1>
+        <Value1>50000000</Value1>
+        <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
         <ResearchCategory>Undefined</ResearchCategory>
@@ -40108,7 +40131,7 @@ As fontes de energia neste mundo são muito limitadas e não podemos fazer a int
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id1>2</Id1>
         <Value1>5E+07</Value1>
-        <Value2>1</Value2>
+        <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
         <ResearchCategory>Undefined</ResearchCategory>

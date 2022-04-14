@@ -1663,6 +1663,84 @@ Os Mortalen são normalmente encontrados vivendo em habitações de blocos simpl
         <Factor>0.05</Factor>
       </OrbTypeFactor>
     </ColonizationSuitabilityModifiers>
+    <Biases>
+      <RaceFactor>
+        <RaceId>0</RaceId>
+        <Factor>-0.3</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>1</RaceId>
+        <Factor>-0.3</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>2</RaceId>
+        <Factor>-0.2</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>3</RaceId>
+        <Factor>-0.4</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>4</RaceId>
+        <Factor>-0.4</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>6</RaceId>
+        <Factor>-1</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>7</RaceId>
+        <Factor>-0.3</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>8</RaceId>
+        <Factor>-0.1</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>9</RaceId>
+        <Factor>-0.8</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>10</RaceId>
+        <Factor>-1</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>11</RaceId>
+        <Factor>-0.4</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>12</RaceId>
+        <Factor>-0.2</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>13</RaceId>
+        <Factor>-0.3</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>14</RaceId>
+        <Factor>-0.2</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>15</RaceId>
+        <Factor>0.1</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>16</RaceId>
+        <Factor>0</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>17</RaceId>
+        <Factor>-0.3</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>18</RaceId>
+        <Factor>-0.2</Factor>
+      </RaceFactor>
+      <RaceFactor>
+        <RaceId>19</RaceId>
+        <Factor>-0.4</Factor>
+      </RaceFactor>
+    </Biases>
     <VictoryConditions>
       <VictoryCondition>
         <Type>LoseFewestShips</Type>
@@ -1836,11 +1914,11 @@ Eles normalmente vivem em habitações arborizadas no alto das copas das árvore
         <OrbTypeId>23</OrbTypeId>
         <Factor>-0.2</Factor>
       </OrbTypeFactor>
-      <OrbTypeFactor>
 	  <OrbTypeFactor>
         <OrbTypeId>27</OrbTypeId>
         <Factor>-0.1</Factor>
       </OrbTypeFactor>
+	  <OrbTypeFactor>
         <OrbTypeId>29</OrbTypeId>
         <Factor>0.1</Factor>
       </OrbTypeFactor>

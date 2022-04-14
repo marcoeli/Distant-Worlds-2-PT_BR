@@ -2543,7 +2543,7 @@ Acquire Event StellarObject		;Ao adquirir {0}, fizemos uma descoberta curiosa:
 Acquire Event Ruins		;Ao adquirir {0} fizemos uma curiosa descoberta no {1}:
 
 AcquireColonyPeacefully Event		;Ao adquirir {0}, fizemos uma descoberta curiosa:
-ConquerColony Event		;Upon conquering {0} we have made a curious discovery:
+ConquerColony Event		;Ao conquistarmos {0} fizemos uma curiosa descoberta:
 
 Destroy Event StellarObject		;Com a destruição de {0} fizemos uma descoberta curiosa:
 Destroy Event Ruins		;Com a destruição de {1} em {0} fizemos uma descoberta curiosa:
@@ -4730,7 +4730,7 @@ Launch Tour of Research Screen		;Iniciar tour da tela de pesquisa
 Tours		;Tours
 Show Tours		;Mostrar Tours
 
-Latest Active Design for Role		;Design ativo mais recente para função
+Latest Active Design for Role		;Design mais recente e ativo para a função
 No missing ship roles		;Nenhuma função de navio ausente
 Berserk AI		;Antigo Destruidor de Planetas Mortalen AI
 Shard		;Fragmento
@@ -4942,3 +4942,5 @@ NOTE: Bases at colonies share the resources stock levels from the colony		;NOTA:
 Rendering Format		;Formato de renderização
 Standard Range rendering		;Renderização de intervalo padrão
 High Dynamic Range rendering		;Renderização de alta faixa dinâmica
+
+Extended		;Extended

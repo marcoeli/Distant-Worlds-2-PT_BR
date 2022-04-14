@@ -222,10 +222,10 @@ Os cidadãos das Repúblicas normalmente gozam de muitas liberdades e liberdades
 
   <Government>
     <GovernmentId>1</GovernmentId>
-    <Name>Guilda Mercantil</Name>
-    <Description>Os governos da Guilda Mercantil estão altamente concentrados no comércio, comércio e indústria. A estrutura governante é frequentemente solta e informal - um conjunto de membros líderes da comunidade empresarial toma decisões-chave que afetam todos os cidadãos.
+    <Name>Confederação de Comércio </Name>
+    <Description>Os governos da Confederação de Comércio  estão altamente concentrados no negócio, comércio e indústria. A estrutura governante é frequentemente solta e informal - um conjunto de membros líderes da comunidade empresarial toma decisões-chave que afetam todos os cidadãos.
 
-As Grémios Mercantis geralmente permitem um alto grau de liberdade e autonomia para seus cidadãos. Os direitos e liberdades básicos são garantidos por um conjunto simples de leis que podem se aplicar a muitas situações. A atividade empresarial é muito comum, criando um ambiente empresarial dinâmico onde altos níveis de riqueza são gerados rapidamente.</Description>
+As Confederações de Comercio geralmente permitem um alto grau de liberdade e autonomia para seus cidadãos. Os direitos e liberdades básicos são garantidos por um conjunto simples de leis que podem se aplicar a muitas situações. A atividade empresarial é muito comum, criando um ambiente empresarial dinâmico onde altos níveis de riqueza são gerados rapidamente.</Description>
     <ImageFilename></ImageFilename>
     <LeaderTitle>Grande Mercador</LeaderTitle>
     <CabinetTitle></CabinetTitle>
