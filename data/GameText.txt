@@ -2079,7 +2079,7 @@ Galaxy Research Speed Normal		;Normal
 Galaxy Research Speed Fast		;Rápido
 Galaxy Research Speed Very Fast		;Muito rápido
  
-Galaxy Research Is Blind		;Somente Próximos Projetos Visíveis
+Galaxy Research Is Blind		;Somente Projetos Próximos Visíveis
 Galaxy Research Is Visible		;Todos os Projetos Visíveis
 
 Galaxy Research Is Blind Explanation		;Apenas os próximos projetos não pesquisados ficam visíveis na árvore tecnológica.\n\nIsso significa que você está pesquisando de forma ""cega"", não sendo possível ver projetos e caminhos posteriores na árvore tecnológica.\n\nQuando combinado com projetos e caminhos aleatórios, isso torna cada jogo uma experiência de pesquisa única.
@@ -2119,10 +2119,10 @@ Distant		;Distante
 Very Distant		;Muito distante
 
 Pirates Respawn		;Reaparecimento de Piratas
-Pirates Respawn Yes		;reaparecimento
+Pirates Respawn Yes		;Reaparecimento
 Pirates Respawn No		;Fique Morto!
 Pirates Respawn Yes Explanation		;Facções de piratas destruídas reaparecem em um novo local
-Pirates Respawn No Explanation		;Facções de piratas que são completamente exterminadas não reaparecem facções de piratas substitutas. Isso facilita a eliminação de piratas de uma área da galáxia
+Pirates Respawn No Explanation		;Facções de piratas que são completamente exterminadas, não reaparecem facções de piratas substitutas. Isso facilita a eliminação de piratas de uma área da galáxia
 
 Space Creatures		;Criaturas do Espaço
 
@@ -2141,11 +2141,11 @@ Random Race Explanation		;Raça selecionada aleatoriamente
 Random Seed Explanation		;Digite um número aqui para definir a semente aleatória do jogo.\n\nQuando você tiver o mesmo número de semente aleatório com as mesmas configurações de início do jogo, a mesma galáxia será gerada. Isso permite que você regenere mapas de galáxias favoritos de jogos anteriores.
 Galaxy Shape Explanation		;O layout e distribuição de estrelas e nebulosas dentro da galáxia.
 Star Amount Explanation		;Quantas estrelas existem na galáxia.\n\nQuantidades mais baixas só devem ser jogadas em galáxias de tamanho menor, caso contrário, as naves podem ter problemas para saltar entre sistemas estelares distantes ou encontrar caminhos entre nebulosas.
-Nebula Density Explanation		;" quantidade de nuvens de nebulosa na galáxia.\n\nA densidade mais baixa da nebulosa facilita a navegação, enquanto a densidade mais alta da nebulosa torna mais difícil encontrar caminhos através das nebulosas e fornece mais ""geografia"" na galáxia."
+Nebula Density Explanation		;"Quantidade de nuvens de nebulosa na galáxia.\n\nA densidade mais baixa da nebulosa facilita a navegação, enquanto a densidade mais alta da nebulosa torna mais difícil encontrar caminhos através das nebulosas e fornece mais ""geografia"" na galáxia."
 Galaxy Size Explanation		;As dimensões físicas da galáxia.\n\nTamanhos maiores também devem ter maiores quantidades de sistemas estelares para que as naves possam encontrar caminhos entre as nebulosas.
-Expansion Explanation		;A idade e o desenvolvimento de toda a galáxia.\n\nEsta configuração influencia os seguintes itens: tamanho e nível de desenvolvimento de impérios gerados automaticamente, tamanho de populações alienígenas independentes.\n\nQuando Expansão for maior que 'Iniciando', então o Nível Técnico deverá ser pelo menos nível 1.
+Expansion Explanation		;A idade e o desenvolvimento de toda a galáxia.\n\nEsta configuração influencia os seguintes itens: tamanho e nível de desenvolvimento de impérios gerados automaticamente, tamanho de populações alienígenas independentes.\n\nQuando Expansão for maior que 'Inicio', então o Nível Técnico deverá ser pelo menos nível 1.
 Your Empire Expansion Explanation		;Quantas colônias você tem e quão bem estabelecido é seu império.\n\nIsso inclui os seguintes fatores: número de colônias, níveis populacionais em suas colônias, quanto da galáxia você explorou, o número de naves e bases que seu império possui .\n\nQuando a Expansão for maior que 'Iniciando', o Nível Técnico deve ser pelo menos nível 1.
-Aggression Explanation		;quanto os jogadores de computador são agressivos no jogo.\n\nExistem outros fatores específicos para cada império que também determinam os níveis de agressão, mas essa configuração é um valor de toda a galáxia que influencia todos os impérios.
+Aggression Explanation		;Quanto os jogadores IA são agressivos no jogo.\n\nExistem outros fatores específicos para cada império que também determinam os níveis de agressão, mas essa configuração é um valor de toda a galáxia que influencia todos os impérios.
 Difficulty Explanation		;Dificuldade de jogabilidade. Isso altera as taxas do império para vários fatores do jogo em relação ao jogador.\n\nOs fatores afetados incluem: renda da colônia, corrupção, velocidade de pesquisa, taxa de mineração, crescimento populacional, cansaço da guerra, direcionamento de armas e contramedidas.
 Research Speed Explanation		;A rapidez com que a pesquisa ocorre na galáxia e, portanto, a rapidez com que novos componentes ficam disponíveis para uso em naves e bases.\n\nHá outros fatores específicos para cada império que também determinam a velocidade da pesquisa, mas essa configuração é um valor para toda a galáxia que influencia todos os impérios.
 Research Visibility Explanation		;Quando os projetos de pesquisa se tornam visíveis: no início do jogo ou após pesquisar os projetos principais.
@@ -2197,8 +2197,8 @@ Empire Flag Explanation		;A bandeira usada para representar seu império
 Preferred Governments		;Governos preferenciais
 Allowed Governments		;Governos permitidos
  
-Your Empire Home System Harsh		;Severo
-Your Empire Home System Trying		;Desesperador
+Your Empire Home System Harsh		;Cruel
+Your Empire Home System Trying		;Difícil
 Your Empire Home System Normal		;Normal
 Your Empire Home System Agreeable		;Agradável
 Your Empire Home System Excellent		;Excelente
@@ -2208,8 +2208,8 @@ Home System Explanation		;A favorabilidade do seu sistema de origem.\n\nIsso inc
 Your Empire Tech Level PreWarp		;PreDobra
 Your Empire Tech Level X		;Nível {0}
 Tech Level		;Nível técnico
-Your Empire Tech Level Explanation		;Quão avançada é sua pesquisa.\n\nIsso determina quais cascos e componentes de navios estão disponíveis para a construção de navios e bases.\n\nPreWarp significa zero tecnologia pesquisada.\n\nQuando Expansão é maior que 'Iniciando', o Nível Técnico deve estar em mínimo nível 1.
-Galaxy Tech Level Explanation		;Quão avançada é a pesquisa para todos os impérios da galáxia.\n\nIsso determina quais cascos e componentes de naves estão disponíveis para a construção de naves e bases.\n\nPreWarp significa zero tecnologia pesquisada.\n\nQuando Expansão é maior que 'Iniciando' então o nível técnico deve ser pelo menos nível 1.
+Your Empire Tech Level Explanation		;Quão avançada é sua pesquisa.\n\nIsso determina quais cascos e componentes de navios estão disponíveis para a construção de navios e bases.\n\nPreDobra significa zero tecnologia pesquisada.\n\nQuando Expansão é maior que 'Iniciando', o Nível Técnico deve estar em mínimo nível 1.
+Galaxy Tech Level Explanation		;Quão avançada é a pesquisa para todos os impérios da galáxia.\n\nIsso determina quais cascos e componentes de naves estão disponíveis para a construção de naves e bases.\n\nPreDobra significa zero tecnologia pesquisada.\n\nQuando Expansão é maior que 'Iniciando' então o nível técnico deve ser pelo menos nível 1.
 Starting Location		;Local inicial
 Starting Location Explanation		;A localização inicial aproximada do seu império na galáxia.\n\nEsta não é uma configuração precisa. Ele simplesmente determina a região da galáxia onde seu sistema doméstico está localizado.\n\nEsta área é indicada por um sombreamento azul na visualização da galáxia abaixo.
 Starting Location Description		;{1} localização inicial em {0} galáxia
@@ -3243,7 +3243,7 @@ Trending Up Explanation		;Tendência para cima em {0} por ano
 Trending Down Explanation		;Tendência para baixo em {0} por ano
 Trending None Explanation		;Valor estático (sem tendência)
 Proximity		;Proximidade
-Feeling		;Sentindo-me
+Feeling		;Sentimento
 Empires only		;Apenas impérios
 Independent Colonies only		;Apenas colônias independentes
 Pirate Factions only		;Apenas facções piratas
