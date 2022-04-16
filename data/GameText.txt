@@ -57,9 +57,9 @@ ShipMission Description Capture Prepare		;Preparar e Capturar {0}
 ShipMission Description Capture Prepare Waypoint		;Capturar {0} (Ponto de passagem em {1})
 ShipMission Description Capture Prepare Refuel		;Capturar {0} (reabastecer em {1})
 ShipMission Description Colonize		;Colonize {0}
-ShipMission Description Escape Target		;Fuga de {0}
-ShipMission Description Escape Destination		;Fuga para {0}
-ShipMission Description Escape		;Fuga
+ShipMission Description Escape Target		;Fuja de {0}
+ShipMission Description Escape Destination		;Fugir para {0}
+ShipMission Description Escape		;Fuja
 ShipMission Description Escort		;Escolte {0}
 ShipMission Description Explore		;Explore {0}
 ShipMission Description ExploreSystem		;Explore {0} sistema ({1})
