@@ -363,7 +363,7 @@
     <MaximumBuildCountPerGalaxy>-1</MaximumBuildCountPerGalaxy>
     <MaximumBuildCountPerEmpire>-1</MaximumBuildCountPerEmpire>
     <AchievementRaceId>-1</AchievementRaceId>
-    <PlanetaryShieldMaximumDamageAbsorbed>350000</PlanetaryShieldMaximumDamageAbsorbed>
+    <PlanetaryShieldMaximumDamageAbsorbed>35</PlanetaryShieldMaximumDamageAbsorbed>
     <PlanetaryShieldPenetrationChance>0.05</PlanetaryShieldPenetrationChance>
     <WeaponComponentId>-1</WeaponComponentId>
     <AllowTroopInfantryCloning>false</AllowTroopInfantryCloning>
@@ -384,7 +384,7 @@
     <MaximumBuildCountPerGalaxy>-1</MaximumBuildCountPerGalaxy>
     <MaximumBuildCountPerEmpire>-1</MaximumBuildCountPerEmpire>
     <AchievementRaceId>-1</AchievementRaceId>
-    <PlanetaryShieldMaximumDamageAbsorbed>700000</PlanetaryShieldMaximumDamageAbsorbed>
+    <PlanetaryShieldMaximumDamageAbsorbed>70</PlanetaryShieldMaximumDamageAbsorbed>
     <WeaponComponentId>-1</WeaponComponentId>
     <AllowTroopInfantryCloning>false</AllowTroopInfantryCloning>
     <FacilityFamilyId>8</FacilityFamilyId>
