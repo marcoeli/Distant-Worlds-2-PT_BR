@@ -264,8 +264,8 @@ GameTaskType BuildShips Anywhere		;Construa navios por {0} créditos
 GameTaskType BuildShips Anywhere List		;Construa navios por {0} créditos:\n{1}
 GameTaskType BuildShips Single Multiple Designs		;Construir {0} a partir do design selecionado
 
-GameTaskType BuildShips Multiple Designs		;Multiple {0} designs available - click to select
-GameTaskType TransferTroopToShip Multiple		;Transfer {0} to nearby transport - click to select
+GameTaskType BuildShips Multiple Designs		;Múltiplos {0} projetos disponíveis - clique para selecionar
+GameTaskType TransferTroopToShip Multiple		;Transferir {0} para transporte nas proximidades - clique para selecionar
 
 X x ROLE (DESIGN)		;{0} x {1} ({2})
 GameTaskType ColonyTaxUp		;Aumentar Imposto {0} para {1}%
@@ -279,7 +279,7 @@ GameTaskType DiplomaticTreatyOffer ResourceSupply		;Oferecer contrato de suprime
 GameTaskType DisbandFleet		;Dissolver frota ({0})
 GameTaskType DisbandTroop		;Dissolver unidade de tropa ({0})
 GameTaskType DisbandTroop Multiple		;Dissolver tropas
-GameTaskType ScrapShip		;Correr {0}
+GameTaskType ScrapShip		;Descartar {0}
 GameTaskType FighterBuildFighter		;Construir {0} ({1})
 GameTaskType FighterLaunchFighters		;Lançar todos  os {0}s de {1}
 GameTaskType FighterRetrieveFighters		;Recupere todos os {0}s para {1}
@@ -702,9 +702,9 @@ CommerceTradeBonus		;Bônus de negociação
 ComponentCountermeasuresBonus		;Contramedidas de armas
 ComponentIonDefense		;Componente de Defesa Iônica
 ComponentTargetingBonus		;Mira de Arma
-ConstructionBuildSpeed		;Velocidade de construção
-ConstructionRepairSpeed		;Velocidade de reparo
-ConstructionYardCount		;Estaleiros de construção
+ConstructionBuildSpeed		;Vel. Construção
+ConstructionRepairSpeed		;Vel. Reparo
+ConstructionYardCount		;Estaleiros de Construção
 CountermeasuresBonus		;Contramedidas
 CountermeasuresFleetBonus		;Contramedidas da Frota
 CrewCapacity		;Cap. Tripulação
@@ -1535,7 +1535,7 @@ IncomeType Tourism		;Turismo
 IncomeType ShipBuilding		;Construção Naval
 IncomeType Discoveries		;Descobertas
 IncomeType TradeBonuses		;Bônus de negociação
-IncomeType PrivateColonyRevenue		;Receita da colônia privada
+IncomeType PrivateColonyRevenue		;Receita Privada
 
 IncomeType ColonyTax Explanation		;As taxas de impostos são estabelecidas para colônias individuais. A renda tributária é coletada da renda privada da colônia à taxa estabelecida. As altas taxas de impostos reduzem a felicidade e o crescimento lento da colônia. Taxas de impostos 
 IncomeType ResourceTrading Explanation		;Seu império venderá automaticamente recursos excedentes para outros impérios quando você tiver um acordo de comércio restrito, limitado ou livre com eles. Colônias e comerciantes independentes também comprarão recursos em excesso de você
@@ -1755,7 +1755,7 @@ State Ships Under Construction		;Navios do Governo em construção
 Civilian Ships Under Construction		;Navios civis em construção
 Spaceports		;Espaçoportos
 Wait Time		;Tempo de espera
-Build Speed		;Velocidade de construção
+Build Speed		;Vel. Construção
 Repair Speed		;Velocidade de reparo
 Bases		;Bases
 Target already part of our empire		;Alvo já faz parte do nosso império
@@ -2238,7 +2238,7 @@ No Buildable Designs		;Nenhum design edificável
 No Buildable Designs for ROLE		;Nenhum design edificável para {0}
 No Buildable Designs Explanation		;Você deve primeiro pesquisar um casco de navio para esta função e, em seguida, criar um design que use o casco de navio
 
-Cannot cancel crash programs		;Não é possível cancelar programas de travamento
+Cannot cancel crash programs		;Não é possível cancelar programas de impacto
 Under Attack		;Sob ataque
 X is under attack from ATTACKER		;{0} está sob ataque de um {1}!
 X Y is under attack from ATTACKER		;{0} {1} está sob ataque de um {2}!
@@ -2409,7 +2409,7 @@ Abandoned Base Repaired		;Base abandonada reparada
 
 ShipCaptureCondition Always		;Sempre
 ShipCaptureCondition Never		;Nunca
-ShipCaptureCondition WhenHighTechOrLargerThanCanBuild		;Quando alta tecnologia ou maior do que pode construir
+ShipCaptureCondition WhenHighTechOrLargerThanCanBuild		;Quando for de alta tecnologia ou maior do que pode construir
 ShipCaptureCondition WhenStrongerThanTarget		;Quando mais forte que o alvo
 
 BaseCaptureCondition Always		;Sempre
@@ -2421,15 +2421,15 @@ BaseCaptureCondition WhenStrongerThanTarget		;Quando mais forte que o alvo
 ShipCaptureEnlistment Always		;Sempre
 ShipCaptureEnlistment Never		;Nunca
 ShipCaptureEnlistment WhenHighTechOrLargerThanCanBuild		;Quando alta tecnologia ou maior do que pode construir
-ShipCaptureEnlistment WhenNOTHighTechOrLargerThanCanBuild		;Quando NÃO HighTech ou maior do que pode construir
+ShipCaptureEnlistment WhenNOTHighTechOrLargerThanCanBuild		;Quando NÃO houver alta tecnologia ou maior do que pode construir
 
 ShipCaptureDisassemble AlwaysDisassembleAtBaseForTechAndResources		;Sempre desmonte na base para obter tecnologia e recursos
 ShipCaptureDisassemble AlwaysImmediatelyScrapForMoney		;Sempre imediatamente sucata por dinheiro
-ShipCaptureDisassemble DisassembleAtBaseWhenHighTechOrLargerThanCanBuildOtherwiseImmediatelyScrapForMoney		;Desmonte na base quando alta tecnologia ou maior do que pode construir, caso contrário, descarte imediatamente por dinheiro
+ShipCaptureDisassemble DisassembleAtBaseWhenHighTechOrLargerThanCanBuildOtherwiseImmediatelyScrapForMoney		;Desmonte na base quando for de alta tecnologia ou maior do que pode construir, caso contrário, descarte imediatamente por dinheiro
 
 BaseCaptureEnlistment Always		;Sempre
 BaseCaptureEnlistment Never		;Nunca
-BaseCaptureEnlistment ScrapWhenNotResearchStation		;Estação de pesquisa de sucata quando não
+BaseCaptureEnlistment ScrapWhenNotResearchStation		;Sucatear Estação de Pesquisa quando não
 
 CharacterHandlingBehavior CaptureIfEnemyReturnHomeIfOther		;Capture se for inimigo, volte para casa se for outro
 CharacterHandlingBehavior ReturnHome		;Voltar para casa
@@ -2586,7 +2586,7 @@ We have discovered a valuable artifact		;Descobrimos o {0}, um artefato valioso.
 We have discovered a valuable artifact Short		;Descobrimos o {0}, um artefato valioso
 Valuable Artifact Discovered		;Artefato valioso descoberto
 
-New Resource Discovered		;Novo recurso descoberto
+New Resource Discovered		;Novo Recurso Descoberto
 
 We have discovered a lost colony of RACE		;Descobrimos uma colônia perdida de {0}s em {1} {2} {3} no sistema {4}.
 The inhabitants have welcomed us and we have claimed the colony for our empire		;Os habitantes nos acolheram e reivindicamos a colônia para nosso império.
@@ -2600,7 +2600,7 @@ Enlist Military Ship		;Alistar Navio Militar
 Disassemble Military Ship		;Desmontar Navio Militar
 Enlist Civilian Ship		;Alistar Navio Civil
 Disassemble Civilian Ship		;Desmontar Navio Civil
-Enlist Base		;Base de Alistamento
+Enlist Base		;Alistar base
 Upgrade Enlisted Military Ships		;Aprimorar Navios Militares Alistados
 Upgrade Enlisted Civilian Ships		;Aprimorar Navios Civis Alistados
 Characters at Conquered Colonies or Bases		;Personagens em colônias ou bases conquistadas
@@ -2612,7 +2612,7 @@ Colony Tax Rates		;Imposto da colônia
 Colonies and Tax Rates		;Colônias e Impostos
 Stock Levels at Colonies and Bases		;Níveis de Estoque em Colônias e Bases
 Offering Gifts		;Oferta de Presentes
-Negotiating Treaties		;Negociação de tratados
+Negotiating Treaties		;Negociação de Tratados
 Starting and Ending Wars		;Início e Fim de Guerras
 Colony Population Policies		;Políticas de população da colônia
 Planetary Facility Building		;Construção de Instalações Planetárias
@@ -2643,7 +2643,7 @@ AutomationCategory FleetPostures		;Posturas da Frota
 AutomationCategory FleetTopup		;Gestão de navios de frota
 AutomationCategory MilitaryAttack		;Ataques militares
 AutomationCategory Research		;Pesquisa
-AutomationCategory ResearchCrash		;Pesquisa de acidentes
+AutomationCategory ResearchCrash		;Pesquisa de Impacto
 AutomationCategory ShipDesigns		;Projeto de Navio e Base
 AutomationCategory TroopGeneration		;Recrutamento de tropas
 AutomationCategory FundingLevels		;Níveis de financiamento
@@ -4076,7 +4076,7 @@ New TYPE Army		;Novo exército {0}
 Damage		;Dano
 Net Tax Revenue		;Receita Fiscal Líquida
 Gross Tax Revenue		;Receita Tributária Bruta
-Crash Research Cost		;Custo de pesquisa de acidente
+Crash Research Cost		;Custo de Pesquisa de Impacto
 when research begins		;quando a pesquisa começa
 Crash Program		;Programa de impacto
 
@@ -4316,16 +4316,16 @@ Time to reenable		;Hora de reativar
 Assign Fleet Investigate Dangerous Location		;Atribua {0} para investigar ameaças relatadas em {1} (sistema {2})
 No ships available to form Fleet based on this template (FLEETTEMPLATE)		;Nenhum navio disponível para formar Frota com base neste modelo ({0})
 No designs available to build Fleet based on this template (FLEETTEMPLATE)		;Nenhum design disponível para construir Frota com base neste modelo ({0})
-Scuttle Ship		;Navio Basculante
-Scuttle Base		;Base basculante
-SHIP will be permanently scuttled		;{0} será permanentemente afundado
-Are you sure you want to scuttle SHIP		;Tem certeza de que deseja fugir {0}
+Scuttle Ship		;Descartar Navio
+Scuttle Base		;Descartar Base
+SHIP will be permanently scuttled		;{0} será permanentemente destruido
+Are you sure you want to scuttle SHIP		;Tem certeza de que deseja descartar {0}
 
 Cannot move		;Não pode se mover
 Project is already at top of queue		;O projeto já está no topo da fila
-Project above is crash researching		;O projeto acima está pesquisando falhas
+Project above is crash researching		;O projeto acima é uma pesquisa de impacto
 Project is already at bottom of queue		;O projeto já está no final da fila
-Project is crash researching		;Projeto está pesquisando acidentes
+Project is crash researching		;O projeto é uma pesquisa de impacto
 Project above is parent		;O projeto acima é pai (deve ser pesquisado primeiro)
 Project below is child		;O projeto abaixo é filho (deve ser pesquisado depois)
 
@@ -4853,7 +4853,7 @@ PolicyExplanation AutomationFleetTopup		;Automatize o carregamento de navios par
 PolicyExplanation AutomationFleetPostures		;Automatize a seleção de bases domésticas, alcances de engajamento e alvos de ataque para frotas ou controle essa área manualmente.
 PolicyExplanation MilitaryShipsNotInFleetRatio		;Especifica a proporção de navios militares que não devem ser alocados para frotas, mas devem operar por conta própria, realizando missões de Escolta e Guarda.
 PolicyExplanation AutomationResearch		;Automatize a seleção de novos projetos de pesquisa ou controle essa área manualmente.
-PolicyExplanation AutomationResearchCrash		;Automatize as decisões sobre quando realizar projetos de pesquisa de acidentes ou controle essa área manualmente. Crash research gasta dinheiro para dobrar a taxa de pesquisa de um projeto, permitindo que você adquira novas tecnologias mais cedo.
+PolicyExplanation AutomationResearchCrash		;Automatize as decisões sobre quando realizar projetos de pesquisa de impacto ou controle essa área manualmente. Pesquisa de Impacto gasta dinheiro para dobrar a taxa de pesquisa de um projeto, permitindo que você adquira novas tecnologias mais cedo.
 PolicyExplanation ResearchMaximumConcurrentProjects		;O número máximo de projetos simultâneos que podem ser pesquisados. Quando for maior que um, vários projetos podem ser pesquisados simultaneamente, dividindo sua produção de pesquisa entre esses projetos. Observe que pesquisar vários projetos simultâneos também requer várias estações de pesquisa.
 PolicyExplanation AutomationCharacterMissions		;Automatize a atribuição de missões de inteligência para seus espiões ou controle esta área manualmente. Observe que você também pode alternar a automação de caracteres individuais.
 PolicyExplanation AutomationCharacterLocations		;Automatize o movimento de seus personagens para a localização ideal ou controle essa área manualmente. Observe que você também pode alternar a automação de caracteres individuais.
