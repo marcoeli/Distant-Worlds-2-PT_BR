@@ -1654,8 +1654,8 @@ New Research Locations		;Novos locais de pesquisa
 Research Screen		;Research Screen
 All Research Bonuses		;Todos os bônus de pesquisa
 Research		;Pesquisa
-Maximum Potential Research		;Pesquisa de Potencial Máximo
-Actual Research Output		;Resultado real da pesquisa
+Maximum Potential Research		;Potencial Máximo de Pesquisa 
+Actual Research Output		;Resultado Real da Pesquisa
 Maximum Potential Research Explanation		;O potencial máximo de pesquisa do seu império aponta para a população em suas colônias e os laboratórios em suas Estações de Pesquisa. Isso inclui todos os bônus de pesquisa de locais de pesquisa.\n\nObserve que esse valor pode ser maior para alguns projetos de pesquisa em que se aplicam bônus de pesquisa mais específicos.
 Actual Research Output Explanation		;Os pontos de pesquisa reais do seu império estão disponíveis para projetos de pesquisa. Esta é a pesquisa potencial máxima modificada pelo nível de financiamento de pesquisa do seu império. Aumentar seu financiamento de pesquisa utilizará mais do seu potencial máximo de pesquisa.\n\nObserve que apenas as estações de pesquisa exigem financiamento. A produção de pesquisa de suas colônias é gratuita.
 Potential Research Sources		;{0} da população da colônia\n{1} das estações de pesquisa
