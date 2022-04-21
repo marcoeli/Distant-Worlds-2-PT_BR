@@ -1527,7 +1527,7 @@ IncomeType ColonyTax		;Imposto Colonial
 IncomeType ResourceTrading		;Negociação de recursos
 IncomeType Fuel		;Vendas de combustível
 IncomeType Information		;Informações
-IncomeType Tribute		;Homenagem recebida
+IncomeType Tribute		;Tributo recebido
 IncomeType Raiding		;Invasão
 IncomeType Missions		;Missões
 IncomeType ColonyCrime		;Crime Colonial
@@ -1584,7 +1584,7 @@ ExpenseType FacilityBuilding Explanation		;Custos de construção para novas ins
 ExpenseType ResourceTrading Explanation		;Custos para comprar recursos de outros impérios. Outros impérios venderão seus recursos excedentes para você quando você tiver um acordo de livre comércio ou um acordo de fornecimento de recursos com eles. Colônias independentes também vendem seus recursos excedentes para qualquer império
 ExpenseType Fuel Explanation		;Seu império comprará combustível de outros impérios quando seus navios atracarem em suas bases ou colônias
 ExpenseType Information Explanation		;Informações podem ser compradas de outros impérios na tela Diplomacia. Isso inclui mapas, tecnologia, locais secretos e outras informações
-ExpenseType Tribute Explanation		;Homenagem que você presta a outros impérios. Isso geralmente é de acordos de proteção com facções piratas ou presentes monetários para outros impérios.
+ExpenseType Tribute Explanation		;Tributo que você presta a outros impérios. Isso geralmente é de acordos de proteção com facções piratas ou presentes monetários para outros impérios.
 ExpenseType Missions Explanation		;Dinheiro gasto em missões secretas
 ExpenseType EnemyRaids Explanation		;Dinheiro perdido quando piratas ou outros impérios invadem as colônias ou bases do seu império
 ExpenseType PrivateGeneralExpenditure Explanation		;Despesas gerais no setor privado do seu império
