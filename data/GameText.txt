@@ -5,7 +5,7 @@ Standard Infantry		;Infantaria Padrão
 Standard Militia		;Milícia Padrão
 Standard Raider		;Assalto Padrão
 Raider		;Assalto
-Hive Raider		;Colmeia de Assalto
+Hive Raider		;Assalto das Colméias
 
 None		;None
 Escort		;Escolta
@@ -15,18 +15,18 @@ Cruiser		;Cruzador
 Capital Ship		;Encouraçado
 Planet Destroyer		;Destruidor de Planeta
 Carrier		;Porta-aviões
-Troop Transport		;Transp. de tropas
+Troop Transport		;Transp. de Tropas
 Freighter		;Cargueiro
 Small Freighter		;Pequeno Cargueiro
-Medium Freighter		;Cargueiro médio
+Medium Freighter		;Cargueiro Médio
 Large Freighter		;Grande Cargueiro
-Mining Ship		;Navio minerador
-Fuel Tanker		;Tanque de combustível
+Mining Ship		;Navio Minerador
+Fuel Tanker		;Tanque de Combustível
 Construction Ship		;Navio de construção
 Exploration Ship		;Navio de Exploração
 Passenger Ship		;Navio de Passageiros
 Colony Ship		;Navio Colônia
-Spaceport		;Porto espacial
+Spaceport		;Porto Espacial
 Small Spaceport		;Porto Espacial Pequeno
 Medium Spaceport		;Porto Espacial Médio
 Large Spaceport		;Porto Espacial Grande
@@ -93,8 +93,8 @@ ShipMission Description Transport Passengers		;Transporte de passageiros de {0} 
 ShipMission Description Transport Migrants		;Transportar migrantes de {0} para {1}
 ShipMission Description Transport Tourists		;Transportar turistas de {0} para {1}
 ShipMission Description UnloadTroops		;Descarregar tropas em {0}
-ShipMission Description ExitYard		;Deixar o estaleiro de construção
-
+ShipMission Description UnloadPassengers		;Descarregar passageiros em {0}
+ShipMission Description ExitYard		;Leave construction yard
 SYSTEMNAME system		;{0} sistema
 Quality		;Qualidade
 
@@ -321,7 +321,7 @@ GameTaskType RetrofitMultipleShips Location		;A atualizção é enviada para os 
 GameTaskType RetrofitFleet		;Atualiza frota para designs mais recentes
 GameTaskType RetrofitFleet Location		;Atualize a frota para os designs mais recentes em {0}
 GameTaskType TopupFleet		;Recarregar frota com navios
-GameTaskType ScrapPlanetaryFacility		;Sucata {0} em {1}
+GameTaskType ScrapPlanetaryFacility		;Sucatear {0} em {1}
 GameTaskType SetAsFleetLeadShip		;Definir navio {0} como líder para frota ({1})
 GameTaskType SetAttackRangeWeaker		;Postura de ataque contra alvos mais fracos: {0}
 GameTaskType SetAttackRangeStronger		;Postura de ataque contra alvos mais fortes: {0}
@@ -438,7 +438,7 @@ GameTaskType Short RetrofitMultipleShips Location		;Atualize Navios
 GameTaskType Short RetrofitFleet		;Atualize Frota
 GameTaskType Short RetrofitFleet Location		;Atualize Frota
 GameTaskType Short TopupFleet		;Completar a Frota
-GameTaskType Short ScrapPlanetaryFacility		;Sucata {0} em {1}
+GameTaskType Short ScrapPlanetaryFacility		;Sucatear {0} em {1}
 GameTaskType Short SetAsFleetLeadShip		;Definir navio principal
 GameTaskType Short SetAttackRangeWeaker		;Definir postura de ataque
 GameTaskType Short SetAttackRangeStronger		;Definir postura de ataque
@@ -1231,7 +1231,7 @@ WeaponDamageCategory IonHyperDrive		;Hiperdrive
 WeaponDamageCategory IonSensor		;Sensor
 WeaponDamageCategory IonShield		;Escudo
 WeaponDamageCategory IonWeapon		;Arma
-WeaponDamageCategory IonGeneral		;De outros
+WeaponDamageCategory IonGeneral		;Outros
 WeaponDamageCategory InterceptFighter		;Anti-Caça
 WeaponDamageCategory InterceptSeeking		;Anti-busca
 WeaponDamageCategory InterceptDirectFire		;Anti-Fogo Direto
@@ -1405,7 +1405,7 @@ FleetFormationCoherence Loose		;Solto
 FleetFormationCoherence VeryLoose		;Muito solto
 
 here	;aqui
-Right-click to X		;Clique com o botão direito do mouse para {0}
+Right-click to X		;Clique com o botão direito para {0}
 
 Cargo		;Carga
 Resource		;Recurso
@@ -2424,7 +2424,7 @@ ShipCaptureEnlistment WhenHighTechOrLargerThanCanBuild		;Quando alta tecnologia 
 ShipCaptureEnlistment WhenNOTHighTechOrLargerThanCanBuild		;Quando NÃO houver alta tecnologia ou maior do que pode construir
 
 ShipCaptureDisassemble AlwaysDisassembleAtBaseForTechAndResources		;Sempre desmonte na base para obter tecnologia e recursos
-ShipCaptureDisassemble AlwaysImmediatelyScrapForMoney		;Sempre imediatamente sucata por dinheiro
+ShipCaptureDisassemble AlwaysImmediatelyScrapForMoney		;Sempre sucateie por dinheiro imediatamente 
 ShipCaptureDisassemble DisassembleAtBaseWhenHighTechOrLargerThanCanBuildOtherwiseImmediatelyScrapForMoney		;Desmonte na base quando for de alta tecnologia ou maior do que pode construir, caso contrário, descarte imediatamente por dinheiro
 
 BaseCaptureEnlistment Always		;Sempre
@@ -3595,7 +3595,7 @@ Leader Other Death Description Revolution		;{0}, líder dos {1}, foi morto na ag
 Leader Other Death Description ShipCapture		;{0}, líder do {1}, foi morto durante um assalto a {2}!
 Leader Other Death Description AgentExecuted		;{0}, líder do {1}, foi capturado e executado após uma missão fracassada contra o {2}!
 
-Character ROLE Killed		;{0} Assassinado!
+Character ROLE Killed		;{0} Morto!
 Character ROLE Assassinated		;{0} Assassinado!
 
 Character LEADER Killed Other		;{0} Líder morto
@@ -3989,8 +3989,8 @@ have lain undisturbed for centuries		;permaneceram imperturbados por séculos
 are in an advanced state of decay and disrepair		;estão em estado avançado de decadência e mau estado
 date from an extremely distant past age		;data de uma era passada extremamente distante
 
-Colony Event Plague Title		;{0} Golpes!
-Colony Event Plague Title Other		;{0} Greves {1}
+Colony Event Plague Title		;{0} Ataca!
+Colony Event Plague Title Other		;{0} Ataca {1}
 Colony Event Disaster Title		;{0}!
 Colony Event Disaster Title Other		;{0} em {1}
 Colony Event Plague Description		;Um surto mortal de {0} atingiu nossa colônia {1} no sistema {2}!
@@ -4944,3 +4944,6 @@ Standard Range rendering		;Renderização de intervalo padrão
 High Dynamic Range rendering		;Renderização de alta faixa dinâmica
 
 Extended		;Extended
+Error while saving game. Check that you have enough storage space		;Erro ao salvar o jogo. Verifique se você tem espaço de armazenamento suficiente. Consulte a pasta de dados/logs para obter detalhes sobre os erros.
+Warning - Low Storage Space		;Aviso - Baixo espaço de armazenamento
+Você tem pouco espaço de armazenamento. Seu jogo pode não conseguir salvar. ;Você tem pouco espaço de armazenamento. Seu jogo pode falhar em salvar.

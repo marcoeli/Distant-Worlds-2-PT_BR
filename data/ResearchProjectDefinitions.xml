@@ -6102,7 +6102,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>128</ResearchProjectId>
-    <Name>Rede de Defesa Antimíssil</Name>
+    <Name>Rede de Defesa de Mísseis</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>3200</Size>
     <InitiationCost>
@@ -9113,7 +9113,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>183</ResearchProjectId>
-    <Name>Rede de Defesa Antimíssil Superior</Name>
+    <Name>Rede de Defesa de Míssil Superior</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>
@@ -9162,7 +9162,7 @@
   </ResearchProjectDefinition>
   <ResearchProjectDefinition>
     <ResearchProjectId>184</ResearchProjectId>
-    <Name>Defesas Antimíssil Fortificadas</Name>
+    <Name>Defesas de Míssil Fortificadas</Name>
     <ImageFilename>UserInterface/Placeholder</ImageFilename>
     <Size>25600</Size>
     <InitiationCost>

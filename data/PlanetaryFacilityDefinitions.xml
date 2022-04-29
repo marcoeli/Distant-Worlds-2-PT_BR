@@ -17,7 +17,7 @@
     <FacilityFamilyId>1</FacilityFamilyId>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Defesa Planetária Anti-míssil</Name>
+    <Name>Defesa de Míssil Planetária</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Missile Batteries</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -166,7 +166,7 @@
     <FacilityFamilyLevel>1</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Defesa Planetária Anti-míssil Mk2</Name>
+    <Name>Defesa de Míssil Planetária Mk2</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Missile Batteries</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
@@ -327,7 +327,7 @@
     <FacilityFamilyLevel>2</FacilityFamilyLevel>
     <ExclusiveWithinFamily>true</ExclusiveWithinFamily>
     <QualityBoost>0</QualityBoost>
-    <Name>Defesa Planetária Anti-míssil Mk3</Name>
+    <Name>Defesa de Míssil Planetária Mk3</Name>
     <ImageFilename>Environment/PlanetaryFacilities/Planetary Missile Batteries</ImageFilename>
   </PlanetaryFacilityDefinition>
   <PlanetaryFacilityDefinition>
