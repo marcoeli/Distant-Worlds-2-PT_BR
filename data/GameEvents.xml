@@ -17150,7 +17150,7 @@ Perdemos 5k por equipamento destruído, mas recebemos um impulso tecnológico de
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -17582,7 +17582,7 @@ Perdemos 5k por equipamento destruído, mas recebemos um impulso tecnológico de
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>1</Value1>
+        <Value1>0.5</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -23829,6 +23829,28 @@ Dizem que seus ancestrais já foram escravizados por uma espécie de guerreiros 
         <BonusAppliesTo>Undefined</BonusAppliesTo>
         <ChoiceButtonText />
         <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>DisableEvent</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>SameLocationAsEvent</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Value1>0</Value1>
+        <Value2>0</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName>Slave Mining World (Mortalen)</GeneratedItemName>
         <DelaySecondsMinimum>0</DelaySecondsMinimum>
         <DelaySecondsMaximum>0</DelaySecondsMaximum>
       </GameEventAction>
@@ -39527,7 +39549,7 @@ Agora, por causa dos erros dos alienígenas de mente pequena, fomos forçados a 
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id1>19</Id1>
-        <Value1>0.5</Value1>
+        <Value1>0.65</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -39552,7 +39574,7 @@ Agora, por causa dos erros dos alienígenas de mente pequena, fomos forçados a 
         <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
-        <Value1>0.2</Value1>
+        <Value1>0.35</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>
@@ -39589,6 +39611,75 @@ Agora, por causa dos erros dos alienígenas de mente pequena, fomos forçados a 
         <GeneratedItemEventNames>
           <string>Investigate Sub-Surface Caverns (Teekan)</string>
         </GeneratedItemEventNames>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>GenerateResourceAtOrb</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id1>67</Id1>
+        <Value1>0.5</Value1>
+        <Value2>14</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>GenerateResourceAtOrb</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id1>70</Id1>
+        <Value1>0.67</Value1>
+        <Value2>25</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
+      </GameEventAction>
+      <GameEventAction>
+        <Type>GenerateResourceAtOrb</Type>
+        <MessageTitle />
+        <Description />
+        <ImageFilepath />
+        <MusicFilepath />
+        <ActionLocationHint>GeneratedItemFromFirstAction</ActionLocationHint>
+        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationItemName />
+        <ActionLocationItemType>Undefined</ActionLocationItemType>
+        <Id1>74</Id1>
+        <Value1>0.84</Value1>
+        <Value2>9</Value2>
+        <ShipRole>Undefined</ShipRole>
+        <CharacterRole>Undefined</CharacterRole>
+        <ResearchCategory>Undefined</ResearchCategory>
+        <BonusType>Undefined</BonusType>
+        <BonusAppliesTo>Undefined</BonusAppliesTo>
+        <ChoiceButtonText />
+        <GeneratedItemName />
+        <DelaySecondsMinimum>0</DelaySecondsMinimum>
+        <DelaySecondsMaximum>0</DelaySecondsMaximum>
       </GameEventAction>
     </PlacementActions>
     <PlacementActionEventHostIndex>2</PlacementActionEventHostIndex>
@@ -39801,7 +39892,7 @@ As fontes de energia neste mundo são muito limitadas e não podemos fazer a int
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id1>2</Id1>
-        <Value1>50000000</Value1>
+        <Value1>5E+07</Value1>
         <Value2>0</Value2>
         <ShipRole>Undefined</ShipRole>
         <CharacterRole>Undefined</CharacterRole>

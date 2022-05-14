@@ -94,7 +94,8 @@ ShipMission Description Transport Migrants		;Transportar migrantes de {0} para {
 ShipMission Description Transport Tourists		;Transportar turistas de {0} para {1}
 ShipMission Description UnloadTroops		;Descarregar tropas em {0}
 ShipMission Description UnloadPassengers		;Descarregar passageiros em {0}
-ShipMission Description ExitYard		;Leave construction yard
+ShipMission Description ExitYard		;Deixar o estaleiro de construção
+
 SYSTEMNAME system		;{0} sistema
 Quality		;Qualidade
 
@@ -368,7 +369,7 @@ GameTaskType UI_ShowColonyAutomationOptions		;Definir Automação de Colônias
 GameTaskType UI_ColonyDetailScreen		;Mostrar tela de detalhes da colônia
 GameTaskType UI_ShowTroopOptions		;Gerenciar tropas
 GameTaskType UpdateShipDesign		;
-GameTaskType UpgradePlanetaryFacility		;Upgrade de {0} para {1} por {2} créditos
+GameTaskType UpgradePlanetaryFacility		;Atualização de {0} para {1} por {2} créditos
 
 GameTaskType Short AssignCharacterMission		;Atribuir missão
 GameTaskType Short AssignFleetMission		;Atribuir missão
@@ -4395,7 +4396,7 @@ ComponentCategory Description CommerceCenter		;Os Centros Comerciais permitem qu
 ComponentCategory Description Construction		;Os estaleiros de construção permitem a construção de novos navios e bases. Eles também fornecem instalações para reparo e modernização de naves e bases existentes.\n\nOs componentes do estaleiro de construção são normalmente incorporados em portos espaciais.\n\nEstaleiros de construção de alta tecnologia normalmente constroem e consertam naves mais rapidamente do que a tecnologia anterior. Alguns estaleiros de construção podem até construir vários navios simultaneamente.
 ComponentCategory Description Countermeasures		;Os componentes de contramedidas aumentam a probabilidade de evitar o disparo de armas durante o combate. Essas poderosas contramedidas eletrônicas lançam todos os tipos de armas, permitindo que você evite o fogo das armas inimigas.
 ComponentCategory Description CountermeasuresFleet		;As Contramedidas da Frota beneficiam todos os navios de uma frota, permitindo que todos os navios da frota evitem com mais eficácia o fogo das armas inimigas.
-ComponentCategory Description CrewQuarters		;Crew Quarters fornecem alojamentos para a tripulação a bordo de um navio ou base. Eles também incorporam todos os sistemas vitais de suporte à vida para a sobrevivência da tripulação.\n\nTodas as naves e bases requerem alojamentos de tripulação suficientes para acomodar os requisitos totais da tripulação para todos os componentes do projeto.
+ComponentCategory Description CrewQuarters		;Quartos da tripulação fornecem alojamentos para a tripulação a bordo de um navio ou base. Eles também incorporam todos os sistemas vitais de suporte à vida para a sobrevivência da tripulação.\n\nTodas as naves e bases requerem alojamentos de tripulação suficientes para acomodar os requisitos totais da tripulação para todos os componentes do projeto.
 ComponentCategory Description DamageControl		;Os componentes de controle de danos reduzem a quantidade de dano causado a um navio pelo fogo de armas inimigas. Isso ajuda um navio a sobreviver por mais tempo em batalha depois que seus escudos e armaduras forem penetrados.\n\nAlguns componentes de controle de danos também fornecem uma função de reparo, permitindo que seus navios realizem reparos básicos rapidamente mesmo em combate. Isso pode melhorar a capacidade de sobrevivência de seus navios militares, prolongando sua vida útil durante a batalha.
 ComponentCategory Description DockingBay		;As baías de ancoragem permitem que um navio atraque e transfira carga ou reabasteça.\n\nAs baías de ancoragem são normalmente representadas no jogo como um hangar visível externamente. Navios e caças menores podem entrar nesses hangares.
 ComponentCategory Description EnergyCollector		;Os componentes do Coletor de energia coletam energia de uma estrela próxima, reduzindo ou até eliminando a necessidade de queimar combustível em um reator para produzir energia.\n\nOs coletores de energia podem absorver energia de uma grande parte do espectro eletromagnético.
@@ -4486,11 +4487,12 @@ AttackRangeStronger		;Postura de Ataque - Alvos mais fortes
 FleetStance		;Postura de Ataque
 FleetFormationCoherence		;Formação
 EngagementRange		;Faixa de engajamento
-FleetRetreatOverwhelmed		;Retirar quando
-InvasionTactics		;Invadir colônias
-ShipRetreatOptions		;Retirar quando
-ShipRoleInFleet		;Função dentro da Frota
-FleetAllowShipRoleReassignment		;Permitir reatribuição de função de envio
+FleetEngagementRange		;Alcance do Engajamento da Frota
+FleetRetreatOverwhelmed		;Estratégia de Retirada da Frota
+InvasionTactics		;Invadir Colônias
+ShipRetreatOptions		;Retirada Quando
+ShipRoleInFleet		;Posição dentro da Frota
+FleetAllowShipRoleReassignment		;Permitir a reatribuição de cargos
 Fleet Ships Tactical Overrides		;Navios da Frota - Substituições Táticas
 FleetOverrideShipTacticsWithFleet		;As táticas da frota substituem o navio
 
@@ -4603,10 +4605,10 @@ DiplomaticStrategy Explanation Conquer		;estratégia de conquista que seu impér
 DiplomaticStrategy Explanation Defend		;Defender estratégia irá preparar-se para defesa contra a agressão antecipada do império, baseando-se na defesa contra alvos específicos deste império. Você também empreenderá uma ampla gama de missões de espionagem e possivelmente também algumas missões de sabotagem contra este império.
 DiplomaticStrategy Explanation Raid		;
 DiplomaticStrategy Explanation Neutral		;Estratégia neutra significa que é mais provável que seu império trabalhe em prol de tratados comerciais e tratados de não agressão. Você deve estar disposto a empreender uma ampla missão de espionagem contra este, mas sem missões de sabotagem.
-DiplomaticStrategy Explanation Undermine		;estratégia de minar significa que seu império empreenderá uma gama completa de missões de espionagem e sabotagem contra este império, num esforço para miná-los secretamente.
+DiplomaticStrategy Explanation Undermine		;Estratégia de minar significa que seu império empreenderá uma gama completa de missões de espionagem e sabotagem contra este império, num esforço para miná-los secretamente.
 
-DiplomaticStrategy Explanation Befriend Independent		;Seu melhorar com uma colônia independente de presentes e tratados comerciais que eles convidem sua colonização como pacífica.
-DiplomaticStrategy Explanation Conquer Independent		;Seu império se preparará para invadir e tomar uma colônia independente da força. Note que a invasão de colônias independentes incorre em uma penalidade de propriedade.
+DiplomaticStrategy Explanation Befriend Independent		;Seu império melhorará as relações com a colônia independente através de presentes e tratados comerciais até que eles convidem sua colonização pacífica.
+DiplomaticStrategy Explanation Conquer Independent		;Seu império se preparará para invadir e tomar a colônia independente pela força. Note que a invasão de colônias independentes incorre em uma penalidade de reputação.
 
 Standard Size Lists		;Listas de tamanhos padrão
 Smaller Lists		;Listas menores
@@ -4943,7 +4945,16 @@ Rendering Format		;Formato de renderização
 Standard Range rendering		;Renderização de intervalo padrão
 High Dynamic Range rendering		;Renderização de alta faixa dinâmica
 
-Extended		;Extended
+Extended		;Estendido
 Error while saving game. Check that you have enough storage space		;Erro ao salvar o jogo. Verifique se você tem espaço de armazenamento suficiente. Consulte a pasta de dados/logs para obter detalhes sobre os erros.
 Warning - Low Storage Space		;Aviso - Baixo espaço de armazenamento
-Você tem pouco espaço de armazenamento. Seu jogo pode não conseguir salvar. ;Você tem pouco espaço de armazenamento. Seu jogo pode falhar em salvar.
+You have low storage space. Your game may fail to save.		;Você tem pouco espaço de armazenamento. Seu jogo pode falhar para salvar.
+
+Apply Tactics Description - Designs in Fleet		;Aplicar estes ajustes táticos a todos os navios deste projeto nesta frota
+Apply Tactics Description - Roles in Fleet		;Aplicar estes ajustes táticos a todos os navios desta Função nesta Frota
+Apply Tactics Description - Position in Fleet		;Aplicar estes ajustes táticos a todos os navios desta Posição nesta Frota
+Apply Tactics Description - All Ships in Fleet		;Aplicar estes ajustes táticos a todos os navios desta frota
+Settings applied to X ships		;Configurações aplicadas a {0} navios
+Note that manually-controlled fleets will not automatically retreat		;Note que as frotas controladas manualmente não recuarão automaticamente. Esta configuração se aplica apenas às frotas automatizadas (Ataque, Defesa, Assalto, Invasão).
+Note that manually-controlled fleets will not engage outside of their current star system		;Observe que as frotas controladas manualmente não enfrentarão automaticamente ameaças fora de seu sistema estelar atual.
+Fleets Military Attacks Automation Explanation		;As frotas não se envolverão automaticamente em ameaças quando os ataques militares forem controlados manualmente (ver seção Militares nas configurações da Política Imperial). Assim, para que as frotas respondam automaticamente às ameaças dentro de sua Frota de Ataques Militares (Totalmente Automatizada ou Sugerida) e tenham frotas automatizadas (não a função de Frota Manual).
