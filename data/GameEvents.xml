@@ -10584,7 +10584,7 @@ A última parte da mensagem é um breve vídeo clipe do comandante da base dizen
         <ImageFilepath />
         <MusicFilepath />
         <ActionLocationHint>NearbyEmptySystem</ActionLocationHint>
-        <ActionLocationShouldBeFuelSource>false</ActionLocationShouldBeFuelSource>
+        <ActionLocationShouldBeFuelSource>true</ActionLocationShouldBeFuelSource>
         <ActionLocationItemName />
         <ActionLocationItemType>Undefined</ActionLocationItemType>
         <Id1>0</Id1>
