@@ -4981,3 +4981,9 @@ Upon acquiring SHIPNAME in the SYSTEM system we have made the following discover
 Warning - low suitability colony explanation		;ADVERTÊNCIA: colônias com adequação abaixo de 20 incorram em altos custos de suporte que podem torná-las um dreno líquido em sua economia
 Low Suitability		;Baixa Adequação
 Suitability With Race LOW		;Colonizar com {0}, BAIXA ADEQUAÇÃO: {1}
+
+Mined Location Foreign Sources Explanation		;Os locais minerados incluem locais estrangeiros \nde acordos comerciais
+includes foreign locations from trade agreements		;inclui localidades estrangeiras de acordos comerciais
+Note that this excludes fleet Fuel Tankers		;Note que isto exclui os petroleiros de combustível da frota, que se reequipam separadamente
+
+Research Advances		;Avanços da pesquisa
